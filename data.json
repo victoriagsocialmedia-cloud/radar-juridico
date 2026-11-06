@@ -1,0 +1,304 @@
+{
+  "geradoEm": "2026-11-06T17:50:00-03:00",
+  "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
+  "prazos": [
+    {"data": "2026-11-10", "rotulo": "Audiência no STF sobre a implementação do fim da escala 6x1", "area": "trabalhista", "itemId": "tra-6x1"},
+    {"data": "2026-11-12", "rotulo": "Último dia para pedir renegociação de dívidas rurais (MP 1.376/2026)", "area": "agrario", "itemId": "agr-bnb"},
+    {"data": "2026-12-15", "rotulo": "Sem decisão do Senado até aqui, vale a alíquota de 11,3% da CBS (TCU)", "area": "tributario", "itemId": "tri-cbs"},
+    {"data": "2026-12-16", "rotulo": "Entra a primeira etapa da nova jornada (42 h semanais), 60 dias após a EC 141/2026", "area": "trabalhista", "itemId": "tra-6x1"}
+  ],
+  "areas": [
+    {"id": "administrativo", "nome": "Administrativo", "url": "https://www.marcosinacio.adv.br/expertise/administrativo/",
+     "servicos": [
+       {"nome": "Abono de Permanência", "url": "https://www.marcosinacio.adv.br/servico/abono-de-permanencia"},
+       {"nome": "Conversão de Licença Prêmio em Pecúnia", "url": "https://www.marcosinacio.adv.br/servico/conversao-de-licenca-premio-em-pecunia"},
+       {"nome": "Restituição das Férias", "url": "https://www.marcosinacio.adv.br/servico/restituicao-das-ferias"},
+       {"nome": "Restituição de Contribuição Previdenciária", "url": "https://www.marcosinacio.adv.br/servico/restituicao-de-contribuicao-previdenciaria"},
+       {"nome": "Planejamento Previdenciário", "url": "https://www.marcosinacio.adv.br/servico/planejamento-previdenciario"},
+       {"nome": "Revisão de Aposentadoria e Gratificações", "url": "https://www.marcosinacio.adv.br/expertise/administrativo/"}
+     ]},
+    {"id": "aduaneiro", "nome": "Aduaneiro", "url": "https://www.marcosinacio.adv.br/expertise/aduaneiro/",
+     "servicos": [
+       {"nome": "Atuação Consultiva", "url": "https://www.marcosinacio.adv.br/servico/atuacao-consultiva"},
+       {"nome": "Contencioso Tributário Administrativo", "url": "https://www.marcosinacio.adv.br/servico/atuacao-no-contencioso-tributario-administrativo"},
+       {"nome": "Contencioso Tributário Judicial", "url": "https://www.marcosinacio.adv.br/servico/atuacao-no-contencioso-tributario-judicial"},
+       {"nome": "Recuperação de Crédito", "url": "https://www.marcosinacio.adv.br/servico/atuacao-em-processos-de-recuperacao-de-credito-administrativos-e-judiciais"}
+     ]},
+    {"id": "agrario", "nome": "Agrário", "url": "https://www.marcosinacio.adv.br/expertise/agrario/",
+     "servicos": [
+       {"nome": "Crédito rural: execução, ações revisionais e alongamento", "url": "https://www.marcosinacio.adv.br/expertise/agrario/"},
+       {"nome": "Restituição de tributos pagos indevidamente", "url": "https://www.marcosinacio.adv.br/expertise/agrario/"},
+       {"nome": "Defesa em multas ambientais", "url": "https://www.marcosinacio.adv.br/expertise/agrario/"}
+     ]},
+    {"id": "civil", "nome": "Civil", "url": "https://www.marcosinacio.adv.br/expertise/civil/",
+     "servicos": [
+       {"nome": "Ação de Alimentos", "url": "https://www.marcosinacio.adv.br/servico/acao-de-alimentos"},
+       {"nome": "Divórcio", "url": "https://www.marcosinacio.adv.br/servico/divorcio"},
+       {"nome": "Negativa de Cobertura de Plano de Saúde", "url": "https://www.marcosinacio.adv.br/servico/negativa-de-cobertura-de-plano-de-saude"},
+       {"nome": "Inventário", "url": "https://www.marcosinacio.adv.br/servico/inventario"},
+       {"nome": "Indenização por Negativação Indevida", "url": "https://www.marcosinacio.adv.br/servico/negativacao-indevida"}
+     ]},
+    {"id": "empresarial", "nome": "Empresarial", "url": "https://www.marcosinacio.adv.br/expertise/empresarial/",
+     "servicos": [
+       {"nome": "Contencioso Judicial", "url": "https://www.marcosinacio.adv.br/servico/contencioso-judicial"},
+       {"nome": "Contencioso Societário", "url": "https://www.marcosinacio.adv.br/servico/contencioso-extrajudicial-e-judicial-societario"},
+       {"nome": "Auditoria Trabalhista", "url": "https://www.marcosinacio.adv.br/servico/auditoria-trabalhista"},
+       {"nome": "Negociação Sindical", "url": "https://www.marcosinacio.adv.br/servico/negociacao-sindical"},
+       {"nome": "Restituição das Contribuições Previdenciárias de Ações Trabalhistas", "url": "https://www.marcosinacio.adv.br/servico/restituicao-das-contribuicoes-previdenciarias-decorrentes-de-acoes-trabalhistas"}
+     ]},
+    {"id": "penal-tributario", "nome": "Penal Tributário", "url": "https://www.marcosinacio.adv.br/expertise/penal-tributario/",
+     "servicos": [
+       {"nome": "Defesa em Investigações sobre Fraude Fiscal e Sonegação", "url": "https://www.marcosinacio.adv.br/expertise/penal-tributario/"},
+       {"nome": "Representação em Investigações sobre Fraudes em Notas Fiscais Eletrônicas", "url": "https://www.marcosinacio.adv.br/expertise/penal-tributario/"},
+       {"nome": "Consultoria para Regularização Tributária e Redução de Riscos Penais", "url": "https://www.marcosinacio.adv.br/expertise/penal-tributario/"}
+     ]},
+    {"id": "publico", "nome": "Público", "url": "https://www.marcosinacio.adv.br/expertise/entes-publicos/",
+     "servicos": [
+       {"nome": "Defesa em Tribunais de Contas", "url": "https://www.marcosinacio.adv.br/expertise/entes-publicos/"},
+       {"nome": "Ação de Revisão dos Repasses do FPM", "url": "https://www.marcosinacio.adv.br/expertise/entes-publicos/"},
+       {"nome": "Assessoria em Licitações e Contratos Públicos", "url": "https://www.marcosinacio.adv.br/expertise/entes-publicos/"},
+       {"nome": "Assessoria jurídica a entes públicos", "url": "https://www.marcosinacio.adv.br/expertise/entes-publicos/"}
+     ]},
+    {"id": "trabalhista", "nome": "Trabalhista", "url": "https://www.marcosinacio.adv.br/expertise/trabalhista/",
+     "servicos": [
+       {"nome": "Reclamação de horas extras", "url": "https://www.marcosinacio.adv.br/expertise/trabalhista/"},
+       {"nome": "Auditoria Trabalhista", "url": "https://www.marcosinacio.adv.br/servico/auditoria-trabalhista"},
+       {"nome": "Negociação Sindical", "url": "https://www.marcosinacio.adv.br/servico/negociacao-sindical"},
+       {"nome": "Acompanhamento em Dissídios Coletivos", "url": "https://www.marcosinacio.adv.br/servico/acompanhamento-em-dissidios-coletivos"}
+     ]},
+    {"id": "tributario", "nome": "Tributário", "url": "https://www.marcosinacio.adv.br/expertise/tributario/",
+     "servicos": [
+       {"nome": "Atuação Consultiva", "url": "https://www.marcosinacio.adv.br/servico/atuacao-consultiva"},
+       {"nome": "Contencioso Tributário Administrativo", "url": "https://www.marcosinacio.adv.br/servico/atuacao-no-contencioso-tributario-administrativo"},
+       {"nome": "Contencioso Tributário Judicial", "url": "https://www.marcosinacio.adv.br/servico/atuacao-no-contencioso-tributario-judicial"},
+       {"nome": "Recuperação de Crédito", "url": "https://www.marcosinacio.adv.br/servico/atuacao-em-processos-de-recuperacao-de-credito-administrativos-e-judiciais"}
+     ]}
+  ],
+  "itens": [
+    {
+      "id": "adm-doenca-grave", "areas": ["administrativo"], "data": "2026-10-29",
+      "titulo": "STF valida cobrança de contribuição de aposentados e pensionistas com doença grave acima do teto",
+      "resumo": "O Supremo concluiu em 29/10 o julgamento que valida a regra que reduziu a faixa de isenção da contribuição previdenciária de servidores inativos e pensionistas com doença grave ou incapacitante, nos regimes próprios. A incidência é sobre o que passa do teto do INSS (R$ 8.475,55 em 2026). Estados e municípios só aplicam se tiverem incorporado a mudança em lei própria.",
+      "porQueImporta": "Gera dúvida imediata em servidor inativo com moléstia grave. Também abre espaço para conferir contracheque e regra local.",
+      "servicos": ["Restituição de Contribuição Previdenciária", "Revisão de Aposentadoria e Gratificações", "Planejamento Previdenciário"],
+      "pauta": {"formato": ["Reels", "Carrossel"], "ideia": "Doença grave e contribuição do servidor aposentado: o que o STF decidiu e como conferir o contracheque."},
+      "oportunidade": 3,
+      "atencao": "A matéria-fonte oscila ao descrever a faixa de incidência (excedente do teto ou a partir do primeiro real acima dele). Conferir a tese no site do STF antes de publicar números.",
+      "fonte": {"nome": "Mix Vale (02/11)", "url": "https://www.mixvale.com.br/2026/11/02/desconto-na-aposentadoria-do-inss-decisao-do-stf-mantem-cobranca-sobre-servidor-com-doenca-grave-acima-do-teto/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adm-licenca-premio", "areas": ["administrativo"], "data": "2026-11-03",
+      "titulo": "STF confirma suspensão de norma de Pernambuco que permitia converter férias e licença-prêmio em dinheiro",
+      "resumo": "Em sessão virtual encerrada em 03/11, o Plenário referendou por unanimidade a liminar do ministro André Mendonça (ADI 7937). A norma foi suspensa por vício de iniciativa: a mudança partiu do Legislativo estadual, mas o regime e a remuneração dos servidores são de iniciativa do Executivo.",
+      "porQueImporta": "A discussão é sobre quem pode criar a regra, não sobre o direito à indenização em si. Serve para explicar ao servidor que o caminho muda conforme o ente.",
+      "servicos": ["Conversão de Licença Prêmio em Pecúnia", "Restituição das Férias"],
+      "pauta": {"formato": ["Reels", "Stories"], "ideia": "Licença-prêmio não gozada vira dinheiro? O que a decisão do STF diz (e não diz) sobre o seu caso."},
+      "oportunidade": 3,
+      "fonte": {"nome": "STF Notícias", "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-norma-de-pernambuco-que-permitia-conversao-de-ferias-e-licenca-premio-em-dinheiro-para-servidores/"},
+      "confianca": "primaria"
+    },
+    {
+      "id": "adu-blusinhas", "areas": ["aduaneiro"], "data": "2026-09-04", "evergreen": true,
+      "titulo": "MP que mantém Imposto de Importação zerado até US$ 50 foi aprovada no Senado",
+      "resumo": "Desde 12/05/2026 o Imposto de Importação federal está zerado em compras de até US$ 50 em plataformas do Remessa Conforme. O ICMS continua. Entre US$ 50,01 e US$ 3 mil, segue a alíquota de 60% com desconto equivalente a US$ 30. O texto previa também limites de frequência contra fracionamento de compras. À época, seguia para sanção.",
+      "porQueImporta": "Importadores e lojistas precisam saber em qual faixa a operação cai e quais critérios podem ser usados contra fracionamento.",
+      "servicos": ["Atuação Consultiva"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Compras internacionais: como ficam as faixas de tributação e o risco de fracionar pedidos."},
+      "oportunidade": 2,
+      "atencao": "Notícia de setembro. Confirmar a sanção e eventuais portarias antes de usar como pauta.",
+      "fonte": {"nome": "Forbes Brasil (04/09)", "url": "https://forbes.com.br/forbes-money/2026/09/taxa-das-blusinhas-veja-como-ficam-as-compras-internacionais/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adu-drawback", "areas": ["aduaneiro"], "data": "2026-07-10", "evergreen": true,
+      "titulo": "Drawback em 2027: novas condições para suspender CBS e IBS",
+      "resumo": "Em 2026 nada muda na prática. A partir de 01/01/2027, a suspensão de CBS exige indicadores financeiros mínimos, limite de saldo suspenso, controle de estoque acessível ao Fisco e certidões negativas em dia. O drawback isenção perde vantagem porque a CBS passa a incidir na reposição de estoque.",
+      "porQueImporta": "Exportadores têm até dezembro para revisar atos concessórios, certidões e classificação nas declarações.",
+      "servicos": ["Atuação Consultiva"],
+      "pauta": {"formato": ["Carrossel", "Estático"], "ideia": "Checklist de fim de ano para quem usa drawback antes da CBS chegar."},
+      "oportunidade": 2,
+      "atencao": "Artigo de consultoria de comércio exterior, de julho. Conferir o decreto citado antes de publicar.",
+      "fonte": {"nome": "JCComex (10/07)", "url": "https://jccomex.com.br/2026/07/10/drawback-2026-reforma-tributaria-exportacao/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "agr-bnb", "areas": ["agrario"], "data": "2026-10-26",
+      "titulo": "Produtor rural tem até 12/11 para pedir renegociação de dívidas no Banco do Nordeste",
+      "resumo": "A renegociação autorizada pela MP 1.376/2026 vale para mais de 100 mil produtores e 117 mil operações. Exige comprovar perdas em ao menos duas safras entre 2019 e 2025 ou queda de 30% na renda bruta esperada, com laudo de profissional habilitado. O prazo de pagamento chega a dez anos, com um ano de carência. Não é perdão da dívida.",
+      "porQueImporta": "Prazo curto e documentação técnica. Produtor que perder a janela fica com a cobrança nas condições antigas.",
+      "servicos": ["Crédito rural: execução, ações revisionais e alongamento"],
+      "pauta": {"formato": ["Reels", "Stories"], "ideia": "Contagem regressiva: quem pode renegociar a dívida rural até 12/11 e que documentos reunir."},
+      "oportunidade": 3,
+      "atencao": "A notícia trata do BNB. Outros bancos podem ter prazos e regras próprios.",
+      "fonte": {"nome": "Movimento Econômico (26/10)", "url": "https://movimentoeconomico.com.br/agronegocio/2026/10/26/produtores-rurais-tem-ate-12-de-novembro-para-renegociar-dividas-no-bnb/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-ex-conjuge", "areas": ["civil"], "data": "2026-11-03",
+      "titulo": "TJ-PE: divórcio não tira da ex-cônjuge dependente o direito ao plano de saúde",
+      "resumo": "A 7ª Câmara Cível Especializada manteve, por unanimidade, a decisão que obrigou a operadora a desmembrar um plano familiar. A ex-mulher, beneficiária por mais de 30 anos, passa a ter apólice individual, com boleto separado e as mesmas condições. O tribunal aplicou, por analogia, a Resolução Normativa 195/2009 da ANS.",
+      "porQueImporta": "Pessoa divorciada que continua como dependente costuma ter medo de perder a cobertura. É dúvida frequente.",
+      "servicos": ["Negativa de Cobertura de Plano de Saúde", "Divórcio"],
+      "pauta": {"formato": ["Reels", "Stories"], "ideia": "Me divorciei. E o plano de saúde? O que um tribunal decidiu esta semana."},
+      "oportunidade": 2,
+      "atencao": "Decisão de segunda instância (TJ-PE), sem efeito vinculante.",
+      "fonte": {"nome": "Conjur (03/11)", "url": "https://conjur.com.br/2026-nov-03/divorcio-nao-afasta-direito-de-ex-conjuge-dependente-a-plano-de-saude/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-alimentos", "areas": ["civil"], "data": "2026-08-18", "evergreen": true,
+      "titulo": "STJ: pensão vitalícia fixada em escritura pública pode ser revista ou extinta",
+      "resumo": "A Terceira Turma decidiu, por unanimidade, que a previsão de alimentos vitalícios em escritura não impede revisão ou exoneração quando mudam as circunstâncias. No caso, a ex-esposa tinha qualificação, trabalhava e não comprovou incapacidade permanente.",
+      "porQueImporta": "Quem paga ou recebe pensão acordada em cartório tende a achar que o valor é imutável. A decisão mostra que não.",
+      "servicos": ["Ação de Alimentos", "Divórcio"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Pensão vitalícia em escritura não é para sempre: quando dá para pedir revisão."},
+      "oportunidade": 2,
+      "fonte": {"nome": "STJ Notícias (18/08)", "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18082026-Alimentos-vitalicios-fixados-em-escritura-publica-podem-ser-revistos-ou-extintos--decide-Terceira-Turma.aspx"},
+      "confianca": "primaria"
+    },
+    {
+      "id": "civ-dano-moral-plano", "areas": ["civil"], "data": "2026-04-15", "evergreen": true,
+      "titulo": "STJ: recusa indevida de cobertura pelo plano de saúde não gera dano moral presumido",
+      "resumo": "Manchete do portal do STJ de 15/04/2026. Só o título foi conferido nesta rodada; os termos da tese (Tema 1.365) precisam ser lidos na fonte antes de qualquer uso.",
+      "porQueImporta": "Muda o que o cliente precisa provar em ações por negativa de cobertura.",
+      "servicos": ["Negativa de Cobertura de Plano de Saúde"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Plano negou o procedimento: o que provar para pedir indenização."},
+      "oportunidade": 2,
+      "atencao": "Somente a manchete foi verificada. Ler a notícia completa do STJ antes de produzir.",
+      "fonte": {"nome": "STJ Notícias (15/04)", "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15042026-Recusa-indevida-de-cobertura-pelo-plano-de-saude-nao-gera-dano-moral-presumido.aspx"},
+      "confianca": "primaria"
+    },
+    {
+      "id": "emp-honorarios-rj", "areas": ["empresarial"], "data": "2026-11-02",
+      "titulo": "TJ-SP afasta o Tema 1.076 do STJ e fixa honorários por equidade em recuperação judicial",
+      "resumo": "A 2ª Câmara Reservada de Direito Empresarial reduziu honorários de cerca de R$ 3 milhões para R$ 20 mil na recuperação da holding da Casa do Pão de Queijo, em incidente de impugnação de crédito. Entendeu que a tese do Tema 1.076 não se aplica a processos regidos pela Lei 11.101/2005.",
+      "porQueImporta": "Define quanto pode custar perder ou desistir de incidente de crédito dentro de uma recuperação.",
+      "servicos": ["Contencioso Judicial", "Contencioso Societário"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Desistir de um incidente em recuperação judicial: o que muda no custo dos honorários."},
+      "oportunidade": 2,
+      "atencao": "Decisão de tribunal estadual, sem efeito vinculante.",
+      "fonte": {"nome": "Conjur (02/11)", "url": "https://conjur.com.br/2026-nov-02/tj-sp-afasta-tema-1-076-do-stj-e-autoriza-honorarios-por-equidade-em-rj/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "devedor-contumaz", "areas": ["empresarial", "penal-tributario"], "data": "2026-08-31", "dataLabel": "ago/2026", "evergreen": true,
+      "titulo": "Devedor contumaz não pode pedir recuperação judicial: STF valida a regra da LC 225/2026",
+      "resumo": "Na ADI 7.943, o STF validou por unanimidade a regra que impede o devedor contumaz de pedir recuperação judicial e permite à Fazenda pedir a convolação em falência. No âmbito federal, exige passivo irregular de ao menos R$ 15 milhões acima de 100% do patrimônio, reiteração em períodos consecutivos e falta de justificativa. A contumácia depende de processo administrativo com defesa em 30 dias.",
+      "porQueImporta": "Empresa em crise com dívida fiscal alta precisa se regularizar ou negociar antes do enquadramento.",
+      "servicos": ["Consultoria para Regularização Tributária e Redução de Riscos Penais", "Contencioso Judicial"],
+      "pauta": {"formato": ["Reels", "Carrossel"], "ideia": "Dívida com o Fisco e recuperação judicial: quando a empresa perde esse caminho."},
+      "oportunidade": 3,
+      "atencao": "A data exata do julgamento (agosto de 2026) vem de artigo de opinião de advogados; o debate segue em artigos de 01/10 e 02/11. Confirmar a data no site do STF.",
+      "fonte": {"nome": "Conjur (01/10)", "url": "https://conjur.com.br/2026-out-01/o-devedor-contumaz-e-a-recuperacao-judicial-o-que-a-decisao-do-stf-significa-para-a-empresa-em-crise/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pen-enxague", "areas": ["penal-tributario"], "data": "2026-11-04",
+      "titulo": "Operações Enxágue e Catéter bloqueiam R$ 271,5 milhões por sonegação de ICMS com empresas de fachada",
+      "resumo": "Receita Federal e Gaeco cumpriram 64 mandados de busca em 28 municípios do PR, SP, SC e RS. A investigação apura notas fiscais emitidas por empresas de fachada, que geravam créditos fictícios de ICMS no setor de subprodutos de origem animal. Crimes investigados: sonegação de ICMS, falsidade ideológica, lavagem de dinheiro e organização criminosa.",
+      "porQueImporta": "Empresas que compraram de fornecedores investigados podem ter crédito glosado e ser chamadas a explicar as operações.",
+      "servicos": ["Defesa em Investigações sobre Fraude Fiscal e Sonegação", "Representação em Investigações sobre Fraudes em Notas Fiscais Eletrônicas"],
+      "pauta": {"formato": ["Reels", "Carrossel"], "ideia": "Comprou de fornecedor investigado? Como checar a regularidade das notas antes de virar problema."},
+      "oportunidade": 3,
+      "atencao": "Tom informativo e preventivo. Não citar empresas investigadas.",
+      "fonte": {"nome": "SOT (04/11)", "url": "https://sot.inf.br/noticia/61417/receita-federal-e-gaeco-deflagram-operacoes-contra-fraude-fiscal-e-lavagem-de-dinheiro-com-bloqueio-de-r-271-milhoes"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stf-loterias-tcu", "areas": ["publico"], "data": "2026-11-02",
+      "titulo": "STF começa a julgar loterias municipais e a Secretaria de Consenso do TCU",
+      "resumo": "A pauta do Plenário a partir de 04/11 inclui a ADPF 1212, sobre leis municipais que autorizam loterias (liminar de dezembro de 2025 suspendeu a atividade, com multas diárias), e a ADPF 1183, sobre a criação da SecexConsenso no TCU, relatada pelo ministro Edson Fachin. A reportagem não traz resultado.",
+      "porQueImporta": "O resultado define se prefeituras podem explorar loterias e como gestores resolvem conflitos com o Tribunal de Contas.",
+      "servicos": ["Assessoria jurídica a entes públicos", "Defesa em Tribunais de Contas"],
+      "pauta": {"formato": ["Estático", "Stories"], "ideia": "Acompanhe: o que está em jogo para prefeituras nos julgamentos de loterias e do TCU."},
+      "oportunidade": 2,
+      "atencao": "Julgamento sem desfecho informado na fonte. Verificar o resultado no site do STF.",
+      "fonte": {"nome": "Brasil em Folhas (02/11)", "url": "https://brasilemfolhas.com.br/2026/11/stf-analisa-legalidade-de-loterias-municipais-e-atuacao-do-tcu/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-fpm", "areas": ["publico"], "data": "2026-10-30",
+      "titulo": "FPM do 3º decêndio de outubro cresce 1,9% sobre o mesmo período de 2025",
+      "resumo": "O repasse foi creditado em 30/10. Para João Pessoa, foram cerca de R$ 21,2 milhões no decêndio e R$ 719 milhões no ano, 9,48% acima do mesmo período de 2025.",
+      "porQueImporta": "Dá base de conversa com gestores sobre arrecadação e sobre conferir se os repasses estão corretos.",
+      "servicos": ["Ação de Revisão dos Repasses do FPM"],
+      "pauta": {"formato": ["Estático"], "ideia": "Número da semana: repasses do FPM e como conferir se o município recebeu o devido."},
+      "oportunidade": 1,
+      "fonte": {"nome": "Brasil 61 (30/10)", "url": "https://brasil61.com/n/joao-pessoa-recebera-cerca-de-r-21-2-milhoes-do-fpm-no-3-decendio-fpmu260046"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-tcu-saude", "areas": ["publico"], "data": "2026-07-29", "evergreen": true,
+      "titulo": "TCU dá 60 dias para o governo apurar repasses da saúde acima do teto MAC",
+      "resumo": "A decisão trata de repasses de 2023 a estados e municípios acima de R$ 1 milhão e mais de 1.000% além do parâmetro, somando R$ 43,37 milhões nos casos citados. Entre os municípios listados está Curral de Cima (PB). O Tribunal apontou falhas na justificativa de repasses classificados como emergenciais.",
+      "porQueImporta": "Gestores de municípios citados podem ser chamados a se manifestar nas apurações.",
+      "servicos": ["Defesa em Tribunais de Contas"],
+      "pauta": {"formato": ["Estático"], "ideia": "Repasses da saúde sob lupa do TCU: o que o gestor deve ter documentado."},
+      "oportunidade": 2,
+      "atencao": "O prazo de 60 dias já correu. Buscar o desdobramento antes de usar.",
+      "fonte": {"nome": "Diário do Grande ABC (29/07)", "url": "https://www.dgabc.com.br/Noticia/4338161/tcu-da-60-dias-para-que-governo-apure-repasses-acima-do-teto-para-municipios"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-6x1", "areas": ["trabalhista"], "data": "2026-11-06",
+      "titulo": "STF marca para 10/11 audiência de conciliação sobre a implementação do fim da escala 6x1",
+      "resumo": "O ministro Flávio Dino convocou a audiência para terça (10/11), às 14h, em Brasília. Só entra em debate a forma de implementar a Emenda Constitucional 141/2026 (promulgada em 16/10), sem rediscutir a redução da jornada. A CNC pede adiar a primeira etapa para outubro de 2027 (ADI 8.041) e a CNI questiona a aplicação a contratos em curso (ADI 8.042). Não há liminar.",
+      "porQueImporta": "Empresas precisam planejar escalas e acordos coletivos para a etapa de 42 horas, prevista 60 dias após a promulgação. Trabalhadores querem saber o que muda no seu contrato.",
+      "servicos": ["Auditoria Trabalhista", "Negociação Sindical", "Acompanhamento em Dissídios Coletivos", "Reclamação de horas extras"],
+      "pauta": {"formato": ["Reels", "Carrossel", "Stories"], "ideia": "Fim da 6x1: o calendário da transição e o que a empresa precisa ajustar já."},
+      "oportunidade": 3,
+      "atencao": "Reforçar nos stories o resultado da audiência após 10/11.",
+      "fonte": {"nome": "TVT News (06/11)", "url": "https://tvtnews.com.br/stf-marca-audiencia-conciliacao-fim-escala-6x1/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-cbs", "areas": ["tributario"], "data": "2026-11-04",
+      "titulo": "TCU aprova alíquota de referência da CBS de 11,3% para 2027, acima da estimativa da Fazenda",
+      "resumo": "A matéria segue para o Senado. Sem deliberação até 15/12, vale o percentual do TCU. A Fazenda estima alíquota efetiva média abaixo de 8,5%. O split payment começa facultativo em agosto de 2027, e o governo prepara MP sobre o Imposto Seletivo e PEC para prorrogar o IPI.",
+      "porQueImporta": "Afeta formação de preço e planejamento de 2027 de empresas de todos os portes.",
+      "servicos": ["Atuação Consultiva"],
+      "pauta": {"formato": ["Carrossel", "Reels"], "ideia": "CBS 2027: por que a alíquota pode ser maior do que o governo disse e o que preparar agora."},
+      "oportunidade": 3,
+      "atencao": "Fonte é newsletter jurídica. Conferir a decisão do TCU antes de citar percentuais.",
+      "fonte": {"nome": "Expresso Tributário FCR (04/11)", "url": "https://news.fcrlaw.com.br/expresso/expresso-tributario-04-11-2026/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-tema-1364", "areas": ["tributario"], "data": "2026-10-14",
+      "titulo": "STJ veta crédito de PIS e Cofins sobre o ICMS pago nas compras (Tema 1.364)",
+      "resumo": "A Primeira Seção fixou, por unanimidade, que empresas do regime não cumulativo não podem apurar crédito de PIS e Cofins sobre o ICMS na aquisição de mercadorias e insumos. A restrição vale para apurações desde 01/05/2023. O acórdão saiu em 20/10 (Informativo 906).",
+      "porQueImporta": "Empresas que vinham creditando precisam revisar a apuração mensal e avaliar o passivo.",
+      "servicos": ["Atuação Consultiva", "Contencioso Tributário Judicial"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Tese do STJ fecha a porta do crédito de PIS/Cofins sobre ICMS: como revisar a apuração."},
+      "oportunidade": 2,
+      "atencao": "Tese desfavorável ao contribuinte. Abordar como alerta de revisão, não como oportunidade de restituição.",
+      "fonte": {"nome": "Mix Vale (21/10)", "url": "https://www.mixvale.com.br/2026/10/21/stj-proibe-calculo-de-creditos-de-pis-e-cofins-sobre-o-icms-de-compras/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-credito-presumido", "areas": ["tributario"], "data": "2026-10-15", "dataLabel": "out/2026 (dia não confirmado)",
+      "titulo": "STF exclui créditos presumidos de ICMS da base de cálculo do PIS e da Cofins",
+      "resumo": "Por 7 votos a 4, o Plenário entendeu que créditos presumidos de ICMS não integram receita nem faturamento. O entendimento deve valer para todos os processos em curso. Seguem pendentes no STJ o Tema 1.416 (tributação desses créditos pelo IRPJ e CSLL) e, no STF, o Tema 1.067.",
+      "porQueImporta": "Abre caminho para recuperar o que foi pago a mais por empresas com benefício fiscal de ICMS.",
+      "servicos": ["Recuperação de Crédito", "Contencioso Tributário Judicial"],
+      "pauta": {"formato": ["Reels", "Carrossel"], "ideia": "Crédito presumido de ICMS fora do PIS/Cofins: quem pode pedir de volta."},
+      "oportunidade": 3,
+      "atencao": "A fonte não informa modulação de efeitos nem a data exata (outubro). Conferir no acórdão antes de prometer restituição.",
+      "fonte": {"nome": "Agência Brasil (out/2026)", "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-retira-credito-presumido-do-icms-da-base-de-calculo-do-piscofins"},
+      "confianca": "primaria"
+    },
+    {
+      "id": "tri-multas-ibs", "areas": ["tributario"], "data": "2026-04-30", "evergreen": true,
+      "titulo": "Receita espera não aplicar multas de IBS e CBS em 2026, ano tratado como pedagógico",
+      "resumo": "A multa por obrigações acessórias pode ser aplicada a partir de agosto de 2026, três meses após o regulamento infralegal, mas a intenção declarada do Fisco é não cobrar este ano. Em 2026 valem as alíquotas-teste de 0,9% (CBS) e 0,1% (IBS).",
+      "porQueImporta": "Contexto para empresas organizarem emissão de notas e cadastros antes de 2027.",
+      "servicos": ["Atuação Consultiva"],
+      "pauta": {"formato": ["Stories"], "ideia": "Reforma tributária: o que a Receita já disse sobre multas no período de teste."},
+      "oportunidade": 1,
+      "atencao": "Notícia de abril. Confirmar se houve mudança de regra.",
+      "fonte": {"nome": "Portal da Reforma Tributária (30/04)", "url": "https://www.reformatributaria.com/iva/receita-multas-serao-aplicadas-a-partir-de-agosto-mas-contribuintes-podem-se-regularizar-ate-2027/"},
+      "confianca": "secundaria"
+    }
+  ]
+}

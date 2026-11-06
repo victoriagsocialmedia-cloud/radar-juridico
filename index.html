@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar Jurídico · Marcos Inácio Advogados</title>
+<meta name="description" content="Notícias quentes por área do direito, com pautas ligadas aos serviços do escritório.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#EDF1F4; --card:#FFFFFF; --ink:#0E2238; --muted:#52627A; --line:#D3DBE4;
+  --teal:#0B6E6E; --teal-soft:#DCEFEE; --gold:#B7791F; --gold-soft:#F6EBD3;
+  --alert:#B4372B; --alert-soft:#F8E1DE; --focus:#1F5FBF;
+  --serif:"Newsreader",Georgia,serif; --sans:"Instrument Sans",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{--paper:#0C1724; --card:#13243A; --ink:#E8EEF5; --muted:#9FB0C6; --line:#243A55;
+    --teal:#4FC3C0; --teal-soft:#123A3F; --gold:#E3A94A; --gold-soft:#3A2F17;
+    --alert:#F0877B; --alert-soft:#3C1F1D; --focus:#7FB0FF;}
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 16px/1.55 var(--sans)}
+a{color:inherit}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:4px}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+
+/* topo */
+.top{padding:28px 0 18px;display:flex;flex-wrap:wrap;gap:16px 32px;align-items:flex-end;justify-content:space-between}
+.top h1{margin:0;font:600 clamp(1.9rem,4vw,2.8rem)/1.05 var(--serif);letter-spacing:-.01em}
+.top p{margin:6px 0 0;color:var(--muted);max-width:52ch}
+.stamp{font-size:.85rem;color:var(--muted);text-align:right}
+.stamp b{color:var(--ink);font-weight:600}
+
+/* régua de prazos */
+.rule{margin:6px 0 24px;background:var(--ink);color:var(--paper);border-radius:14px;padding:18px 20px 20px}
+@media (prefers-color-scheme:dark){.rule{background:#13243A;color:var(--ink);border:1px solid var(--line)}}
+.rule h2{margin:0 0 14px;font:600 1.1rem/1.2 var(--serif)}
+.rule ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+.rule li{border-top:3px solid var(--gold);padding-top:10px}
+.rule li.urgent{border-top-color:#F0877B}
+.rule .when{display:block;font-weight:600;font-size:.95rem}
+.rule .count{font-size:.8rem;opacity:.8}
+.rule button{all:unset;display:block;cursor:pointer;font-size:.9rem;margin-top:4px;line-height:1.4}
+.rule button:hover{text-decoration:underline}
+.rule button:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.rule .none{opacity:.8;font-size:.95rem}
+
+/* controles */
+.bar{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;justify-content:space-between;margin-bottom:18px}
+.seg{display:inline-flex;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:3px}
+.seg button{border:0;background:none;padding:7px 16px;border-radius:999px;font-weight:500;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+@media (prefers-color-scheme:dark){.seg button[aria-pressed="true"]{background:var(--teal);color:#06201F}}
+.check{display:inline-flex;gap:8px;align-items:center;color:var(--muted);font-size:.92rem;cursor:pointer}
+.check input{width:18px;height:18px;accent-color:var(--teal)}
+
+/* layout */
+.layout{display:grid;grid-template-columns:230px 1fr;gap:28px;align-items:start;padding-bottom:56px}
+nav.areas{position:sticky;top:12px}
+nav.areas ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px}
+nav.areas button{width:100%;display:flex;justify-content:space-between;align-items:center;gap:10px;text-align:left;background:none;border:0;padding:9px 12px;border-radius:10px;color:var(--ink)}
+nav.areas button:hover{background:var(--card)}
+nav.areas button[aria-selected="true"]{background:var(--card);box-shadow:inset 3px 0 0 var(--teal);font-weight:600}
+.n{min-width:26px;text-align:center;font-size:.8rem;font-weight:600;padding:1px 8px;border-radius:999px;background:var(--line);color:var(--muted)}
+.n.on{background:var(--teal);color:#fff}
+@media (prefers-color-scheme:dark){.n.on{color:#06201F}}
+@media (max-width:860px){
+  .layout{grid-template-columns:1fr;gap:16px}
+  nav.areas{position:static;overflow-x:auto;margin:0 -20px;padding:0 20px 6px}
+  nav.areas ul{flex-direction:row;gap:6px;width:max-content}
+  nav.areas button{white-space:nowrap;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:7px 14px}
+  nav.areas button[aria-selected="true"]{box-shadow:none;background:var(--ink);color:var(--paper)}
+  .stamp{text-align:left}
+}
+
+/* conteúdo */
+.sect-title{font:600 1.5rem/1.2 var(--serif);margin:0 0 4px}
+.sect-sub{margin:0 0 18px;color:var(--muted)}
+.cards{display:flex;flex-direction:column;gap:18px}
+article.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px 24px}
+article.card.deadline{border-left:5px solid var(--alert)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font-size:.85rem;color:var(--muted);margin-bottom:8px}
+.tag{font-size:.78rem;font-weight:600;padding:2px 9px;border-radius:999px;background:var(--line);color:var(--muted)}
+.tag.area{background:var(--teal-soft);color:var(--teal)}
+.tag.prim{background:var(--teal-soft);color:var(--teal)}
+.tag.sec{background:var(--gold-soft);color:var(--gold)}
+article.card h3{margin:0 0 10px;font:600 1.3rem/1.25 var(--serif);max-width:60ch}
+article.card p{margin:0 0 10px;max-width:68ch}
+.why{color:var(--muted)}
+.why b{color:var(--ink);font-weight:600}
+.svc{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.svc a{font-size:.88rem;text-decoration:none;border:1px solid var(--teal);color:var(--teal);padding:3px 11px;border-radius:999px}
+.svc a:hover{background:var(--teal-soft)}
+.pauta{background:var(--paper);border-radius:10px;padding:14px 16px;margin-top:12px;display:grid;gap:8px}
+.pauta .row{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;justify-content:space-between}
+.pauta .idea{margin:0;font-weight:500}
+.fmt{display:flex;gap:6px;flex-wrap:wrap}
+.fmt span{font-size:.78rem;font-weight:600;padding:2px 9px;border-radius:6px;border:1px solid var(--line);color:var(--muted);background:var(--card)}
+.opp{display:inline-flex;align-items:center;gap:8px;font-size:.85rem;font-weight:600}
+.opp i{display:inline-flex;gap:3px}
+.opp i b{width:16px;height:8px;border-radius:2px;background:var(--line)}
+.opp.o1 i b:nth-child(-n+1),.opp.o2 i b:nth-child(-n+2){background:var(--gold)}
+.opp.o3 i b{background:var(--alert)}
+.copy{border:1px solid var(--line);background:var(--card);border-radius:8px;padding:5px 12px;font-size:.85rem;font-weight:500}
+.copy:hover{border-color:var(--teal);color:var(--teal)}
+.warn{margin-top:12px;font-size:.88rem;color:var(--ink);background:var(--gold-soft);border-radius:8px;padding:9px 12px}
+.src{font-size:.88rem;margin-top:12px}
+.empty{background:var(--card);border:1px dashed var(--line);border-radius:14px;padding:26px;color:var(--muted)}
+.empty b{color:var(--ink)}
+details.ctx{margin-top:26px}
+details.ctx>summary{cursor:pointer;font:600 1.15rem/1.3 var(--serif);padding:6px 0}
+details.ctx .cards{margin-top:14px}
+
+/* visão geral */
+.stats{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin-bottom:24px}
+.stats h3{margin:0 0 14px;font:600 1.2rem/1.2 var(--serif)}
+.brow{display:grid;grid-template-columns:130px 1fr 56px;gap:12px;align-items:center;padding:5px 0;border:0;background:none;width:100%;text-align:left;border-radius:8px}
+.brow:hover{background:var(--paper)}
+.track{height:12px;background:var(--line);border-radius:6px;overflow:hidden}
+.track span{display:block;height:100%;background:var(--teal);border-radius:6px}
+.brow .v{font-weight:600;text-align:right}
+.hot{display:grid;gap:10px}
+.hot button{all:unset;cursor:pointer;display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;padding:12px 14px;background:var(--card);border:1px solid var(--line);border-radius:12px}
+.hot button:hover{border-color:var(--teal)}
+.hot button:focus-visible{outline:3px solid var(--focus)}
+.hot .t{font:600 1.05rem/1.3 var(--serif)}
+.hot .m{font-size:.84rem;color:var(--muted)}
+footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--muted);font-size:.86rem}
+footer p{margin:0 0 8px;max-width:80ch}
+.err{background:var(--alert-soft);color:var(--alert);padding:16px;border-radius:12px;margin:24px 0}
+@media (prefers-reduced-motion:no-preference){.track span{transition:width .5s ease}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Radar Jurídico</h1>
+      <p>Notícias quentes por área, cada uma ligada a um serviço da Marcos Inácio Advogados, com sugestão de pauta.</p>
+    </div>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <section class="rule" aria-labelledby="rule-h">
+    <h2 id="rule-h">Datas que se aproximam</h2>
+    <ol id="rule"></ol>
+  </section>
+
+  <div class="bar">
+    <div class="seg" role="group" aria-label="Período">
+      <button type="button" data-p="hoje" aria-pressed="false">Hoje</button>
+      <button type="button" data-p="semana" aria-pressed="false">Semana</button>
+      <button type="button" data-p="mes" aria-pressed="false">Mês</button>
+    </div>
+    <label class="check"><input type="checkbox" id="only3"> Só oportunidade alta</label>
+  </div>
+
+  <div class="layout">
+    <nav class="areas" aria-label="Áreas do direito"><ul id="nav" role="tablist"></ul></nav>
+    <main id="main" tabindex="-1" aria-live="polite"></main>
+  </div>
+</div>
+
+<footer><div class="wrap">
+  <p>Entram apenas notícias verificadas em fonte aberta e ligadas a um serviço listado em marcosinacio.adv.br. Notícias de fonte secundária trazem a etiqueta correspondente: confira a fonte primária antes de publicar números ou teses.</p>
+  <p>Toda pauta passa pela revisão do jurídico antes de publicar, conforme as regras de publicidade da advocacia (Provimento 205/2021 da OAB). O Previdenciário tem radar próprio.</p>
+</div></footer>
+
+<script>
+(function(){
+  var AREA_TZ='America/Sao_Paulo';
+  var state={data:null,area:'geral',periodo:'semana',only3:false};
+  var $=function(s){return document.querySelector(s)};
+
+  function el(tag,attrs,kids){
+    var e=document.createElement(tag);
+    if(attrs){for(var k in attrs){
+      if(k==='class')e.className=attrs[k];
+      else if(k==='text')e.textContent=attrs[k];
+      else if(k.indexOf('on')===0)e.addEventListener(k.slice(2),attrs[k]);
+      else if(attrs[k]!==false&&attrs[k]!=null)e.setAttribute(k,attrs[k]);
+    }}
+    (kids||[]).forEach(function(c){if(c==null)return;e.appendChild(typeof c==='string'?document.createTextNode(c):c)});
+    return e;
+  }
+  function todayStr(){return new Intl.DateTimeFormat('en-CA',{timeZone:AREA_TZ}).format(new Date())}
+  function day(s){return Date.parse(s+'T00:00:00Z')/86400000}
+  function fmt(s){var p=s.split('-');return p[2]+'/'+p[1]+'/'+p[0]}
+  function areaById(id){return state.data.areas.filter(function(a){return a.id===id})[0]}
+  function nextPrazo(it){
+    var t=day(todayStr()),best=null;
+    state.data.prazos.forEach(function(p){
+      if(p.itemId===it.id&&day(p.data)>=t&&(!best||day(p.data)<day(best.data)))best=p;
+    });
+    return best;
+  }
+  function inWindow(it){
+    if(nextPrazo(it))return true;
+    var d=day(it.data),t=day(todayStr()),span=state.periodo==='hoje'?0:state.periodo==='semana'?6:29;
+    return d<=t && d>=t-span;
+  }
+  function visible(it){return !state.only3||it.oportunidade===3}
+  function itemsFor(areaId){
+    return state.data.itens.filter(function(it){return areaId==='geral'||it.areas.indexOf(areaId)>-1});
+  }
+  function byOppThenDate(a,b){return b.oportunidade-a.oportunidade||day(b.data)-day(a.data)}
+
+  /* régua */
+  function renderRule(){
+    var ol=$('#rule');ol.textContent='';
+    var t=day(todayStr());
+    var list=state.data.prazos.filter(function(p){return day(p.data)>=t}).sort(function(a,b){return day(a.data)-day(b.data)});
+    if(!list.length){ol.appendChild(el('li',{class:'none',text:'Nenhuma data verificada pela frente. Quando surgir um prazo, ele aparece aqui.'}));return}
+    list.forEach(function(p){
+      var n=day(p.data)-t;
+      var cnt=n===0?'é hoje':n===1?'amanhã':'em '+n+' dias';
+      var li=el('li',{class:n<=7?'urgent':''},[
+        el('span',{class:'when',text:fmt(p.data)}),
+        el('span',{class:'count',text:cnt}),
+        el('button',{type:'button',text:p.rotulo,onclick:function(){go(p.area,p.itemId)}})
+      ]);
+      ol.appendChild(li);
+    });
+  }
+
+  /* navegação */
+  function renderNav(){
+    var ul=$('#nav');ul.textContent='';
+    var all=[{id:'geral',nome:'Visão geral'}].concat(state.data.areas);
+    all.forEach(function(a){
+      var cnt=itemsFor(a.id).filter(function(it){return inWindow(it)&&visible(it)}).length;
+      var b=el('button',{type:'button',role:'tab','aria-selected':String(state.area===a.id),onclick:function(){go(a.id)}},[
+        el('span',{text:a.nome}),el('span',{class:'n'+(cnt?' on':''),text:String(cnt),'aria-label':cnt+' notícias'})
+      ]);
+      ul.appendChild(el('li',{role:'presentation'},[b]));
+    });
+  }
+
+  /* card */
+  function card(it,focusId){
+    var oppLabel=['','Informativa','Boa pauta','Alta oportunidade'][it.oportunidade];
+    var np=nextPrazo(it),nd=np?day(np.data)-day(todayStr()):null;
+    var c=el('article',{class:'card'+(np&&nd<=7?' deadline':''),id:'item-'+it.id});
+    var meta=el('div',{class:'meta'},[
+      el('span',{text:it.dataLabel||fmt(it.data)})
+    ].concat(np?[el('span',{class:'tag',style:'background:var(--alert-soft);color:var(--alert)',text:'Prazo '+fmt(np.data)+(nd===0?' (hoje)':nd===1?' (amanhã)':' (em '+nd+' dias)')})]:[]).concat(it.areas.map(function(id){return el('span',{class:'tag area',text:areaById(id).nome})})).concat([
+      el('span',{class:'tag '+(it.confianca==='primaria'?'prim':'sec'),text:it.confianca==='primaria'?'Fonte primária':'Fonte secundária'})
+    ]));
+    c.appendChild(meta);
+    c.appendChild(el('h3',{text:it.titulo}));
+    c.appendChild(el('p',{text:it.resumo}));
+    c.appendChild(el('p',{class:'why'},[el('b',{text:'Por que importa: '}),it.porQueImporta]));
+    var svc=el('div',{class:'svc','aria-label':'Serviços ligados'});
+    it.servicos.forEach(function(nome){
+      var url=null;
+      it.areas.forEach(function(id){areaById(id).servicos.forEach(function(s){if(s.nome===nome)url=s.url})});
+      if(!url)url=areaById(it.areas[0]).url;
+      svc.appendChild(el('a',{href:url,target:'_blank',rel:'noopener',text:nome}));
+    });
+    c.appendChild(svc);
+    var txt='Pauta ('+it.pauta.formato.join(' / ')+'): '+it.pauta.ideia+'\nBase: '+it.titulo+' ('+it.fonte.nome+')\n'+it.fonte.url;
+    var copy=el('button',{type:'button',class:'copy',text:'Copiar pauta'});
+    copy.addEventListener('click',function(){
+      var done=function(){copy.textContent='Pauta copiada';setTimeout(function(){copy.textContent='Copiar pauta'},1800)};
+      if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(done,function(){window.prompt('Copie a pauta:',txt)})}
+      else{window.prompt('Copie a pauta:',txt)}
+    });
+    c.appendChild(el('div',{class:'pauta'},[
+      el('p',{class:'idea',text:it.pauta.ideia}),
+      el('div',{class:'row'},[
+        el('div',{class:'fmt'},it.pauta.formato.map(function(f){return el('span',{text:f})})),
+        el('span',{class:'opp o'+it.oportunidade,title:'Nota de oportunidade '+it.oportunidade+' de 3'},[
+          el('i',{'aria-hidden':'true'},[el('b'),el('b'),el('b')]),
+          document.createTextNode(oppLabel+' ('+it.oportunidade+'/3)')
+        ]),
+        copy
+      ])
+    ]));
+    if(it.atencao)c.appendChild(el('div',{class:'warn'},[el('b',{text:'Atenção: '}),it.atencao]));
+    c.appendChild(el('p',{class:'src'},[document.createTextNode('Fonte: '),el('a',{href:it.fonte.url,target:'_blank',rel:'noopener',text:it.fonte.nome})]));
+    return c;
+  }
+
+  var PER={hoje:'hoje',semana:'nos últimos 7 dias',mes:'nos últimos 30 dias'};
+
+  function renderGeral(main){
+    var t=day(todayStr());
+    var rows=state.data.areas.map(function(a){
+      var its=itemsFor(a.id).filter(function(it){return inWindow(it)&&visible(it)});
+      return {a:a,n:its.length};
+    });
+    var max=Math.max.apply(null,rows.map(function(r){return r.n}).concat([1]));
+    main.appendChild(el('h2',{class:'sect-title',text:'Visão geral'}));
+    main.appendChild(el('p',{class:'sect-sub',text:'Notícias verificadas '+PER[state.periodo]+', por área. Toque numa área para abrir a aba.'}));
+    var st=el('section',{class:'stats'},[el('h3',{text:'Volume por área'})]);
+    rows.forEach(function(r){
+      var w=Math.round(r.n/max*100);
+      var tr=el('span',{class:'track'},[el('span',{style:'width:'+w+'%'})]);
+      st.appendChild(el('button',{type:'button',class:'brow',onclick:function(){go(r.a.id)},'aria-label':r.a.nome+': '+r.n+' notícias'},[
+        el('span',{text:r.a.nome}),tr,el('span',{class:'v',text:String(r.n)})
+      ]));
+    });
+    main.appendChild(st);
+    var hot=itemsFor('geral').filter(function(it){return inWindow(it)&&visible(it)}).sort(byOppThenDate).slice(0,6);
+    main.appendChild(el('h3',{class:'sect-title',text:'Maiores oportunidades'}));
+    main.appendChild(el('p',{class:'sect-sub',text:'Ordenadas pela nota de oportunidade e, em seguida, pela data.'}));
+    if(!hot.length){main.appendChild(emptyBox());return}
+    var box=el('div',{class:'hot'});
+    hot.forEach(function(it){
+      box.appendChild(el('button',{type:'button',onclick:function(){go(it.areas[0],it.id)}},[
+        el('span',{class:'opp o'+it.oportunidade,'aria-label':'Oportunidade '+it.oportunidade+' de 3'},[el('i',{'aria-hidden':'true'},[el('b'),el('b'),el('b')])]),
+        el('span',{},[el('span',{class:'t',text:it.titulo}),el('br'),el('span',{class:'m',text:(it.dataLabel||fmt(it.data))+' · '+it.areas.map(function(i){return areaById(i).nome}).join(', ')})])
+      ]));
+    });
+    main.appendChild(box);
+  }
+
+  function emptyBox(){
+    var hint=state.periodo==='hoje'?'Experimente Semana ou Mês.':state.periodo==='semana'?'Experimente Mês.':'';
+    var extra=state.only3?' Desative “Só oportunidade alta” para ver as demais.':'';
+    return el('div',{class:'empty'},[el('b',{text:'Nenhuma novidade verificada '+PER[state.periodo]+'. '}),document.createTextNode(hint+extra)]);
+  }
+
+  function renderArea(main,focusId){
+    var a=areaById(state.area);
+    var all=itemsFor(a.id).filter(visible);
+    var inw=all.filter(inWindow).sort(function(x,y){return day(y.data)-day(x.data)});
+    var ctx=all.filter(function(it){return !inWindow(it)&&it.evergreen}).sort(function(x,y){return day(y.data)-day(x.data)});
+    main.appendChild(el('h2',{class:'sect-title',text:a.nome}));
+    var sub=el('p',{class:'sect-sub'},[document.createTextNode('Serviços do escritório nesta área: '+a.servicos.map(function(s){return s.nome}).join(', ')+'. '),el('a',{href:a.url,target:'_blank',rel:'noopener',text:'Ver a página da área'})]);
+    main.appendChild(sub);
+    if(!inw.length)main.appendChild(emptyBox());
+    else{var cards=el('div',{class:'cards'});inw.forEach(function(it){cards.appendChild(card(it,focusId))});main.appendChild(cards)}
+    if(ctx.length){
+      var d=el('details',{class:'ctx'},[el('summary',{text:'Contexto que segue valendo ('+ctx.length+')'})]);
+      var cs=el('div',{class:'cards'});ctx.forEach(function(it){cs.appendChild(card(it,focusId))});
+      d.appendChild(cs);
+      if(focusId&&ctx.some(function(i){return i.id===focusId}))d.open=true;
+      main.appendChild(d);
+    }
+  }
+
+  function render(focusId){
+    var main=$('#main');main.textContent='';
+    document.querySelectorAll('.seg button').forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.p===state.periodo))});
+    renderNav();
+    if(state.area==='geral')renderGeral(main);else renderArea(main,focusId);
+    if(focusId){var t=document.getElementById('item-'+focusId);if(t){t.scrollIntoView({block:'start'});t.querySelector('h3').setAttribute('tabindex','-1');t.querySelector('h3').focus({preventScroll:true})}}
+  }
+
+  function go(area,itemId){
+    state.area=area;
+    if(itemId){
+      var it=state.data.itens.filter(function(i){return i.id===itemId})[0];
+      if(it&&!inWindow(it)&&!it.evergreen)state.periodo='mes';
+      if(it&&!inWindow(it)&&state.periodo!=='mes')state.periodo='mes';
+    }
+    try{history.replaceState(null,'','#'+state.area+'/'+state.periodo)}catch(e){}
+    render(itemId);
+    if(!itemId)window.scrollTo({top:document.querySelector('.bar').offsetTop-10});
+  }
+
+  function init(data){
+    state.data=data;
+    var g=new Date(data.geradoEm);
+    $('#stamp').appendChild(el('span',{},['Dados atualizados em ',el('b',{text:g.toLocaleString('pt-BR',{timeZone:AREA_TZ,day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'})})]));
+    var h=location.hash.replace('#','').split('/');
+    if(h[0]&&(h[0]==='geral'||areaById(h[0])))state.area=h[0];
+    if(['hoje','semana','mes'].indexOf(h[1])>-1)state.periodo=h[1];
+    document.querySelectorAll('.seg button').forEach(function(b){b.addEventListener('click',function(){state.periodo=b.dataset.p;go(state.area)})});
+    $('#only3').addEventListener('change',function(e){state.only3=e.target.checked;render()});
+    renderRule();render();
+  }
+
+  fetch('data.json?v='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json()}).then(init).catch(function(){
+    $('#main').appendChild(el('div',{class:'err',text:'Não foi possível carregar os dados do radar. Recarregue a página em alguns instantes.'}));
+  });
+})();
+</script>
+</body>
+</html>
