@@ -86,6 +86,12 @@ footer{margin-top:20px;font-size:12px;color:var(--muted)}
 .post summary{cursor:pointer;font-weight:600;margin:8px 0}
 .post .warn{background:var(--bg);border:1px solid var(--line);border-radius:var(--r);padding:8px 14px;font-size:14px;margin:10px 0}
 .post .actions{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-top:10px;font-size:13px}
+.seo{background:var(--bg);border:1px solid var(--line);border-radius:var(--r);padding:4px 14px;margin:10px 0}
+.seo dl{margin:8px 0;display:grid;grid-template-columns:140px 1fr;gap:6px 12px;font-size:14px}
+.seo dt{font-weight:600;color:var(--muted)}.seo dd{margin:0;overflow-wrap:anywhere}
+.seo .cc{color:var(--muted);font-size:12px}
+.seo ul{margin:4px 0 8px;padding-left:18px;font-size:14px}
+@media(max-width:560px){.seo dl{grid-template-columns:1fr}}
 [hidden]{display:none!important}
 @media(max-width:560px){.top-tag{display:none}.brow{grid-template-columns:100px 1fr 30px}}
 </style>
@@ -280,10 +286,53 @@ footer{margin-top:20px;font-size:12px;color:var(--muted)}
     p.corpo.forEach(function(b){out.push(b.h?b.h:b.p);out.push('')});
     return out.join('\n').trim();
   }
+  function copyBtn(label,getTxt,ok){
+    var b=el('button',{type:'button',class:'copy',text:label});
+    b.addEventListener('click',function(){
+      var txt=getTxt();
+      var done=function(){b.textContent=ok;setTimeout(function(){b.textContent=label},1800)};
+      if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(done,function(){window.prompt('Copie:',txt)})}
+      else{window.prompt('Copie:',txt)}
+    });
+    return b;
+  }
+  function jsonLd(p){
+    var o={'@context':'https://schema.org','@graph':[
+      {'@type':'BlogPosting',headline:p.seo.titleTag,description:p.seo.metaDescription,datePublished:'AAAA-MM-DD (preencher na publicação)',author:{'@type':'Organization',name:'Marcos Inácio Advogados'},publisher:{'@type':'Organization',name:'Marcos Inácio Advogados'}},
+      {'@type':'FAQPage',mainEntity:p.seo.faq.map(function(f){return {'@type':'Question',name:f.pergunta,acceptedAnswer:{'@type':'Answer',text:f.resposta}}})}
+    ]};
+    return '<script type="application/ld+json">\n'+JSON.stringify(o,null,2)+'\n<'+'/script>';
+  }
+  function seoKit(p){
+    var q=p.seo,o=['Palavra-chave principal: '+q.palavraChave,'Palavras relacionadas: '+q.secundarias.join('; '),'Title (SEO): '+q.titleTag,'Meta description: '+q.metaDescription,'URL (slug): /'+q.slug,'','Perguntas frequentes:'];
+    q.faq.forEach(function(f){o.push('P: '+f.pergunta);o.push('R: '+f.resposta)});
+    o.push('');o.push('Links internos:');q.linksInternos.forEach(function(l){o.push('- '+l.ancora+' -> '+l.url)});
+    return o.join('\n');
+  }
+  function seoBox(p){
+    var q=p.seo;
+    var dl=el('dl',{},[
+      el('dt',{text:'Palavra-chave'}),el('dd',{text:q.palavraChave}),
+      el('dt',{text:'Relacionadas'}),el('dd',{text:q.secundarias.join(' · ')}),
+      el('dt',{text:'Title (SEO)'}),el('dd',{},[document.createTextNode(q.titleTag+' '),el('span',{class:'cc',text:'('+q.titleTag.length+'/60 caracteres)'})]),
+      el('dt',{text:'Meta description'}),el('dd',{},[document.createTextNode(q.metaDescription+' '),el('span',{class:'cc',text:'('+q.metaDescription.length+'/155 caracteres)'})]),
+      el('dt',{text:'URL sugerida'}),el('dd',{text:'/'+q.slug})
+    ]);
+    var faq=el('div',{},[el('b',{text:'Perguntas frequentes (para colocar no fim do texto)'})]);
+    q.faq.forEach(function(f){faq.appendChild(el('h4',{text:f.pergunta}));faq.appendChild(el('p',{text:f.resposta}))});
+    var ul=el('ul',{});q.linksInternos.forEach(function(l){ul.appendChild(el('li',{},[el('a',{href:l.url,target:'_blank',rel:'noopener',text:l.ancora})]))});
+    var d=el('details',{},[el('summary',{text:'Kit SEO deste texto'}),dl,faq,el('b',{text:'Links internos (para o site do escritório)'}),ul,
+      el('div',{class:'actions'},[copyBtn('Copiar kit SEO',function(){return seoKit(p)},'Kit copiado'),copyBtn('Copiar código de FAQ (JSON-LD)',function(){return jsonLd(p)},'Código copiado')])]);
+    return el('div',{class:'seo'},[d]);
+  }
   function renderBlog(main){
     var posts=(state.data.blog||[]).slice().sort(function(a,b){return day(b.data)-day(a.data)});
     main.appendChild(el('h2',{class:'sect-title',text:'Blog: textos prontos'}));
     main.appendChild(el('p',{class:'note',text:'Rascunhos em linguagem simples, escritos a partir das notícias verificadas do radar, para o blog do site. Todo texto deve ser revisado pela advogada responsável antes de publicar, respeitando o Provimento 205/2021 da OAB (sem promessa de resultado nem captação de clientela).'}));
+    var g=el('details',{class:'seo'},[el('summary',{text:'Como publicar para ter mais chance de aparecer no Google'})]);
+    var gl=el('ul',{});
+    ['Use o título SEO como título da página e uma única vez a palavra-chave no primeiro parágrafo e em um subtítulo; sem repetir à força.','Cole a meta description e a URL sugerida nos campos de SEO do blog (plugin Yoast ou Rank Math, se o site for WordPress).','Inclua as perguntas frequentes no fim do texto e, se o site permitir, o código de FAQ: ajuda o Google a mostrar a resposta direto na busca.','Coloque os links internos para as páginas dos serviços e, no fim, um convite neutro para conversar com o escritório.','Publique logo depois da notícia: quem pesquisa o tema nos primeiros dias encontra poucos textos concorrentes. Atualize o texto quando houver desdobramento.','Cadastre o site no Google Search Console, peça a indexação da nova página e compartilhe o link nas redes e no perfil do Google Meu Negócio.','Nenhuma técnica garante a primeira posição no Google: o resultado depende da concorrência e do tempo.'].forEach(function(t){gl.appendChild(el('li',{text:t}))});
+    g.appendChild(gl);main.appendChild(g);
     if(!posts.length){main.appendChild(el('div',{class:'empty'},[el('b',{text:'Nenhum texto no blog ainda.'})]));return}
     var cards=el('div',{class:'list'});
     posts.forEach(function(p){
@@ -296,6 +345,7 @@ footer{margin-top:20px;font-size:12px;color:var(--muted)}
       var body=el('div',{class:'body'});
       p.corpo.forEach(function(b){body.appendChild(b.h?el('h4',{text:b.h}):el('p',{text:b.p}))});
       det.appendChild(body);c.appendChild(det);
+      if(p.seo)c.appendChild(seoBox(p));
       if(p.revisar)c.appendChild(el('div',{class:'warn'},[el('b',{text:'Revisar antes de publicar: '}),document.createTextNode(p.revisar)]));
       var copy=el('button',{type:'button',class:'copy',text:'Copiar texto'});
       copy.addEventListener('click',function(){

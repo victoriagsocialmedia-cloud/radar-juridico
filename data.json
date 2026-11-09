@@ -337,7 +337,39 @@
           "p": "Importante: a decisão é de uma turma do STJ e trata de um caso concreto. Ela indica um caminho, mas não garante o mesmo resultado em todos os processos. Cada situação depende dos documentos e das circunstâncias."
         }
       ],
-      "revisar": "Decisão de turma (REsp 2.258.447), caso concreto. Revisar antes de publicar."
+      "revisar": "Decisão de turma (REsp 2.258.447), caso concreto. Revisar antes de publicar.",
+      "seo": {
+        "palavraChave": "plano de saúde cancelado sem aviso idoso",
+        "secundarias": [
+          "cancelamento de plano de saúde idoso",
+          "plano de saúde cancelou meu plano",
+          "dano moral plano de saúde idoso",
+          "direitos do idoso no plano de saúde"
+        ],
+        "titleTag": "Plano de saúde cancelado sem aviso: direitos do idoso",
+        "metaDescription": "O STJ decidiu que o cancelamento de plano de saúde de pessoa idosa sem aviso pode gerar dano moral. Entenda o que fazer e quais provas guardar.",
+        "slug": "plano-de-saude-cancelado-sem-aviso-idoso",
+        "faq": [
+          {
+            "pergunta": "O plano de saúde pode cancelar o contrato de um idoso sem avisar?",
+            "resposta": "Não sem a comunicação prévia devida. No caso julgado pelo STJ, o cancelamento sem aviso, que deixou a beneficiária cerca de oito meses sem cobertura, gerou indenização por danos morais."
+          },
+          {
+            "pergunta": "O idoso precisa provar o sofrimento para pedir indenização?",
+            "resposta": "Segundo a decisão da Terceira Turma do STJ, a vulnerabilidade da pessoa idosa basta para presumir o dano moral nesse tipo de situação. Cada caso, porém, é analisado individualmente."
+          },
+          {
+            "pergunta": "Que documentos guardar se o plano for cancelado?",
+            "resposta": "Mensagens, e-mails, protocolos de atendimento, comprovantes de pagamento das mensalidades e qualquer comunicação do plano sobre o cancelamento."
+          }
+        ],
+        "linksInternos": [
+          {
+            "ancora": "negativa de cobertura de plano de saúde",
+            "url": "https://www.marcosinacio.adv.br/servico/negativa-de-cobertura-de-plano-de-saude"
+          }
+        ]
+      }
     },
     {
       "id": "blog-civ-ex-conjuge",
@@ -371,7 +403,39 @@
           "p": "Se você está se divorciando e depende do plano do cônjuge, vale conversar sobre isso já na fase de acordo ou de processo, para que a cobertura de saúde não seja esquecida na partilha de direitos e obrigações."
         }
       ],
-      "revisar": "Decisão de segunda instância (TJ-PE), sem efeito vinculante. Fonte secundária (Conjur): conferir a notícia completa antes de publicar."
+      "revisar": "Decisão de segunda instância (TJ-PE), sem efeito vinculante. Fonte secundária (Conjur): conferir a notícia completa antes de publicar.",
+      "seo": {
+        "palavraChave": "divórcio plano de saúde ex-cônjuge",
+        "secundarias": [
+          "ex-esposa dependente plano de saúde",
+          "perder plano de saúde após divórcio",
+          "plano de saúde individual após separação",
+          "direito ao plano de saúde depois do divórcio"
+        ],
+        "titleTag": "Divórcio e plano de saúde: ex-cônjuge perde a cobertura?",
+        "metaDescription": "Decisão do TJ-PE garantiu plano individual a ex-esposa que era dependente havia 30 anos. Veja o que isso significa para quem se divorcia.",
+        "slug": "divorcio-plano-de-saude-ex-conjuge-dependente",
+        "faq": [
+          {
+            "pergunta": "Depois do divórcio, a ex-esposa perde o plano de saúde do marido?",
+            "resposta": "Não automaticamente. O TJ-PE manteve a decisão que obrigou a operadora a criar um plano individual para a ex-esposa, que era dependente havia mais de 30 anos."
+          },
+          {
+            "pergunta": "Essa decisão vale para todos os casos?",
+            "resposta": "Não. É uma decisão de segunda instância, que serve de referência mas não obriga outros tribunais. Cada situação depende das circunstâncias e do contrato."
+          }
+        ],
+        "linksInternos": [
+          {
+            "ancora": "Divórcio",
+            "url": "https://www.marcosinacio.adv.br/servico/divorcio"
+          },
+          {
+            "ancora": "plano de saúde",
+            "url": "https://www.marcosinacio.adv.br/servico/negativa-de-cobertura-de-plano-de-saude"
+          }
+        ]
+      }
     },
     {
       "id": "blog-civ-alimentos",
@@ -401,7 +465,39 @@
         {
           "p": "Cada caso é único. Idade, saúde, capacidade de trabalho e padrão de vida entram na conta. Se você paga ou recebe uma pensão combinada em cartório e a sua realidade mudou, o primeiro passo é reunir documentos e buscar orientação para entender as opções."
         }
-      ]
+      ],
+      "seo": {
+        "palavraChave": "pensão alimentícia vitalícia revisão",
+        "secundarias": [
+          "revisar pensão alimentícia",
+          "exoneração de pensão alimentícia ex-esposa",
+          "pensão combinada em cartório pode mudar",
+          "pensão vitalícia escritura pública"
+        ],
+        "titleTag": "Pensão vitalícia combinada em cartório pode ser revista?",
+        "metaDescription": "O STJ entende que pensão fixada em escritura pública pode ser revista ou extinta quando a situação muda. Veja o que pesa na análise.",
+        "slug": "pensao-vitalicia-escritura-publica-pode-ser-revista",
+        "faq": [
+          {
+            "pergunta": "Pensão combinada em cartório pode ser alterada?",
+            "resposta": "Sim. O STJ decidiu que a previsão de alimentos vitalícios em escritura não impede revisão ou exoneração quando as circunstâncias mudam."
+          },
+          {
+            "pergunta": "O que o juiz analisa para revisar a pensão?",
+            "resposta": "Fatores como idade, saúde, capacidade de trabalho e necessidade de quem recebe, além da condição de quem paga."
+          }
+        ],
+        "linksInternos": [
+          {
+            "ancora": "ação de alimentos",
+            "url": "https://www.marcosinacio.adv.br/servico/acao-de-alimentos"
+          },
+          {
+            "ancora": "Divórcio",
+            "url": "https://www.marcosinacio.adv.br/servico/divorcio"
+          }
+        ]
+      }
     },
     {
       "id": "blog-agr-bnb",
@@ -435,7 +531,39 @@
           "p": "O tempo é curto. Separe contratos, extratos e documentos que mostrem as perdas, e procure o profissional que fará o laudo. Cada banco pode ter regras e prazos próprios, então confirme as condições diretamente com a instituição onde está a sua dívida. Se houver dúvida sobre qual caminho seguir, uma análise jurídica do contrato antes de assinar pode evitar surpresas."
         }
       ],
-      "revisar": "Notícia trata do Banco do Nordeste; outros bancos podem ter regras próprias. Prazo de 12/11 reconfirmado em matéria do CMN (24/07). Revisar antes de publicar."
+      "revisar": "Notícia trata do Banco do Nordeste; outros bancos podem ter regras próprias. Prazo de 12/11 reconfirmado em matéria do CMN (24/07). Revisar antes de publicar.",
+      "seo": {
+        "palavraChave": "renegociação de dívidas rurais prazo",
+        "secundarias": [
+          "MP 1.376/2026",
+          "renegociar dívida rural Banco do Nordeste",
+          "dívida rural prorrogação",
+          "crédito rural renegociação perdas de safra"
+        ],
+        "titleTag": "Renegociação de dívida rural: prazo termina em 12/11",
+        "metaDescription": "Produtor rural com perdas de safra pode renegociar dívidas até 12/11 (MP 1.376/2026). Veja quem pode aderir e que documentos separar.",
+        "slug": "renegociacao-dividas-rurais-prazo-12-de-novembro",
+        "faq": [
+          {
+            "pergunta": "Até quando posso renegociar minha dívida rural?",
+            "resposta": "Segundo as notícias consultadas, o prazo para contratar as linhas de crédito da MP 1.376/2026 vai até 12 de novembro de 2026."
+          },
+          {
+            "pergunta": "Quem pode aderir à renegociação?",
+            "resposta": "Produtores e cooperativas com perdas em ao menos duas safras entre 2019 e 2025, ou queda de 30% na renda bruta esperada, com laudo de profissional habilitado."
+          },
+          {
+            "pergunta": "A renegociação perdoa a dívida?",
+            "resposta": "Não. A dívida continua, mas com novas condições: prazo de até dez anos e um ano de carência, segundo a notícia consultada."
+          }
+        ],
+        "linksInternos": [
+          {
+            "ancora": "crédito rural",
+            "url": "https://www.marcosinacio.adv.br/expertise/agrario/"
+          }
+        ]
+      }
     },
     {
       "id": "blog-tra-6x1",
@@ -469,7 +597,48 @@
           "p": "Para as empresas, o momento é de planejar escalas, rever acordos coletivos e conversar com os sindicatos. Para os trabalhadores, vale acompanhar o que será definido e guardar registros da jornada atual. As regras podem mudar depois da audiência, por isso a informação deve ser conferida novamente após o dia 10."
         }
       ],
-      "revisar": "Atualizar este texto após a audiência de 10/11 antes de publicar."
+      "revisar": "Atualizar este texto após a audiência de 10/11 antes de publicar.",
+      "seo": {
+        "palavraChave": "fim da escala 6x1",
+        "secundarias": [
+          "EC 141/2026",
+          "jornada de 42 horas semanais",
+          "fim da escala 6x1 o que muda",
+          "audiência STF escala 6x1",
+          "escala 6x1 contratos em curso"
+        ],
+        "titleTag": "Fim da escala 6x1: o que muda e o que o STF vai discutir",
+        "metaDescription": "A EC 141/2026 acabou com a escala 6x1 e o STF discute como aplicá-la. Veja o que já se sabe para empresas e trabalhadores.",
+        "slug": "fim-da-escala-6x1-o-que-muda",
+        "faq": [
+          {
+            "pergunta": "A escala 6x1 acabou?",
+            "resposta": "O fim da escala 6x1 está na Constituição pela Emenda Constitucional 141/2026, promulgada em 16 de outubro. A forma de implementação está em discussão no STF."
+          },
+          {
+            "pergunta": "O que será discutido na audiência do STF?",
+            "resposta": "A forma de implementar a mudança, em audiência de conciliação marcada para 10 de novembro. A redução da jornada em si não será rediscutida."
+          },
+          {
+            "pergunta": "Quando começa a jornada de 42 horas?",
+            "resposta": "A primeira etapa está prevista para 60 dias após a promulgação da emenda, e entidades empresariais questionam esse prazo no STF."
+          }
+        ],
+        "linksInternos": [
+          {
+            "ancora": "auditoria trabalhista",
+            "url": "https://www.marcosinacio.adv.br/servico/auditoria-trabalhista"
+          },
+          {
+            "ancora": "negociação sindical",
+            "url": "https://www.marcosinacio.adv.br/servico/negociacao-sindical"
+          },
+          {
+            "ancora": "horas extras",
+            "url": "https://www.marcosinacio.adv.br/expertise/trabalhista/"
+          }
+        ]
+      }
     },
     {
       "id": "blog-tri-credito-presumido",
@@ -500,7 +669,39 @@
           "p": "Também continuam em discussão outros temas relacionados, como a tributação desses créditos pelo Imposto de Renda e pela CSLL. O recomendado é que a empresa revise seus cálculos com apoio de um profissional antes de tomar qualquer decisão."
         }
       ],
-      "revisar": "Fonte não informa modulação de efeitos nem a data exata. Não prometer restituição. Conferir o acórdão antes de publicar."
+      "revisar": "Fonte não informa modulação de efeitos nem a data exata. Não prometer restituição. Conferir o acórdão antes de publicar.",
+      "seo": {
+        "palavraChave": "crédito presumido de ICMS PIS Cofins",
+        "secundarias": [
+          "exclusão crédito presumido ICMS base PIS Cofins",
+          "STF crédito presumido ICMS",
+          "recuperar PIS Cofins crédito presumido",
+          "tese crédito presumido ICMS"
+        ],
+        "titleTag": "Crédito presumido de ICMS fora do PIS/Cofins: decisão do STF",
+        "metaDescription": "O STF decidiu, por 7 a 4, que crédito presumido de ICMS não entra na base do PIS e da Cofins. Entenda o impacto e os pontos em aberto.",
+        "slug": "credito-presumido-icms-pis-cofins-decisao-stf",
+        "faq": [
+          {
+            "pergunta": "O crédito presumido de ICMS entra na base do PIS e da Cofins?",
+            "resposta": "Segundo o STF, por 7 votos a 4, não: o crédito presumido não é receita nem faturamento da empresa."
+          },
+          {
+            "pergunta": "Posso pedir de volta o que já paguei?",
+            "resposta": "Depende do caso e de pontos ainda em aberto, como a eventual modulação de efeitos. Vale uma análise individual dos cálculos antes de qualquer decisão."
+          }
+        ],
+        "linksInternos": [
+          {
+            "ancora": "contencioso tributário",
+            "url": "https://www.marcosinacio.adv.br/servico/atuacao-no-contencioso-tributario-judicial"
+          },
+          {
+            "ancora": "recuperação de crédito tributário",
+            "url": "https://www.marcosinacio.adv.br/servico/atuacao-em-processos-de-recuperacao-de-credito-administrativos-e-judiciais"
+          }
+        ]
+      }
     },
     {
       "id": "blog-tri-tema-1364",
@@ -531,7 +732,39 @@
           "p": "Cada empresa tem uma realidade. Vale conversar com a contabilidade e com um advogado tributarista para entender o seu caso e as alternativas disponíveis."
         }
       ],
-      "revisar": "Tese desfavorável ao contribuinte: manter tom de alerta, sem sugerir restituição."
+      "revisar": "Tese desfavorável ao contribuinte: manter tom de alerta, sem sugerir restituição.",
+      "seo": {
+        "palavraChave": "crédito de PIS e Cofins sobre ICMS nas compras",
+        "secundarias": [
+          "Tema 1.364 STJ",
+          "crédito PIS Cofins ICMS aquisição",
+          "regime não cumulativo PIS Cofins STJ",
+          "revisar apuração PIS Cofins"
+        ],
+        "titleTag": "PIS/Cofins: STJ veta crédito sobre o ICMS das compras",
+        "metaDescription": "O STJ decidiu que empresas não cumulativas não podem creditar PIS e Cofins sobre o ICMS nas compras. Veja por que revisar a apuração.",
+        "slug": "pis-cofins-credito-sobre-icms-compras-stj-tema-1364",
+        "faq": [
+          {
+            "pergunta": "Posso tomar crédito de PIS e Cofins sobre o ICMS pago nas compras?",
+            "resposta": "Não, segundo o STJ (Tema 1.364), para empresas do regime não cumulativo, em apurações desde 1º de maio de 2023."
+          },
+          {
+            "pergunta": "O que a empresa deve fazer?",
+            "resposta": "Revisar a apuração mensal com a contabilidade e um advogado tributarista, avaliando eventuais ajustes."
+          }
+        ],
+        "linksInternos": [
+          {
+            "ancora": "consultoria tributária",
+            "url": "https://www.marcosinacio.adv.br/servico/atuacao-consultiva"
+          },
+          {
+            "ancora": "contencioso tributário",
+            "url": "https://www.marcosinacio.adv.br/servico/atuacao-no-contencioso-tributario-judicial"
+          }
+        ]
+      }
     },
     {
       "id": "blog-adm-licenca-premio",
@@ -564,7 +797,39 @@
         {
           "p": "O caminho muda conforme o ente (União, estado ou município) e conforme a legislação de cada carreira. Se você tem licença-prêmio ou férias acumuladas, vale levantar o saldo, verificar o que a lei do seu órgão prevê e buscar orientação antes de tomar qualquer decisão."
         }
-      ]
+      ],
+      "seo": {
+        "palavraChave": "conversão de licença-prêmio em dinheiro",
+        "secundarias": [
+          "licença-prêmio em pecúnia servidor",
+          "férias em dinheiro servidor público",
+          "ADI 7937",
+          "STF licença-prêmio Pernambuco"
+        ],
+        "titleTag": "Licença-prêmio em dinheiro: o que o STF decidiu",
+        "metaDescription": "O STF manteve suspensa lei de Pernambuco que permitia converter licença-prêmio e férias em dinheiro. Entenda o motivo e o que o servidor pode fazer.",
+        "slug": "licenca-premio-em-dinheiro-stf-lei-pernambuco",
+        "faq": [
+          {
+            "pergunta": "Servidor pode converter licença-prêmio em dinheiro?",
+            "resposta": "Depende da legislação do ente e da carreira. O STF suspendeu uma norma de Pernambuco por vício de iniciativa, sem discutir o direito à indenização em si."
+          },
+          {
+            "pergunta": "Por que o STF suspendeu a lei?",
+            "resposta": "Porque a mudança partiu da Assembleia, mas o regime e a remuneração dos servidores devem ser propostos pelo Poder Executivo."
+          }
+        ],
+        "linksInternos": [
+          {
+            "ancora": "conversão de licença-prêmio em pecúnia",
+            "url": "https://www.marcosinacio.adv.br/servico/conversao-de-licenca-premio-em-pecunia"
+          },
+          {
+            "ancora": "Restituição das Férias",
+            "url": "https://www.marcosinacio.adv.br/servico/restituicao-das-ferias"
+          }
+        ]
+      }
     }
   ]
 }
