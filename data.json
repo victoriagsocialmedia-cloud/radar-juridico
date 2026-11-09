@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-06T17:50:00-03:00",
+  "geradoEm": "2026-11-09T07:33:01-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {"data": "2026-11-10", "rotulo": "Audiência no STF sobre a implementação do fim da escala 6x1", "area": "trabalhista", "itemId": "tra-6x1"},
@@ -172,12 +172,12 @@
     {
       "id": "emp-honorarios-rj", "areas": ["empresarial"], "data": "2026-11-02",
       "titulo": "TJ-SP afasta o Tema 1.076 do STJ e fixa honorários por equidade em recuperação judicial",
-      "resumo": "A 2ª Câmara Reservada de Direito Empresarial reduziu honorários de cerca de R$ 3 milhões para R$ 20 mil na recuperação da holding da Casa do Pão de Queijo, em incidente de impugnação de crédito. Entendeu que a tese do Tema 1.076 não se aplica a processos regidos pela Lei 11.101/2005.",
+      "resumo": "A 2ª Câmara Reservada de Direito Empresarial reduziu honorários de cerca de R$ 3 milhões para R$ 20 mil na recuperação da holding da Casa do Pão de Queijo, em incidente de impugnação de crédito. Entendeu que a tese do Tema 1.076 não se aplica a processos regidos pela Lei 11.101/2005. No mesmo período, o STJ definiu critérios para esses honorários no Tema 1.250.",
       "porQueImporta": "Define quanto pode custar perder ou desistir de incidente de crédito dentro de uma recuperação.",
       "servicos": ["Contencioso Judicial", "Contencioso Societário"],
       "pauta": {"formato": ["Carrossel"], "ideia": "Desistir de um incidente em recuperação judicial: o que muda no custo dos honorários."},
       "oportunidade": 2,
-      "atencao": "Decisão de tribunal estadual, sem efeito vinculante.",
+      "atencao": "Decisão de tribunal estadual, sem efeito vinculante. Em 04/11, a Segunda Seção do STJ fixou, no Tema 1.250 (REsp 2.090.069), que honorários em habilitação e impugnação de crédito na recuperação ou falência só cabem quando há controvérsia efetiva, com base no proveito econômico quando se discute existência ou valor do crédito e por equidade nas demais hipóteses. Fonte: STJ (04/11).",
       "fonte": {"nome": "Conjur (02/11)", "url": "https://conjur.com.br/2026-nov-02/tj-sp-afasta-tema-1-076-do-stj-e-autoriza-honorarios-por-equidade-em-rj/"},
       "confianca": "secundaria"
     },
@@ -299,6 +299,42 @@
       "atencao": "Notícia de abril. Confirmar se houve mudança de regra.",
       "fonte": {"nome": "Portal da Reforma Tributária (30/04)", "url": "https://www.reformatributaria.com/iva/receita-multas-serao-aplicadas-a-partir-de-agosto-mas-contribuintes-podem-se-regularizar-ate-2027/"},
       "confianca": "secundaria"
+    },
+    {
+      "id": "civ-idosa-plano", "areas": ["civil"], "data": "2026-10-28",
+      "titulo": "STJ: cancelamento indevido de plano de saúde de pessoa idosa gera dano moral presumido",
+      "resumo": "A Terceira Turma restabeleceu indenização de R$ 5 mil a uma beneficiária idosa cujo plano foi encerrado sem aviso prévio, deixando-a cerca de oito meses sem cobertura. Para o colegiado, a hipervulnerabilidade da pessoa idosa basta para presumir o dano moral, o que a distingue do Tema 1.365, que não presume dano moral na simples recusa de cobertura.",
+      "porQueImporta": "Orienta beneficiários idosos sobre o que fazer quando o plano é cancelado ou excluído sem comunicação adequada.",
+      "servicos": ["Negativa de Cobertura de Plano de Saúde"],
+      "pauta": {"formato": ["Reels", "Carrossel"], "ideia": "Plano cancelado sem aviso para pessoa idosa: o que o STJ entendeu e quais providências guardar."},
+      "oportunidade": 2,
+      "atencao": "Decisão de turma (REsp 2.258.447), caso concreto; não vincula automaticamente outros processos.",
+      "fonte": {"nome": "STJ (28/10)", "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/28102026-exclusao-indevida-de-idosa-de-plano-de-saude-e-condicao-suficiente-para-caracterizar-dano-moral--define-terceira.aspx"},
+      "confianca": "primaria"
+    },
+    {
+      "id": "emp-falencia-creditos", "areas": ["empresarial"], "data": "2026-11-06",
+      "titulo": "STJ: crédito trabalhista por serviço prestado na recuperação não é extraconcursal se a falência vem depois",
+      "resumo": "A Terceira Turma entendeu que créditos de trabalhadores por serviços durante a recuperação judicial, quando a falência é decretada depois, mantêm preferência trabalhista mas não ganham a classificação extraconcursal. A regra especial vale apenas para salários dos três meses anteriores à quebra, até cinco salários mínimos por trabalhador, e valores acima de 150 salários mínimos viram quirografários.",
+      "porQueImporta": "Ajuda credores e empresas em recuperação a medir a ordem de pagamento caso a recuperação termine em falência.",
+      "servicos": ["Contencioso Judicial"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Recuperação que vira falência: como fica a ordem de pagamento dos créditos trabalhistas."},
+      "oportunidade": 1,
+      "atencao": "Decisão de turma (REsp 2.268.676); a notícia do STJ não informa a data do julgamento, apenas a publicação em 06/11.",
+      "fonte": {"nome": "STJ (06/11)", "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06112026-Terceira-Turma-define-forma-de-pagamento-de-creditos-na-falencia-por-trabalho-prestado-na-recuperacao-judicial.aspx"},
+      "confianca": "primaria"
+    },
+    {
+      "id": "adu-cct-subportal", "areas": ["aduaneiro"], "data": "2026-11-04",
+      "titulo": "Receita lança novo Subportal de Controle de Carga e Trânsito para importadores",
+      "resumo": "O subportal reorganizado reúne o fluxo do controle de carga na importação por modal (aéreo, marítimo e rodoviário), das etapas de transportadores e depositários até o registro da Duimp. Também traz novo Manual do CCT Rodoviário e revisão do Manual do CCT Aéreo.",
+      "porQueImporta": "Facilita a consulta de rotinas de importação, mas a página não cria obrigações novas.",
+      "servicos": ["Atuação Consultiva"],
+      "pauta": {"formato": ["Stories"], "ideia": "Guia rápido de onde consultar o fluxo de carga na importação."},
+      "oportunidade": 1,
+      "atencao": "Novidade de orientação, sem novas obrigações ou prazos.",
+      "fonte": {"nome": "Receita Federal (04/11)", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-lanca-novo-subportal-de-controle-de-carga-e-transito-cct"},
+      "confianca": "primaria"
     }
   ]
 }
