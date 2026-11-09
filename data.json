@@ -300,5 +300,271 @@
       "fonte": {"nome": "Receita Federal (04/11)", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-lanca-novo-subportal-de-controle-de-carga-e-transito-cct"},
       "confianca": "primaria"
     }
+  ],
+  "blog": [
+    {
+      "id": "blog-civ-idosa-plano",
+      "itemId": "civ-idosa-plano",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-10-28",
+      "titulo": "Plano de saúde cancelado sem aviso: o que o STJ decidiu para quem é idoso",
+      "descricao": "Decisão recente do STJ trata do cancelamento de plano de saúde de pessoa idosa sem comunicação prévia. Entenda o que mudou na prática.",
+      "corpo": [
+        {
+          "p": "Imagine descobrir, na hora de marcar uma consulta, que o seu plano de saúde foi cancelado e que ninguém avisou. Foi isso que aconteceu com uma beneficiária idosa, que ficou cerca de oito meses sem cobertura. O caso chegou ao Superior Tribunal de Justiça (STJ), e a decisão ajuda a entender os direitos de quem passa por situação parecida."
+        },
+        {
+          "h": "O que o tribunal decidiu"
+        },
+        {
+          "p": "A Terceira Turma do STJ restabeleceu uma indenização de R$ 5 mil por danos morais à beneficiária. Para os ministros, o fato de a pessoa ser idosa e, por isso, mais vulnerável já é suficiente para que se presuma o dano. Em outras palavras, ela não precisa provar, em detalhes, o sofrimento que passou para ter direito de pedir a reparação."
+        },
+        {
+          "h": "E a recusa de cobertura, é igual?"
+        },
+        {
+          "p": "Não. O STJ já entende que, quando o plano apenas nega um procedimento, o dano moral não é presumido automaticamente: cada caso é analisado. A diferença no caso da pessoa idosa está no cancelamento feito sem aviso, que a deixou sem assistência por meses."
+        },
+        {
+          "h": "O que fazer se isso acontecer com você ou com um familiar"
+        },
+        {
+          "p": "Guarde mensagens, e-mails, protocolos de atendimento e comprovantes de pagamento das mensalidades. Peça por escrito o motivo do cancelamento e verifique se houve comunicação prévia. Se o plano foi encerrado ou o beneficiário foi excluído sem o aviso devido, vale buscar orientação jurídica para avaliar o caso."
+        },
+        {
+          "p": "Importante: a decisão é de uma turma do STJ e trata de um caso concreto. Ela indica um caminho, mas não garante o mesmo resultado em todos os processos. Cada situação depende dos documentos e das circunstâncias."
+        }
+      ],
+      "revisar": "Decisão de turma (REsp 2.258.447), caso concreto. Revisar antes de publicar."
+    },
+    {
+      "id": "blog-civ-ex-conjuge",
+      "itemId": "civ-ex-conjuge",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-03",
+      "titulo": "Divórcio e plano de saúde: a ex-cônjuge dependente pode continuar com cobertura?",
+      "descricao": "Decisão do TJ-PE garantiu plano individual a ex-esposa que era dependente havia mais de 30 anos. Veja o que isso significa.",
+      "corpo": [
+        {
+          "p": "Quem é dependente no plano de saúde do cônjuge costuma ter uma preocupação quando o casamento termina: vou perder a cobertura? Uma decisão recente do Tribunal de Justiça de Pernambuco (TJ-PE) trouxe uma resposta favorável para um caso específico."
+        },
+        {
+          "h": "O caso"
+        },
+        {
+          "p": "Uma mulher foi beneficiária do plano de saúde do marido por mais de 30 anos. Após o divórcio, a operadora foi obrigada a separar o plano familiar: ela passou a ter um contrato individual, com boleto próprio e as mesmas condições que já tinha."
+        },
+        {
+          "p": "A 7ª Câmara Cível Especializada manteve a decisão por unanimidade. Para chegar a esse resultado, o tribunal usou como referência, por analogia, uma norma da ANS (a Resolução Normativa 195/2009)."
+        },
+        {
+          "h": "O que vale levar dessa decisão"
+        },
+        {
+          "p": "Primeiro, o divórcio não significa, automaticamente, o fim da cobertura para quem era dependente. Segundo, a decisão considerou o longo tempo em que a pessoa esteve no plano. Terceiro, é uma decisão de segunda instância: serve de referência, mas não obriga outros tribunais a decidirem do mesmo jeito."
+        },
+        {
+          "p": "Se você está se divorciando e depende do plano do cônjuge, vale conversar sobre isso já na fase de acordo ou de processo, para que a cobertura de saúde não seja esquecida na partilha de direitos e obrigações."
+        }
+      ],
+      "revisar": "Decisão de segunda instância (TJ-PE), sem efeito vinculante. Fonte secundária (Conjur): conferir a notícia completa antes de publicar."
+    },
+    {
+      "id": "blog-civ-alimentos",
+      "itemId": "civ-alimentos",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-08-18",
+      "titulo": "Pensão combinada em cartório pode mudar? O que diz o STJ sobre alimentos vitalícios",
+      "descricao": "Mesmo quando a pensão foi fixada em escritura pública, o STJ entende que ela pode ser revista se a situação das pessoas mudar.",
+      "corpo": [
+        {
+          "p": "Muita gente acredita que, se a pensão foi combinada em cartório, o valor e a duração ficam fixos para sempre. Uma decisão do Superior Tribunal de Justiça (STJ) mostra que não é bem assim."
+        },
+        {
+          "h": "O que foi decidido"
+        },
+        {
+          "p": "A Terceira Turma do STJ concluiu, por unanimidade, que uma escritura pública prevendo pensão vitalícia não impede que o valor seja revisto ou que a obrigação seja encerrada quando as circunstâncias mudam. No caso analisado, a ex-esposa tinha qualificação profissional, trabalhava e não provou ter uma incapacidade permanente."
+        },
+        {
+          "h": "Por que isso importa"
+        },
+        {
+          "p": "Para quem paga, a decisão mostra que existe a possibilidade de pedir revisão ou exoneração quando a necessidade de quem recebe deixa de existir. Para quem recebe, é um alerta: a pensão não é automática nem eterna, e a situação de vida de cada pessoa pesa na análise."
+        },
+        {
+          "p": "Cada caso é único. Idade, saúde, capacidade de trabalho e padrão de vida entram na conta. Se você paga ou recebe uma pensão combinada em cartório e a sua realidade mudou, o primeiro passo é reunir documentos e buscar orientação para entender as opções."
+        }
+      ]
+    },
+    {
+      "id": "blog-agr-bnb",
+      "itemId": "agr-bnb",
+      "areas": [
+        "agrario"
+      ],
+      "data": "2026-10-26",
+      "titulo": "Dívida rural: o prazo para renegociar termina em 12 de novembro",
+      "descricao": "Produtores com perdas de safra podem pedir renegociação de dívidas rurais até 12/11. Veja quem pode aderir e o que costuma ser pedido.",
+      "corpo": [
+        {
+          "p": "Quem tem dívida rural e enfrentou perdas nas lavouras precisa ficar atento: o prazo para pedir a renegociação previsto na Medida Provisória 1.376/2026 termina em 12 de novembro."
+        },
+        {
+          "h": "Quem pode pedir"
+        },
+        {
+          "p": "A renegociação vale para produtores e cooperativas que tiveram perdas em pelo menos duas safras entre 2019 e 2025, ou queda de 30% na renda bruta esperada. É preciso comprovar isso com laudo de um profissional habilitado. Segundo a notícia consultada, só no Banco do Nordeste são mais de 100 mil produtores e 117 mil operações que podem ser atendidos."
+        },
+        {
+          "h": "Como funciona"
+        },
+        {
+          "p": "O prazo de pagamento pode chegar a dez anos, com um ano de carência. Atenção: isso não é perdão de dívida. A dívida continua existindo, mas com condições novas para pagar."
+        },
+        {
+          "h": "O que fazer agora"
+        },
+        {
+          "p": "O tempo é curto. Separe contratos, extratos e documentos que mostrem as perdas, e procure o profissional que fará o laudo. Cada banco pode ter regras e prazos próprios, então confirme as condições diretamente com a instituição onde está a sua dívida. Se houver dúvida sobre qual caminho seguir, uma análise jurídica do contrato antes de assinar pode evitar surpresas."
+        }
+      ],
+      "revisar": "Notícia trata do Banco do Nordeste; outros bancos podem ter regras próprias. Prazo de 12/11 reconfirmado em matéria do CMN (24/07). Revisar antes de publicar."
+    },
+    {
+      "id": "blog-tra-6x1",
+      "itemId": "tra-6x1",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-06",
+      "titulo": "Fim da escala 6x1: o que já se sabe e o que ainda está em discussão",
+      "descricao": "O Supremo vai discutir como colocar em prática o fim da escala 6x1. Entenda o que muda para empresas e trabalhadores.",
+      "corpo": [
+        {
+          "p": "O fim da escala 6x1 (seis dias de trabalho para um de descanso) já está na Constituição, por meio da Emenda Constitucional 141/2026, promulgada em 16 de outubro. Agora, a pergunta que fica é: como isso vai funcionar na prática?"
+        },
+        {
+          "h": "A audiência no Supremo"
+        },
+        {
+          "p": "O ministro Flávio Dino convocou uma audiência de conciliação no Supremo Tribunal Federal (STF) para terça-feira, 10 de novembro, às 14h. O objetivo é debater a forma de implementar a mudança. A redução da jornada em si não será rediscutida."
+        },
+        {
+          "h": "Quais são os pontos de conflito"
+        },
+        {
+          "p": "Entidades do setor empresarial questionam o prazo da primeira etapa, que passaria a valer 60 dias após a promulgação (a jornada de 42 horas semanais), e a aplicação da nova regra a contratos que já estão em andamento. Até aqui, não há decisão do Supremo suspendendo a mudança."
+        },
+        {
+          "h": "O que empresas e trabalhadores podem fazer"
+        },
+        {
+          "p": "Para as empresas, o momento é de planejar escalas, rever acordos coletivos e conversar com os sindicatos. Para os trabalhadores, vale acompanhar o que será definido e guardar registros da jornada atual. As regras podem mudar depois da audiência, por isso a informação deve ser conferida novamente após o dia 10."
+        }
+      ],
+      "revisar": "Atualizar este texto após a audiência de 10/11 antes de publicar."
+    },
+    {
+      "id": "blog-tri-credito-presumido",
+      "itemId": "tri-credito-presumido",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-10-15",
+      "titulo": "Crédito presumido de ICMS e PIS/Cofins: o que a decisão do STF significa para empresas",
+      "descricao": "O STF decidiu que créditos presumidos de ICMS não entram na base de cálculo do PIS e da Cofins. Veja o que isso pode representar.",
+      "corpo": [
+        {
+          "p": "Empresas que recebem benefício fiscal de ICMS, na forma de crédito presumido, ganharam uma decisão importante do Supremo Tribunal Federal (STF) em outubro."
+        },
+        {
+          "h": "O que o STF decidiu"
+        },
+        {
+          "p": "Por 7 votos a 4, o Plenário entendeu que o crédito presumido de ICMS não é receita nem faturamento da empresa. Por isso, esse valor não deve entrar na base de cálculo do PIS e da Cofins. A expectativa é que o entendimento valha para os processos em andamento."
+        },
+        {
+          "h": "O que isso pode significar na prática"
+        },
+        {
+          "p": "Empresas que pagaram esses tributos sobre o crédito presumido podem analisar se tiveram cobrança a maior. Mas há pontos que ainda precisam ser conferidos, como a eventual definição de a partir de quando a decisão passa a valer. Por isso, não é possível afirmar, desde já, quanto nem em quais condições seria possível recuperar valores."
+        },
+        {
+          "p": "Também continuam em discussão outros temas relacionados, como a tributação desses créditos pelo Imposto de Renda e pela CSLL. O recomendado é que a empresa revise seus cálculos com apoio de um profissional antes de tomar qualquer decisão."
+        }
+      ],
+      "revisar": "Fonte não informa modulação de efeitos nem a data exata. Não prometer restituição. Conferir o acórdão antes de publicar."
+    },
+    {
+      "id": "blog-tri-tema-1364",
+      "itemId": "tri-tema-1364",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-10-14",
+      "titulo": "Crédito de PIS e Cofins sobre o ICMS das compras: STJ fecha a porta. E agora?",
+      "descricao": "O STJ decidiu que empresas não podem tomar crédito de PIS e Cofins sobre o ICMS pago nas compras. Saiba por que vale revisar a apuração.",
+      "corpo": [
+        {
+          "p": "Uma decisão do Superior Tribunal de Justiça (STJ) pede atenção de empresas que apuram PIS e Cofins pelo regime não cumulativo."
+        },
+        {
+          "h": "O que o STJ decidiu"
+        },
+        {
+          "p": "A Primeira Seção do STJ fixou, por unanimidade, que não é possível apurar crédito de PIS e Cofins sobre o ICMS que está incluído no preço das mercadorias e insumos comprados. A regra vale para apurações a partir de 1º de maio de 2023."
+        },
+        {
+          "h": "Por que isso importa"
+        },
+        {
+          "p": "É uma tese desfavorável às empresas. Quem vinha usando esse crédito precisa revisar as apurações mensais e avaliar se existe algum valor a ajustar. Por isso, o melhor caminho é olhar para os números com calma, antes que uma cobrança apareça."
+        },
+        {
+          "p": "Cada empresa tem uma realidade. Vale conversar com a contabilidade e com um advogado tributarista para entender o seu caso e as alternativas disponíveis."
+        }
+      ],
+      "revisar": "Tese desfavorável ao contribuinte: manter tom de alerta, sem sugerir restituição."
+    },
+    {
+      "id": "blog-adm-licenca-premio",
+      "itemId": "adm-licenca-premio",
+      "areas": [
+        "administrativo"
+      ],
+      "data": "2026-11-03",
+      "titulo": "Licença-prêmio e férias em dinheiro: o que o STF decidiu sobre a lei de Pernambuco",
+      "descricao": "O STF manteve suspensa uma lei de Pernambuco que permitia converter férias e licença-prêmio em dinheiro. Entenda o motivo.",
+      "corpo": [
+        {
+          "p": "Servidores públicos costumam perguntar se podem transformar licença-prêmio ou férias não usadas em dinheiro. Uma decisão do Supremo Tribunal Federal (STF) trouxe um novo capítulo para essa discussão."
+        },
+        {
+          "h": "O que aconteceu"
+        },
+        {
+          "p": "O Plenário do STF confirmou, por unanimidade, a suspensão de uma norma de Pernambuco que permitia essa conversão. A decisão é provisória e foi tomada em sessão virtual encerrada em 3 de novembro, no âmbito de uma ação (ADI 7937)."
+        },
+        {
+          "h": "Qual foi o motivo"
+        },
+        {
+          "p": "O problema apontado não foi o direito à indenização em si, e sim quem criou a regra. A mudança partiu da Assembleia Legislativa, mas o regime e a remuneração dos servidores devem ser propostos pelo Poder Executivo. Por isso, a norma foi suspensa por vício de iniciativa."
+        },
+        {
+          "h": "E o servidor, o que faz?"
+        },
+        {
+          "p": "O caminho muda conforme o ente (União, estado ou município) e conforme a legislação de cada carreira. Se você tem licença-prêmio ou férias acumuladas, vale levantar o saldo, verificar o que a lei do seu órgão prevê e buscar orientação antes de tomar qualquer decisão."
+        }
+      ]
+    }
   ]
 }

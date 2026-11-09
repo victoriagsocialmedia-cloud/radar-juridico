@@ -80,6 +80,12 @@ details.ctx .list{margin-top:12px}
 .err{background:#f8e1de;color:#8a2a20;padding:16px;border-radius:var(--r);margin:24px 0}
 details.how{margin-top:26px;color:var(--muted);font-size:13px}details.how summary{cursor:pointer;color:var(--fg)}
 footer{margin-top:20px;font-size:12px;color:var(--muted)}
+.post .lead{color:var(--muted)}
+.post h4{margin:16px 0 4px;font-size:16px;font-weight:600}
+.post .body p{max-width:68ch;line-height:1.65}
+.post summary{cursor:pointer;font-weight:600;margin:8px 0}
+.post .warn{background:var(--bg);border:1px solid var(--line);border-radius:var(--r);padding:8px 14px;font-size:14px;margin:10px 0}
+.post .actions{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-top:10px;font-size:13px}
 [hidden]{display:none!important}
 @media(max-width:560px){.top-tag{display:none}.brow{grid-template-columns:100px 1fr 30px}}
 </style>
@@ -183,8 +189,9 @@ footer{margin-top:20px;font-size:12px;color:var(--muted)}
   function renderNav(){
     var box=$('#nav');box.textContent='';
     var all=[{id:'geral',nome:'Visão geral'}].concat(state.data.areas);
+    all.push({id:'blog',nome:'Blog (textos prontos)',blog:true});
     all.forEach(function(a){
-      var cnt=itemsFor(a.id).filter(function(it){return inWindow(it)&&visible(it)}).length;
+      var cnt=a.blog?(state.data.blog||[]).length:itemsFor(a.id).filter(function(it){return inWindow(it)&&visible(it)}).length;
       var kids=[document.createTextNode(a.nome)];
       if(a.id!=='geral')kids.push(el('small',{text:String(cnt)}));
       box.appendChild(el('button',{type:'button',class:'achip','aria-pressed':String(state.area===a.id),onclick:function(){go(a.id)}},kids));
@@ -268,6 +275,46 @@ footer{margin-top:20px;font-size:12px;color:var(--muted)}
     main.appendChild(box);
   }
 
+  function postText(p){
+    var out=[p.titulo,''];
+    p.corpo.forEach(function(b){out.push(b.h?b.h:b.p);out.push('')});
+    return out.join('\n').trim();
+  }
+  function renderBlog(main){
+    var posts=(state.data.blog||[]).slice().sort(function(a,b){return day(b.data)-day(a.data)});
+    main.appendChild(el('h2',{class:'sect-title',text:'Blog: textos prontos'}));
+    main.appendChild(el('p',{class:'note',text:'Rascunhos em linguagem simples, escritos a partir das notícias verificadas do radar, para o blog do site. Todo texto deve ser revisado pela advogada responsável antes de publicar, respeitando o Provimento 205/2021 da OAB (sem promessa de resultado nem captação de clientela).'}));
+    if(!posts.length){main.appendChild(el('div',{class:'empty'},[el('b',{text:'Nenhum texto no blog ainda.'})]));return}
+    var cards=el('div',{class:'list'});
+    posts.forEach(function(p){
+      var it=state.data.itens.filter(function(i){return i.id===p.itemId})[0];
+      var c=el('article',{class:'card post',id:'post-'+p.id});
+      c.appendChild(el('div',{class:'meta'},p.areas.map(function(id){return el('span',{class:'chip',text:areaById(id).nome})}).concat([el('span',{text:'Notícia de '+fmt(p.data)})])));
+      c.appendChild(el('h3',{text:p.titulo}));
+      c.appendChild(el('p',{class:'lead',text:p.descricao}));
+      var det=el('details',{},[el('summary',{text:'Ler o texto completo'})]);
+      var body=el('div',{class:'body'});
+      p.corpo.forEach(function(b){body.appendChild(b.h?el('h4',{text:b.h}):el('p',{text:b.p}))});
+      det.appendChild(body);c.appendChild(det);
+      if(p.revisar)c.appendChild(el('div',{class:'warn'},[el('b',{text:'Revisar antes de publicar: '}),document.createTextNode(p.revisar)]));
+      var copy=el('button',{type:'button',class:'copy',text:'Copiar texto'});
+      copy.addEventListener('click',function(){
+        var txt=postText(p);
+        var done=function(){copy.textContent='Texto copiado';setTimeout(function(){copy.textContent='Copiar texto'},1800)};
+        if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(done,function(){window.prompt('Copie o texto:',txt)})}
+        else{window.prompt('Copie o texto:',txt)}
+      });
+      var acts=el('div',{class:'actions'},[copy]);
+      if(it){
+        acts.appendChild(el('a',{href:'#'+p.areas[0],onclick:function(e){e.preventDefault();go(p.areas[0],it.id)},text:'Ver a notícia no radar'}));
+        acts.appendChild(el('a',{href:it.fonte.url,target:'_blank',rel:'noopener',text:'Fonte: '+it.fonte.nome+' ↗'}));
+      }
+      c.appendChild(acts);
+      cards.appendChild(c);
+    });
+    main.appendChild(cards);
+  }
+
   function emptyBox(){
     var hint=state.periodo==='hoje'?'Experimente Semana ou Mês.':state.periodo==='semana'?'Experimente Mês.':'';
     var extra=state.only3?' Desative “Só oportunidade alta” para ver as demais.':'';
@@ -297,7 +344,7 @@ footer{margin-top:20px;font-size:12px;color:var(--muted)}
     var main=$('#main');main.textContent='';
     document.querySelectorAll('.seg button').forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.p===state.periodo))});
     renderNav();renderSummary();
-    if(state.area==='geral')renderGeral(main);else renderArea(main,focusId);
+    if(state.area==='geral')renderGeral(main);else if(state.area==='blog')renderBlog(main);else renderArea(main,focusId);
     if(focusId){var t=document.getElementById('item-'+focusId);if(t){t.scrollIntoView({block:'start'});t.querySelector('h3').setAttribute('tabindex','-1');t.querySelector('h3').focus({preventScroll:true})}}
   }
 
@@ -318,7 +365,7 @@ footer{margin-top:20px;font-size:12px;color:var(--muted)}
     var g=new Date(data.geradoEm);
     $('#stamp').appendChild(el('span',{},['Atualizado em ',el('span',{text:g.toLocaleString('pt-BR',{timeZone:AREA_TZ,day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'})})]));
     var h=location.hash.replace('#','').split('/');
-    if(h[0]&&(h[0]==='geral'||areaById(h[0])))state.area=h[0];
+    if(h[0]&&(h[0]==='geral'||h[0]==='blog'||areaById(h[0])))state.area=h[0];
     if(['hoje','semana','mes'].indexOf(h[1])>-1)state.periodo=h[1];
     document.querySelectorAll('.seg button').forEach(function(b){b.addEventListener('click',function(){state.periodo=b.dataset.p;go(state.area)})});
     $('#only3').addEventListener('change',function(e){state.only3=e.target.checked;render()});
