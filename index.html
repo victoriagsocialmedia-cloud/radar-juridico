@@ -16,15 +16,15 @@
 @font-face{font-family:"Luminaire Script";font-display:swap;src:url("https://www.marcosinacio.adv.br/wp-content/themes/marcos_inacio/assets/fonts/LuminaireScript-Regular.woff2") format("woff2")}
 :root{
   /* identidade Marcos Inácio: coral, grafite-azulado e fundo claro */
-  --paper:#F6F4F1; --card:#FFFFFF; --ink:#32344D; --muted:#5E6076; --line:#E4E0DA;
-  --teal:#C94A2D; --teal-soft:#FBE6DF; --gold:#B8691B; --gold-soft:#FBEBD6;
-  --alert:#B4372B; --alert-soft:#F8E1DE; --focus:#1F5FBF; --coral:#DF593C;
+  --paper:#F7F1EB; --card:#FFFFFF; --ink:#24201E; --muted:#6B5F57; --line:#D7CABD;
+  --teal:#C24526; --teal-soft:#FAE4DC; --gold:#8F6B52; --gold-soft:#EFE3D9;
+  --alert:#B4372B; --alert-soft:#F8E1DE; --focus:#1F5FBF; --coral:#DE5A3C;
   --serif:"Geomanist","Outfit",system-ui,sans-serif; --sans:"Geomanist","Outfit",system-ui,sans-serif;
   --script:"Luminaire Script","Brush Script MT",cursive;
 }
 @media (prefers-color-scheme:dark){
-  :root{--paper:#1D1E2C; --card:#272940; --ink:#F1EEEA; --muted:#B4B6C8; --line:#3A3C57;
-    --teal:#F27B5E; --teal-soft:#43282A; --gold:#E9A85B; --gold-soft:#3F3120;
+  :root{--paper:#1B1816; --card:#26221F; --ink:#F7F1EB; --muted:#C2B5A9; --line:#4A403A;
+    --teal:#F27B5E; --teal-soft:#43261F; --gold:#D2B29B; --gold-soft:#3A2F27;
     --alert:#F0877B; --alert-soft:#3C1F1D; --focus:#7FB0FF; --coral:#F27B5E;}
 }
 *{box-sizing:border-box}
@@ -39,7 +39,7 @@ button{font:inherit;color:inherit;cursor:pointer}
 .top{padding:22px 0 18px;display:flex;flex-wrap:wrap;gap:16px 32px;align-items:flex-end;justify-content:space-between}
 .top h1{margin:0;font:700 clamp(1.7rem,3.6vw,2.4rem)/1.1 var(--serif);letter-spacing:-.01em}
 .brand{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:14px}
-.brand img{height:46px;width:auto;display:block}
+.brand img{height:40px;width:auto;display:block}
 .brand .slogan{font:400 1.45rem/1 var(--script);color:var(--teal);border-left:2px solid var(--coral);padding-left:18px}
 .top p{margin:6px 0 0;color:var(--muted);max-width:52ch}
 .stamp{font-size:.85rem;color:var(--muted);text-align:right}
@@ -47,7 +47,7 @@ button{font:inherit;color:inherit;cursor:pointer}
 
 /* régua de prazos */
 .rule{margin:6px 0 24px;background:var(--ink);color:#fff;border-radius:18px;border-bottom:4px solid var(--coral);padding:18px 20px 20px}
-@media (prefers-color-scheme:dark){.rule{background:#272940;color:var(--ink);border:1px solid var(--line);border-bottom:4px solid var(--coral)}}
+@media (prefers-color-scheme:dark){.rule{background:#26221F;color:var(--ink);border:1px solid var(--line);border-bottom:4px solid var(--coral)}}
 .rule h2{margin:0 0 14px;font:600 1.1rem/1.2 var(--serif)}
 .rule ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
 .rule li{border-top:3px solid var(--coral);padding-top:10px}
@@ -64,7 +64,7 @@ button{font:inherit;color:inherit;cursor:pointer}
 .seg{display:inline-flex;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:3px}
 .seg button{border:0;background:none;padding:7px 16px;border-radius:999px;font-weight:500;color:var(--muted)}
 .seg button[aria-pressed="true"]{background:var(--coral);color:#fff}
-@media (prefers-color-scheme:dark){.seg button[aria-pressed="true"]{color:#2A1210}}
+@media (prefers-color-scheme:dark){.seg button[aria-pressed="true"]{color:#24201E}}
 .check{display:inline-flex;gap:8px;align-items:center;color:var(--muted);font-size:.92rem;cursor:pointer}
 .check input{width:18px;height:18px;accent-color:var(--teal)}
 
@@ -77,7 +77,7 @@ nav.areas button:hover{background:var(--card)}
 nav.areas button[aria-selected="true"]{background:var(--card);box-shadow:inset 3px 0 0 var(--coral);font-weight:600}
 .n{min-width:26px;text-align:center;font-size:.8rem;font-weight:600;padding:1px 8px;border-radius:999px;background:var(--line);color:var(--muted)}
 .n.on{background:var(--coral);color:#fff}
-@media (prefers-color-scheme:dark){.n.on{color:#2A1210}}
+@media (prefers-color-scheme:dark){.n.on{color:#24201E}}
 @media (max-width:860px){
   .layout{grid-template-columns:1fr;gap:16px}
   nav.areas{position:static;overflow-x:auto;margin:0 -20px;padding:0 20px 6px}
@@ -150,7 +150,7 @@ footer p{margin:0 0 8px;max-width:80ch}
   <header class="top">
     <div>
       <div class="brand">
-        <img src="https://www.marcosinacio.adv.br/wp-content/themes/marcos_inacio/assets/img/logo-new.png" alt="Marcos Inácio Advogados" onerror="this.style.display='none'">
+        <picture><source srcset="assets/logo-mia-claro.png" media="(prefers-color-scheme: dark)"><img src="assets/logo-mia.png" alt="Marcos Inácio Advogados"></picture>
         <span class="slogan">O futuro se faz em bases sólidas.</span>
       </div>
       <h1>Radar Jurídico</h1>
