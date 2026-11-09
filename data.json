@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-09T13:36:45-03:00",
+  "geradoEm": "2026-11-09T16:34:20-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {"data": "2026-11-10", "rotulo": "Audiência no STF sobre a implementação do fim da escala 6x1", "area": "trabalhista", "itemId": "tra-6x1"},
@@ -310,6 +310,42 @@
       "oportunidade": 2,
       "atencao": "Julgamento em andamento, suspenso por pedido de vista; o placar parcial pode mudar. Só a matéria do Migalhas foi conferida; confirmar no andamento da AR 7.416 no STJ antes de publicar.",
       "fonte": {"nome": "Migalhas (05/11)", "url": "https://www.migalhas.com.br/quentes/467974/stj-julga-rescisoria-contra-credito-de-pis-cofins-no-regime-monofasico"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-difal-pis-cofins", "areas": ["tributario"], "data": "2026-11-07",
+      "titulo": "Justiça Federal de SP permite excluir o Difal da base do PIS e da Cofins",
+      "resumo": "A 14ª Vara Cível Federal de São Paulo concedeu segurança a uma distribuidora de autopeças para excluir o ICMS-Difal da base do PIS e da Cofins, aplicando por analogia a tese do STF sobre o ICMS (Tema 69). A compensação dos valores dos últimos cinco anos só poderá ocorrer após o trânsito em julgado, e o período em que a empresa esteve no Simples Nacional ficou de fora.",
+      "porQueImporta": "Empresas que recolhem Difal em operações interestaduais podem avaliar se há valores a recuperar, mas a tese ainda não é pacífica e a União sustenta que ela não se estende ao Difal.",
+      "servicos": ["Contencioso Tributário Judicial", "Atuação Consultiva"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Difal entra na base do PIS e da Cofins? Entenda a discussão e quando vale analisar a recuperação de valores."},
+      "oportunidade": 2,
+      "atencao": "Decisão de primeira instância, sujeita a recurso; não é vinculante. Só a matéria do Migalhas foi conferida; confirmar no processo 5021790-26.2024.4.03.6100 antes de publicar.",
+      "fonte": {"nome": "Migalhas (07/11)", "url": "https://www.migalhas.com.br/quentes/467816/justica-reconhece-direito-de-empresa-de-excluir-difal-do-pis-cofins"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "agr-prorrogacao-pa", "areas": ["agrario"], "data": "2026-11-07",
+      "titulo": "Juiz do Pará manda banco prorrogar dívida rural de produtor até 2034",
+      "resumo": "A Vara Única de Pacajá/PA determinou que o Banco do Brasil prorrogue uma dívida rural de R$ 556 mil de um pecuarista, em oito parcelas anuais de 2027 a 2034, com os encargos originais. O juiz reconheceu que estiagem e pragas na pastagem afetaram a capacidade de pagamento, citando o Manual de Crédito Rural e a Súmula 298 do STJ.",
+      "porQueImporta": "Reforça que o alongamento de dívida rural é direito do devedor quando comprovadas dificuldades por fatores adversos, e mostra a importância de documentar o pedido administrativo e as perdas.",
+      "servicos": ["Crédito rural: execução, ações revisionais e alongamento"],
+      "pauta": {"formato": ["Reels", "Carrossel"], "ideia": "Seca ou praga comprometeu a safra? O que a Súmula 298 do STJ diz sobre o alongamento da dívida rural."},
+      "oportunidade": 2,
+      "atencao": "Decisão de primeira instância, específica ao caso, sujeita a recurso. Só a matéria do Migalhas foi conferida; confirmar no processo 0801901-19.2025.8.14.0069. A data da sentença não consta na matéria (data = publicação).",
+      "fonte": {"nome": "Migalhas (07/11)", "url": "https://www.migalhas.com.br/quentes/467674/produtor-consegue-na-justica-prorrogar-divida-de-r-556-mil-ate-2034"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-falso-coletivo", "areas": ["civil"], "data": "2026-11-08",
+      "titulo": "TJ/SP reconhece 'falso coletivo' em plano empresarial com só uma família",
+      "resumo": "A 3ª Câmara do Núcleo 4.0 do TJ/SP entendeu que um plano empresarial que cobria oito integrantes de uma mesma família, sem vínculo empresarial representativo, era na prática um plano individual/familiar. Os reajustes por sinistralidade foram substituídos pelos índices anuais da ANS e a operadora deve devolver o excesso, respeitada a prescrição de três anos.",
+      "porQueImporta": "Beneficiários de planos coletivos por adesão ou empresariais com poucas vidas podem verificar se o reajuste aplicado respeita os limites da ANS.",
+      "servicos": ["Negativa de Cobertura de Plano de Saúde"],
+      "pauta": {"formato": ["Reels", "Carrossel"], "ideia": "Seu plano 'empresarial' tem só a sua família? Entenda o falso coletivo e o limite do reajuste."},
+      "oportunidade": 2,
+      "atencao": "Decisão de colegiado de tribunal estadual, específica ao caso; a tese não é vinculante. Só a matéria do Migalhas foi conferida; confirmar no processo 4031194-36.2026.8.26.0002.",
+      "fonte": {"nome": "Migalhas (08/11)", "url": "https://www.migalhas.com.br/quentes/467773/tj-sp-reconhece-falso-coletivo-em-plano-de-saude-empresarial"},
       "confianca": "secundaria"
     }
   ],
