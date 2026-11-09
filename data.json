@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-09T10:32:57-03:00",
+  "geradoEm": "2026-11-09T13:36:45-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {"data": "2026-11-10", "rotulo": "Audiência no STF sobre a implementação do fim da escala 6x1", "area": "trabalhista", "itemId": "tra-6x1"},
@@ -299,6 +299,18 @@
       "atencao": "Novidade de orientação, sem novas obrigações ou prazos.",
       "fonte": {"nome": "Receita Federal (04/11)", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-lanca-novo-subportal-de-controle-de-carga-e-transito-cct"},
       "confianca": "primaria"
+    },
+    {
+      "id": "tri-rescisoria-monofasico", "areas": ["tributario"], "data": "2026-11-05",
+      "titulo": "STJ analisa ação rescisória da Fazenda contra créditos de PIS/Cofins no regime monofásico",
+      "resumo": "A Primeira Seção começou a julgar a AR 7.416, em que a Fazenda Nacional quer desfazer uma decisão de 2020 que garantiu a uma distribuidora créditos de PIS e Cofins na revenda de produtos monofásicos. Em 2022 o STJ fixou o Tema 1.093 em sentido contrário. O relator e o revisor votaram pela improcedência (2 a 0), aplicando a Súmula 343 do STF, e o ministro Bellizze pediu vista.",
+      "porQueImporta": "O resultado indica se decisões já transitadas em julgado ficam protegidas quando surge tese vinculante posterior, tema relevante para empresas com sentenças antigas.",
+      "servicos": ["Contencioso Tributário Judicial", "Atuação Consultiva"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Decisão definitiva pode ser desfeita por tese nova do STJ? O que está em jogo na rescisória do monofásico."},
+      "oportunidade": 2,
+      "atencao": "Julgamento em andamento, suspenso por pedido de vista; o placar parcial pode mudar. Só a matéria do Migalhas foi conferida; confirmar no andamento da AR 7.416 no STJ antes de publicar.",
+      "fonte": {"nome": "Migalhas (05/11)", "url": "https://www.migalhas.com.br/quentes/467974/stj-julga-rescisoria-contra-credito-de-pis-cofins-no-regime-monofasico"},
+      "confianca": "secundaria"
     }
   ],
   "blog": [
