@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-09T07:33:01-03:00",
+  "geradoEm": "2026-11-09T10:32:57-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {"data": "2026-11-10", "rotulo": "Audiência no STF sobre a implementação do fim da escala 6x1", "area": "trabalhista", "itemId": "tra-6x1"},
@@ -111,18 +111,6 @@
       "confianca": "secundaria"
     },
     {
-      "id": "adu-drawback", "areas": ["aduaneiro"], "data": "2026-07-10", "evergreen": true,
-      "titulo": "Drawback em 2027: novas condições para suspender CBS e IBS",
-      "resumo": "Em 2026 nada muda na prática. A partir de 01/01/2027, a suspensão de CBS exige indicadores financeiros mínimos, limite de saldo suspenso, controle de estoque acessível ao Fisco e certidões negativas em dia. O drawback isenção perde vantagem porque a CBS passa a incidir na reposição de estoque.",
-      "porQueImporta": "Exportadores têm até dezembro para revisar atos concessórios, certidões e classificação nas declarações.",
-      "servicos": ["Atuação Consultiva"],
-      "pauta": {"formato": ["Carrossel", "Estático"], "ideia": "Checklist de fim de ano para quem usa drawback antes da CBS chegar."},
-      "oportunidade": 2,
-      "atencao": "Artigo de consultoria de comércio exterior, de julho. Conferir o decreto citado antes de publicar.",
-      "fonte": {"nome": "JCComex (10/07)", "url": "https://jccomex.com.br/2026/07/10/drawback-2026-reforma-tributaria-exportacao/"},
-      "confianca": "secundaria"
-    },
-    {
       "id": "agr-bnb", "areas": ["agrario"], "data": "2026-10-26",
       "titulo": "Produtor rural tem até 12/11 para pedir renegociação de dívidas no Banco do Nordeste",
       "resumo": "A renegociação autorizada pela MP 1.376/2026 vale para mais de 100 mil produtores e 117 mil operações. Exige comprovar perdas em ao menos duas safras entre 2019 e 2025 ou queda de 30% na renda bruta esperada, com laudo de profissional habilitado. O prazo de pagamento chega a dez anos, com um ano de carência. Não é perdão da dívida.",
@@ -155,18 +143,6 @@
       "pauta": {"formato": ["Carrossel"], "ideia": "Pensão vitalícia em escritura não é para sempre: quando dá para pedir revisão."},
       "oportunidade": 2,
       "fonte": {"nome": "STJ Notícias (18/08)", "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18082026-Alimentos-vitalicios-fixados-em-escritura-publica-podem-ser-revistos-ou-extintos--decide-Terceira-Turma.aspx"},
-      "confianca": "primaria"
-    },
-    {
-      "id": "civ-dano-moral-plano", "areas": ["civil"], "data": "2026-04-15", "evergreen": true,
-      "titulo": "STJ: recusa indevida de cobertura pelo plano de saúde não gera dano moral presumido",
-      "resumo": "Manchete do portal do STJ de 15/04/2026. Só o título foi conferido nesta rodada; os termos da tese (Tema 1.365) precisam ser lidos na fonte antes de qualquer uso.",
-      "porQueImporta": "Muda o que o cliente precisa provar em ações por negativa de cobertura.",
-      "servicos": ["Negativa de Cobertura de Plano de Saúde"],
-      "pauta": {"formato": ["Carrossel"], "ideia": "Plano negou o procedimento: o que provar para pedir indenização."},
-      "oportunidade": 2,
-      "atencao": "Somente a manchete foi verificada. Ler a notícia completa do STJ antes de produzir.",
-      "fonte": {"nome": "STJ Notícias (15/04)", "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15042026-Recusa-indevida-de-cobertura-pelo-plano-de-saude-nao-gera-dano-moral-presumido.aspx"},
       "confianca": "primaria"
     },
     {
@@ -287,18 +263,6 @@
       "atencao": "A fonte não informa modulação de efeitos nem a data exata (outubro). Conferir no acórdão antes de prometer restituição.",
       "fonte": {"nome": "Agência Brasil (out/2026)", "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-retira-credito-presumido-do-icms-da-base-de-calculo-do-piscofins"},
       "confianca": "primaria"
-    },
-    {
-      "id": "tri-multas-ibs", "areas": ["tributario"], "data": "2026-04-30", "evergreen": true,
-      "titulo": "Receita espera não aplicar multas de IBS e CBS em 2026, ano tratado como pedagógico",
-      "resumo": "A multa por obrigações acessórias pode ser aplicada a partir de agosto de 2026, três meses após o regulamento infralegal, mas a intenção declarada do Fisco é não cobrar este ano. Em 2026 valem as alíquotas-teste de 0,9% (CBS) e 0,1% (IBS).",
-      "porQueImporta": "Contexto para empresas organizarem emissão de notas e cadastros antes de 2027.",
-      "servicos": ["Atuação Consultiva"],
-      "pauta": {"formato": ["Stories"], "ideia": "Reforma tributária: o que a Receita já disse sobre multas no período de teste."},
-      "oportunidade": 1,
-      "atencao": "Notícia de abril. Confirmar se houve mudança de regra.",
-      "fonte": {"nome": "Portal da Reforma Tributária (30/04)", "url": "https://www.reformatributaria.com/iva/receita-multas-serao-aplicadas-a-partir-de-agosto-mas-contribuintes-podem-se-regularizar-ate-2027/"},
-      "confianca": "secundaria"
     },
     {
       "id": "civ-idosa-plano", "areas": ["civil"], "data": "2026-10-28",
