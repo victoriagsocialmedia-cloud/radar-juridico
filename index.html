@@ -7,18 +7,25 @@
 <meta name="description" content="Notícias quentes por área do direito, com pautas ligadas aos serviços do escritório.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" href="https://www.marcosinacio.adv.br/wp-content/uploads/2026/06/cropped-mia-favicon-removebg-preview-270x270.png">
 <style>
+@font-face{font-family:"Geomanist";font-weight:400;font-display:swap;src:url("https://www.marcosinacio.adv.br/wp-content/themes/marcos_inacio/assets/fonts/Geomanist.woff2") format("woff2")}
+@font-face{font-family:"Geomanist";font-weight:500;font-display:swap;src:url("https://www.marcosinacio.adv.br/wp-content/themes/marcos_inacio/assets/fonts/Geomanist-Medium.woff2") format("woff2")}
+@font-face{font-family:"Geomanist";font-weight:700;font-display:swap;src:url("https://www.marcosinacio.adv.br/wp-content/themes/marcos_inacio/assets/fonts/Geomanist-Bold.woff2") format("woff2")}
+@font-face{font-family:"Luminaire Script";font-display:swap;src:url("https://www.marcosinacio.adv.br/wp-content/themes/marcos_inacio/assets/fonts/LuminaireScript-Regular.woff2") format("woff2")}
 :root{
-  --paper:#EDF1F4; --card:#FFFFFF; --ink:#0E2238; --muted:#52627A; --line:#D3DBE4;
-  --teal:#0B6E6E; --teal-soft:#DCEFEE; --gold:#B7791F; --gold-soft:#F6EBD3;
-  --alert:#B4372B; --alert-soft:#F8E1DE; --focus:#1F5FBF;
-  --serif:"Newsreader",Georgia,serif; --sans:"Instrument Sans",system-ui,sans-serif;
+  /* identidade Marcos Inácio: coral, grafite-azulado e fundo claro */
+  --paper:#F6F4F1; --card:#FFFFFF; --ink:#32344D; --muted:#5E6076; --line:#E4E0DA;
+  --teal:#C94A2D; --teal-soft:#FBE6DF; --gold:#B8691B; --gold-soft:#FBEBD6;
+  --alert:#B4372B; --alert-soft:#F8E1DE; --focus:#1F5FBF; --coral:#DF593C;
+  --serif:"Geomanist","Outfit",system-ui,sans-serif; --sans:"Geomanist","Outfit",system-ui,sans-serif;
+  --script:"Luminaire Script","Brush Script MT",cursive;
 }
 @media (prefers-color-scheme:dark){
-  :root{--paper:#0C1724; --card:#13243A; --ink:#E8EEF5; --muted:#9FB0C6; --line:#243A55;
-    --teal:#4FC3C0; --teal-soft:#123A3F; --gold:#E3A94A; --gold-soft:#3A2F17;
-    --alert:#F0877B; --alert-soft:#3C1F1D; --focus:#7FB0FF;}
+  :root{--paper:#1D1E2C; --card:#272940; --ink:#F1EEEA; --muted:#B4B6C8; --line:#3A3C57;
+    --teal:#F27B5E; --teal-soft:#43282A; --gold:#E9A85B; --gold-soft:#3F3120;
+    --alert:#F0877B; --alert-soft:#3C1F1D; --focus:#7FB0FF; --coral:#F27B5E;}
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -29,18 +36,21 @@ button{font:inherit;color:inherit;cursor:pointer}
 .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
 
 /* topo */
-.top{padding:28px 0 18px;display:flex;flex-wrap:wrap;gap:16px 32px;align-items:flex-end;justify-content:space-between}
-.top h1{margin:0;font:600 clamp(1.9rem,4vw,2.8rem)/1.05 var(--serif);letter-spacing:-.01em}
+.top{padding:22px 0 18px;display:flex;flex-wrap:wrap;gap:16px 32px;align-items:flex-end;justify-content:space-between}
+.top h1{margin:0;font:700 clamp(1.7rem,3.6vw,2.4rem)/1.1 var(--serif);letter-spacing:-.01em}
+.brand{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:14px}
+.brand img{height:46px;width:auto;display:block}
+.brand .slogan{font:400 1.45rem/1 var(--script);color:var(--teal);border-left:2px solid var(--coral);padding-left:18px}
 .top p{margin:6px 0 0;color:var(--muted);max-width:52ch}
 .stamp{font-size:.85rem;color:var(--muted);text-align:right}
 .stamp b{color:var(--ink);font-weight:600}
 
 /* régua de prazos */
-.rule{margin:6px 0 24px;background:var(--ink);color:var(--paper);border-radius:14px;padding:18px 20px 20px}
-@media (prefers-color-scheme:dark){.rule{background:#13243A;color:var(--ink);border:1px solid var(--line)}}
+.rule{margin:6px 0 24px;background:var(--ink);color:#fff;border-radius:18px;border-bottom:4px solid var(--coral);padding:18px 20px 20px}
+@media (prefers-color-scheme:dark){.rule{background:#272940;color:var(--ink);border:1px solid var(--line);border-bottom:4px solid var(--coral)}}
 .rule h2{margin:0 0 14px;font:600 1.1rem/1.2 var(--serif)}
 .rule ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
-.rule li{border-top:3px solid var(--gold);padding-top:10px}
+.rule li{border-top:3px solid var(--coral);padding-top:10px}
 .rule li.urgent{border-top-color:#F0877B}
 .rule .when{display:block;font-weight:600;font-size:.95rem}
 .rule .count{font-size:.8rem;opacity:.8}
@@ -53,8 +63,8 @@ button{font:inherit;color:inherit;cursor:pointer}
 .bar{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;justify-content:space-between;margin-bottom:18px}
 .seg{display:inline-flex;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:3px}
 .seg button{border:0;background:none;padding:7px 16px;border-radius:999px;font-weight:500;color:var(--muted)}
-.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
-@media (prefers-color-scheme:dark){.seg button[aria-pressed="true"]{background:var(--teal);color:#06201F}}
+.seg button[aria-pressed="true"]{background:var(--coral);color:#fff}
+@media (prefers-color-scheme:dark){.seg button[aria-pressed="true"]{color:#2A1210}}
 .check{display:inline-flex;gap:8px;align-items:center;color:var(--muted);font-size:.92rem;cursor:pointer}
 .check input{width:18px;height:18px;accent-color:var(--teal)}
 
@@ -64,16 +74,16 @@ nav.areas{position:sticky;top:12px}
 nav.areas ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px}
 nav.areas button{width:100%;display:flex;justify-content:space-between;align-items:center;gap:10px;text-align:left;background:none;border:0;padding:9px 12px;border-radius:10px;color:var(--ink)}
 nav.areas button:hover{background:var(--card)}
-nav.areas button[aria-selected="true"]{background:var(--card);box-shadow:inset 3px 0 0 var(--teal);font-weight:600}
+nav.areas button[aria-selected="true"]{background:var(--card);box-shadow:inset 3px 0 0 var(--coral);font-weight:600}
 .n{min-width:26px;text-align:center;font-size:.8rem;font-weight:600;padding:1px 8px;border-radius:999px;background:var(--line);color:var(--muted)}
-.n.on{background:var(--teal);color:#fff}
-@media (prefers-color-scheme:dark){.n.on{color:#06201F}}
+.n.on{background:var(--coral);color:#fff}
+@media (prefers-color-scheme:dark){.n.on{color:#2A1210}}
 @media (max-width:860px){
   .layout{grid-template-columns:1fr;gap:16px}
   nav.areas{position:static;overflow-x:auto;margin:0 -20px;padding:0 20px 6px}
   nav.areas ul{flex-direction:row;gap:6px;width:max-content}
   nav.areas button{white-space:nowrap;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:7px 14px}
-  nav.areas button[aria-selected="true"]{box-shadow:none;background:var(--ink);color:var(--paper)}
+  nav.areas button[aria-selected="true"]{box-shadow:none;background:var(--coral);color:#fff;border-color:var(--coral)}
   .stamp{text-align:left}
 }
 
@@ -81,14 +91,14 @@ nav.areas button[aria-selected="true"]{background:var(--card);box-shadow:inset 3
 .sect-title{font:600 1.5rem/1.2 var(--serif);margin:0 0 4px}
 .sect-sub{margin:0 0 18px;color:var(--muted)}
 .cards{display:flex;flex-direction:column;gap:18px}
-article.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px 24px}
+article.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px 24px}
 article.card.deadline{border-left:5px solid var(--alert)}
 .meta{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font-size:.85rem;color:var(--muted);margin-bottom:8px}
 .tag{font-size:.78rem;font-weight:600;padding:2px 9px;border-radius:999px;background:var(--line);color:var(--muted)}
 .tag.area{background:var(--teal-soft);color:var(--teal)}
 .tag.prim{background:var(--teal-soft);color:var(--teal)}
 .tag.sec{background:var(--gold-soft);color:var(--gold)}
-article.card h3{margin:0 0 10px;font:600 1.3rem/1.25 var(--serif);max-width:60ch}
+article.card h3{margin:0 0 10px;font:700 1.3rem/1.25 var(--serif);max-width:60ch}
 article.card p{margin:0 0 10px;max-width:68ch}
 .why{color:var(--muted)}
 .why b{color:var(--ink);font-weight:600}
@@ -121,7 +131,7 @@ details.ctx .cards{margin-top:14px}
 .brow{display:grid;grid-template-columns:130px 1fr 56px;gap:12px;align-items:center;padding:5px 0;border:0;background:none;width:100%;text-align:left;border-radius:8px}
 .brow:hover{background:var(--paper)}
 .track{height:12px;background:var(--line);border-radius:6px;overflow:hidden}
-.track span{display:block;height:100%;background:var(--teal);border-radius:6px}
+.track span{display:block;height:100%;background:var(--coral);border-radius:6px}
 .brow .v{font-weight:600;text-align:right}
 .hot{display:grid;gap:10px}
 .hot button{all:unset;cursor:pointer;display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;padding:12px 14px;background:var(--card);border:1px solid var(--line);border-radius:12px}
@@ -129,7 +139,7 @@ details.ctx .cards{margin-top:14px}
 .hot button:focus-visible{outline:3px solid var(--focus)}
 .hot .t{font:600 1.05rem/1.3 var(--serif)}
 .hot .m{font-size:.84rem;color:var(--muted)}
-footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--muted);font-size:.86rem}
+footer{border-top:4px solid var(--coral);background:var(--card);padding:22px 0 40px;color:var(--muted);font-size:.86rem}
 footer p{margin:0 0 8px;max-width:80ch}
 .err{background:var(--alert-soft);color:var(--alert);padding:16px;border-radius:12px;margin:24px 0}
 @media (prefers-reduced-motion:no-preference){.track span{transition:width .5s ease}}
@@ -139,6 +149,10 @@ footer p{margin:0 0 8px;max-width:80ch}
 <div class="wrap">
   <header class="top">
     <div>
+      <div class="brand">
+        <img src="https://www.marcosinacio.adv.br/wp-content/themes/marcos_inacio/assets/img/logo-new.png" alt="Marcos Inácio Advogados" onerror="this.style.display='none'">
+        <span class="slogan">O futuro se faz em bases sólidas.</span>
+      </div>
       <h1>Radar Jurídico</h1>
       <p>Notícias quentes por área, cada uma ligada a um serviço da Marcos Inácio Advogados, com sugestão de pauta.</p>
     </div>
