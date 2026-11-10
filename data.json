@@ -1,12 +1,13 @@
 {
-  "geradoEm": "2026-11-10T13:45:00-03:00",
+  "geradoEm": "2026-11-10T16:50:34-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
-    {"data": "2026-11-10", "rotulo": "Audiência no STF sobre a implementação do fim da escala 6x1", "area": "trabalhista", "itemId": "tra-6x1"},
     {"data": "2026-11-12", "rotulo": "Último dia para pedir renegociação de dívidas rurais (MP 1.376/2026)", "area": "agrario", "itemId": "agr-bnb"},
     {"data": "2026-11-16", "rotulo": "Fim do prazo para instituições enviarem contribuições ao STF sobre o contencioso de IBS e CBS", "area": "tributario", "itemId": "tri-stf-consulta-ibs-cbs"},
     {"data": "2026-12-15", "rotulo": "Sem decisão do Senado até aqui, vale a alíquota de 11,3% da CBS (TCU)", "area": "tributario", "itemId": "tri-cbs"},
-    {"data": "2026-12-16", "rotulo": "Entra a primeira etapa da nova jornada (42 h semanais), 60 dias após a EC 141/2026", "area": "trabalhista", "itemId": "tra-6x1"}
+    {"data": "2026-12-16", "rotulo": "Entra a primeira etapa da nova jornada (42 h semanais), 60 dias após a EC 141/2026", "area": "trabalhista", "itemId": "tra-6x1"},
+    {"data": "2026-12-30", "rotulo": "Fim do prazo de adesão aos Editais de Transação RFB nº 9 e nº 10", "area": "tributario", "itemId": "tri-transacao-rfb-editais"},
+    {"data": "2027-01-20", "rotulo": "Prazo para regularizar créditos de PIS/Cofins do setor farmacêutico (Operação Fármacos II)", "area": "tributario", "itemId": "tri-farmacos-ii"}
   ],
   "areas": [
     {"id": "administrativo", "nome": "Administrativo", "url": "https://www.marcosinacio.adv.br/expertise/administrativo/",
@@ -220,13 +221,13 @@
     {
       "id": "tra-6x1", "areas": ["trabalhista"], "data": "2026-11-06",
       "titulo": "STF marca para 10/11 audiência de conciliação sobre a implementação do fim da escala 6x1",
-      "resumo": "O ministro Flávio Dino convocou a audiência para terça (10/11), às 14h, em Brasília. Só entra em debate a forma de implementar a Emenda Constitucional 141/2026 (promulgada em 16/10), sem rediscutir a redução da jornada. A CNC pede adiar a primeira etapa para outubro de 2027 (ADI 8.041) e a CNI questiona a aplicação a contratos em curso (ADI 8.042). Não há liminar.",
+      "resumo": "O ministro Flávio Dino convocou a audiência para terça (10/11), às 14h, em Brasília. Só entra em debate a forma de implementar a Emenda Constitucional 141/2026 (promulgada em 16/10), sem rediscutir a redução da jornada. A CNC pede adiar a primeira etapa para outubro de 2027 (ADI 8.041) e a CNI questiona a aplicação a contratos em curso (ADI 8.042). Não há liminar. A audiência ocorreu em 10/11: segundo o InfoMoney, a CNC não contesta o limite de 40 horas, mas pede mais tempo (acha insuficientes os 60 dias), e a CNI pede suspender a redução para contratos e convenções em curso, isenção provisória para micro e pequenas empresas e transição por setor. Dino disse que a redução e o descanso extra não estão em negociação.",
       "porQueImporta": "Empresas precisam planejar escalas e acordos coletivos para a etapa de 42 horas, prevista 60 dias após a promulgação. Trabalhadores querem saber o que muda no seu contrato.",
       "servicos": ["Auditoria Trabalhista", "Negociação Sindical", "Acompanhamento em Dissídios Coletivos", "Reclamação de horas extras"],
       "pauta": {"formato": ["Reels", "Carrossel", "Stories"], "ideia": "Fim da 6x1: o calendário da transição e o que a empresa precisa ajustar já."},
       "oportunidade": 3,
-      "atencao": "Reforçar nos stories o resultado da audiência após 10/11.",
-      "fonte": {"nome": "TVT News (06/11)", "url": "https://tvtnews.com.br/stf-marca-audiencia-conciliacao-fim-escala-6x1/"},
+      "atencao": "Conferido o que foi divulgado antes e na abertura da audiência (InfoMoney, 10/11); o desfecho e os encaminhamentos da audiência ainda não foram confirmados. Posições das confederações são pedidos, não decisões. Atualizar após a ata/decisão do STF.",
+      "fonte": {"nome": "InfoMoney (10/11)", "url": "https://www.infomoney.com.br/politica/escala-6x1-audiencia-reune-no-stf-representantes-de-empregadores-e-trabalhadores/"},
       "confianca": "secundaria"
     },
     {
@@ -419,6 +420,42 @@
       "oportunidade": 2,
       "atencao": "Decisão de segunda instância (TJ-RJ), não vinculante; fato conferido apenas na ConJur, sem consulta ao acórdão.",
       "fonte": {"nome": "ConJur", "url": "https://conjur.com.br/2026-nov-08/plano-de-saude-nao-pode-exigir-aviso-previo-para-cancelar-contrato/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-transacao-rfb-editais", "areas": ["tributario"], "data": "2026-11-03",
+      "titulo": "Receita prorroga até 30/12 a adesão à transação tributária e lança calculadora para comparar as opções",
+      "resumo": "A Receita Federal estendeu até 30 de dezembro de 2026 o prazo para aderir aos Editais de Transação RFB nº 9 e nº 10, voltados a débitos em contencioso administrativo fiscal de pessoas físicas e jurídicas. Em 09/11, divulgou uma calculadora que compara as modalidades desses editais e do edital PGFN nº 6/2026, com simulação de caráter orientativo.",
+      "porQueImporta": "Quem tem autuação em discussão administrativa pode avaliar, antes do fim do ano, se a transação compensa frente a seguir litigando.",
+      "servicos": ["Contencioso Tributário Administrativo", "Atuação Consultiva", "Recuperação de Crédito"],
+      "pauta": {"formato": ["Carrossel", "Stories"], "ideia": "Transação tributária até 30/12: o que é, quem pode aderir e o que avaliar antes de decidir."},
+      "oportunidade": 3,
+      "atencao": "A notícia não traz percentuais de desconto nem número de parcelas; essas regras estão nos editais e devem ser conferidas neles. A simulação da calculadora é orientativa e não garante o enquadramento.",
+      "fonte": {"nome": "Receita Federal (03/11 e 09/11)", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-prorroga-prazo-para-adesao-a-editais-de-transacao-tributaria-ate-30-de-dezembro"},
+      "confianca": "primaria"
+    },
+    {
+      "id": "tri-farmacos-ii", "areas": ["tributario"], "data": "2026-11-03",
+      "titulo": "Operação Fármacos II: Receita aponta R$ 1,8 bi em créditos de PIS/Cofins do setor farmacêutico usados por empresas de outros ramos",
+      "resumo": "A Receita revisou cerca de 10 mil pedidos de cerca de 1,6 mil contribuintes que usaram o crédito presumido previsto para o setor farmacêutico (Lei 10.147/2000) sem, em princípio, atuar com medicamentos. Cerca de R$ 1,2 bilhão já foi compensado. Os contribuintes notificados podem corrigir as informações e cancelar PER/DCOMP indevidos até 20/01/2027; depois disso, a análise é refeita.",
+      "porQueImporta": "Quem recebeu comunicado precisa revisar a origem dos créditos antes do prazo. Manter créditos fora dos requisitos pode levar a não homologação, cobrança, multa e juros.",
+      "servicos": ["Contencioso Tributário Administrativo", "Atuação Consultiva"],
+      "pauta": {"formato": ["Carrossel", "Stories"], "ideia": "Recebeu comunicado da Receita sobre crédito de PIS/Cofins? O que revisar até 20/01/2027."},
+      "oportunidade": 3,
+      "atencao": "Ação de caráter orientador; a notícia não imputa crime. Tom preventivo, sem afirmar irregularidade de nenhuma empresa específica.",
+      "fonte": {"nome": "Receita Federal (03/11)", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-farmacos-ii-rfb-identifica-r-1-8-bilhao-em-creditos-farmaceuticos-incompativeis-e-orienta-contribuintes-a-regularizacao-ate-20-01-2027"},
+      "confianca": "primaria"
+    },
+    {
+      "id": "pub-improbidade-merenda", "areas": ["publico"], "data": "2026-11-09",
+      "titulo": "TJ/SP afasta improbidade de ex-prefeita em terceirização da merenda escolar por falta de prova de dolo",
+      "resumo": "A 9ª Câmara de Direito Público do TJ/SP negou, por unanimidade, recurso do MP contra a improcedência de ação sobre a terceirização da merenda em Valinhos (contrato de cerca de R$ 3,6 milhões). Aplicando a Lei 14.230/2021, entendeu que não houve prova de dolo, direcionamento, superfaturamento ou prejuízo ao erário, e que terceirizar, por si só, não é improbidade.",
+      "porQueImporta": "Reforça que, após a nova lei, a improbidade exige dolo comprovado, e que gestores devem documentar a motivação de contratos e de respostas a recomendações do MP.",
+      "servicos": ["Assessoria em Licitações e Contratos Públicos", "Assessoria jurídica a entes públicos"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Improbidade e contratos públicos: por que dolo e documentação importam para o gestor."},
+      "oportunidade": 2,
+      "atencao": "Decisão de segunda instância em caso concreto, sujeita a recurso e sem efeito vinculante. Conferida apenas a matéria do Migalhas; a íntegra não foi lida.",
+      "fonte": {"nome": "Migalhas (09/11)", "url": "https://www.migalhas.com.br/quentes/468117/tj-sp-afasta-improbidade-de-ex-prefeita-em-terceirizacao-de-merenda"},
       "confianca": "secundaria"
     }
   ],
