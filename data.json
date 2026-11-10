@@ -1,9 +1,10 @@
 {
-  "geradoEm": "2026-11-09T16:34:20-03:00",
+  "geradoEm": "2026-11-10T07:39:28-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {"data": "2026-11-10", "rotulo": "Audiência no STF sobre a implementação do fim da escala 6x1", "area": "trabalhista", "itemId": "tra-6x1"},
     {"data": "2026-11-12", "rotulo": "Último dia para pedir renegociação de dívidas rurais (MP 1.376/2026)", "area": "agrario", "itemId": "agr-bnb"},
+    {"data": "2026-11-16", "rotulo": "Fim do prazo para instituições enviarem contribuições ao STF sobre o contencioso de IBS e CBS", "area": "tributario", "itemId": "tri-stf-consulta-ibs-cbs"},
     {"data": "2026-12-15", "rotulo": "Sem decisão do Senado até aqui, vale a alíquota de 11,3% da CBS (TCU)", "area": "tributario", "itemId": "tri-cbs"},
     {"data": "2026-12-16", "rotulo": "Entra a primeira etapa da nova jornada (42 h semanais), 60 dias após a EC 141/2026", "area": "trabalhista", "itemId": "tra-6x1"}
   ],
@@ -346,6 +347,18 @@
       "oportunidade": 2,
       "atencao": "Decisão de colegiado de tribunal estadual, específica ao caso; a tese não é vinculante. Só a matéria do Migalhas foi conferida; confirmar no processo 4031194-36.2026.8.26.0002.",
       "fonte": {"nome": "Migalhas (08/11)", "url": "https://www.migalhas.com.br/quentes/467773/tj-sp-reconhece-falso-coletivo-em-plano-de-saude-empresarial"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stf-consulta-ibs-cbs", "areas": ["tributario"], "data": "2026-10-29",
+      "titulo": "STF abre segunda fase de consulta sobre processo único para ações de IBS e CBS, com prazo até 16/11",
+      "resumo": "O Centro de Estudos Constitucionais do STF colhe, até 16/11, contribuições de instituições sobre como tratar na Justiça os conflitos do IBS e da CBS. A proposta preliminar de um grupo de especialistas é a competência compartilhada entre Justiça estadual e federal, de modo que disputas sobre a mesma operação corram em um só processo. O próprio centro diz que as ideias não são posição oficial do STF.",
+      "porQueImporta": "Define onde e como o contribuinte vai discutir os novos tributos sobre consumo, tema que afeta o planejamento de empresas a partir de 2027.",
+      "servicos": ["Atuação Consultiva"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "IBS e CBS na Justiça: o que o STF discute sobre onde brigar por esses tributos."},
+      "oportunidade": 2,
+      "atencao": "Fase 2 do Edital 05/2026 confirmada apenas em portais secundários (Sou Brasília, 03/11, e Reforma Tributária, 30/10); a página do STF conferida trata da fase 1 (abril). Só instituições podem enviar contribuições; proposta preliminar, não vinculante.",
+      "fonte": {"nome": "Reforma Tributária (30/10)", "url": "https://www.reformatributaria.com/justica/proposta-em-consulta-no-stf-preve-um-unico-processo-para-acoes-do-ibs-e-da-cbs/"},
       "confianca": "secundaria"
     }
   ],
