@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-10T10:35:32-03:00",
+  "geradoEm": "2026-11-10T13:45:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {"data": "2026-11-10", "rotulo": "Audiência no STF sobre a implementação do fim da escala 6x1", "area": "trabalhista", "itemId": "tra-6x1"},
@@ -395,6 +395,30 @@
       "oportunidade": 2,
       "atencao": "Caso específico (AIRR 1809-52.2013.5.10.0006), de empregado de sociedade de economia mista, com discriminação comprovada nas instâncias anteriores; não vale automaticamente para todos os casos. Só a matéria do Migalhas foi conferida; confirmar no site do TST.",
       "fonte": {"nome": "Migalhas (09/11)", "url": "https://www.migalhas.com.br/quentes/468172/tst-bancario-demitido-apos-ajuizar-acao-sera-reintegrado-e-indenizado"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-compensacao-nao-homologada", "areas": ["tributario"], "data": "2026-11-02",
+      "titulo": "STJ exige decisão fundamentada e intimação específica para cobrar compensações não homologadas",
+      "resumo": "A 2ª Turma do STJ, no REsp 2.186.258/RS, entendeu que o Fisco só pode cobrar o saldo de compensações recusadas depois de decisão formal e motivada, indicando quais compensações foram negadas, os valores e as razões. Também é preciso intimar o contribuinte sobre a possibilidade de apresentar manifestação de inconformidade. Sem isso, o vício formal levou à reabertura do processo administrativo.",
+      "porQueImporta": "Empresas que compensam tributos e recebem cobrança do saldo podem ter um argumento de nulidade quando o procedimento não seguiu esses passos.",
+      "servicos": ["Contencioso Tributário Administrativo", "Recuperação de Crédito"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Cobrança de compensação não homologada: o que o contribuinte deve conferir no procedimento da Receita."},
+      "oportunidade": 2,
+      "atencao": "Julgado de sessão virtual de setembro/2026; fato conferido apenas em artigo de opinião de advogados na ConJur, não na íntegra do acórdão. Cada caso depende de seus fatos e não há promessa de resultado.",
+      "fonte": {"nome": "ConJur", "url": "https://conjur.com.br/2026-nov-02/stj-reforca-exigencia-de-decisao-fundamentada-na-nao-homologacao-de-compensacoes-tributarias/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-plano-aviso-previo-tjrj", "areas": ["civil"], "data": "2026-11-08",
+      "titulo": "TJ-RJ: exigir aviso prévio para cancelar plano de saúde é abusivo",
+      "resumo": "A 5ª Câmara de Direito Privado do TJ-RJ considerou abusiva a cláusula que obriga o consumidor a avisar com antecedência para cancelar o plano. No caso, a operadora seguiu cobrando mensalidades após o cancelamento e negativou a cliente. A decisão, unânime, fixou indenização por danos morais e mandou cancelar os débitos e retirar o nome dos cadastros de crédito.",
+      "porQueImporta": "Quem pediu o cancelamento e continuou recebendo cobrança ou teve o nome negativado pode ter base para questionar a operadora.",
+      "servicos": ["Indenização por Negativação Indevida", "Negativa de Cobertura de Plano de Saúde"],
+      "pauta": {"formato": ["Reels", "Carrossel"], "ideia": "Cancelou o plano e continuaram cobrando? Entenda seus direitos."},
+      "oportunidade": 2,
+      "atencao": "Decisão de segunda instância (TJ-RJ), não vinculante; fato conferido apenas na ConJur, sem consulta ao acórdão.",
+      "fonte": {"nome": "ConJur", "url": "https://conjur.com.br/2026-nov-08/plano-de-saude-nao-pode-exigir-aviso-previo-para-cancelar-contrato/"},
       "confianca": "secundaria"
     }
   ],
