@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-10T07:39:28-03:00",
+  "geradoEm": "2026-11-10T10:35:32-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {"data": "2026-11-10", "rotulo": "Audiência no STF sobre a implementação do fim da escala 6x1", "area": "trabalhista", "itemId": "tra-6x1"},
@@ -359,6 +359,42 @@
       "oportunidade": 2,
       "atencao": "Fase 2 do Edital 05/2026 confirmada apenas em portais secundários (Sou Brasília, 03/11, e Reforma Tributária, 30/10); a página do STF conferida trata da fase 1 (abril). Só instituições podem enviar contribuições; proposta preliminar, não vinculante.",
       "fonte": {"nome": "Reforma Tributária (30/10)", "url": "https://www.reformatributaria.com/justica/proposta-em-consulta-no-stf-preve-um-unico-processo-para-acoes-do-ibs-e-da-cbs/"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-perse-stj", "areas": ["tributario"], "data": "2026-11-09",
+      "titulo": "STJ reconhece relevância e suspende em todo o país as ações sobre o fim antecipado do Perse",
+      "resumo": "A 1ª Seção do STJ afetou o Tema de Relevância 1.483 (REsp 2.261.411, relator ministro Francisco Falcão) para definir se o teto de R$ 15 bilhões de renúncia fiscal da Lei 14.859/2024 permite encerrar o Perse antes dos 60 meses previstos e se o art. 178 do CTN protege o benefício. Os processos sobre o tema seguem até o fim da instrução e depois ficam suspensos até o julgamento.",
+      "porQueImporta": "Empresas do setor de eventos que discutem o benefício do Perse devem acompanhar o tema, pois a definição vai orientar os processos em andamento e a estratégia de cada caso.",
+      "servicos": ["Contencioso Tributário Judicial", "Atuação Consultiva"],
+      "pauta": {"formato": ["Carrossel", "Stories"], "ideia": "Perse: o que o STJ vai decidir sobre o fim antecipado do benefício e o que acontece com as ações em andamento."},
+      "oportunidade": 2,
+      "atencao": "Ainda não há decisão de mérito; a 2ª Turma já admitiu a revogação do incentivo em julgamentos anteriores, então o resultado é incerto. Só a matéria do Migalhas foi conferida; confirmar no site do STJ antes de publicar.",
+      "fonte": {"nome": "Migalhas (09/11)", "url": "https://www.migalhas.com.br/quentes/468143/stj-reconhece-relevancia-e-suspende-acoes-sobre-fim-do-perse"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-transacao-pgfn", "areas": ["tributario"], "data": "2026-11-09",
+      "titulo": "Justiça Federal manda Receita enviar à PGFN débitos parados para viabilizar a transação tributária",
+      "resumo": "A 2ª Vara Federal de São José dos Campos (SP) concedeu mandado de segurança a uma empresa para que a Receita Federal envie à PGFN os débitos que passaram do prazo administrativo de 90 dias e rescinda parcelamento do Simples Nacional com parcelas em atraso. O juízo entendeu que a retenção prolongada prejudica o contribuinte, que perde chances de regularização, e o próprio Fisco.",
+      "porQueImporta": "Quem tem débitos retidos na Receita sem inscrição em dívida ativa pode avaliar se há atraso indevido, pois a inscrição é passo prévio para propor a transação tributária.",
+      "servicos": ["Contencioso Tributário Judicial", "Recuperação de Crédito"],
+      "pauta": {"formato": ["Stories"], "ideia": "Débito parado na Receita: por que a inscrição na dívida ativa pode ser o primeiro passo para negociar."},
+      "oportunidade": 1,
+      "atencao": "Decisão de primeira instância (proc. 5005756-93.2026.4.03.6103), sujeita a recurso e sem caráter vinculante. O envio à PGFN não garante adesão à transação. Só a matéria do Migalhas foi conferida.",
+      "fonte": {"nome": "Migalhas (09/11)", "url": "https://www.migalhas.com.br/quentes/468148/juiz-ordena-envio-de-debitos-a-pgfn-para-analisar-transacao-tributaria"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-tst-retaliacao", "areas": ["trabalhista"], "data": "2026-11-09",
+      "titulo": "TST: bancário dispensado dias depois de cobrar horas extras na Justiça será reintegrado e indenizado",
+      "resumo": "A 3ª Turma do TST manteve, por unanimidade, a reintegração de um empregado do Banco do Brasil dispensado seis dias após ajuizar ação por horas extras (7ª e 8ª horas), com indenização de R$ 50 mil por danos morais. Para o colegiado, a dispensa foi retaliação ao direito de acesso à Justiça, e o Tema 1.022 do STF, sobre motivação em estatais, não afasta a discriminação comprovada.",
+      "porQueImporta": "Reforça que acionar a Justiça por direitos como horas extras não pode ser motivo de punição, e que empresas devem cuidar da condução de dispensas após reclamações trabalhistas.",
+      "servicos": ["Reclamação de horas extras", "Auditoria Trabalhista"],
+      "pauta": {"formato": ["Carrossel", "Reels"], "ideia": "Processar por horas extras dá demissão? Entenda quando a dispensa pode ser considerada retaliação."},
+      "oportunidade": 2,
+      "atencao": "Caso específico (AIRR 1809-52.2013.5.10.0006), de empregado de sociedade de economia mista, com discriminação comprovada nas instâncias anteriores; não vale automaticamente para todos os casos. Só a matéria do Migalhas foi conferida; confirmar no site do TST.",
+      "fonte": {"nome": "Migalhas (09/11)", "url": "https://www.migalhas.com.br/quentes/468172/tst-bancario-demitido-apos-ajuizar-acao-sera-reintegrado-e-indenizado"},
       "confianca": "secundaria"
     }
   ],
