@@ -1,8 +1,9 @@
 {
-  "geradoEm": "2026-11-10T17:09:09-03:00",
+  "geradoEm": "2026-11-11T07:34:24-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {"data": "2026-11-12", "rotulo": "Último dia para pedir renegociação de dívidas rurais (MP 1.376/2026)", "area": "agrario", "itemId": "agr-bnb"},
+    {"data": "2026-11-13", "rotulo": "Prazo anunciado pelo ministro Dino para decidir as regras de implementação da nova jornada (EC 141/2026)", "area": "trabalhista", "itemId": "tra-6x1"},
     {"data": "2026-11-16", "rotulo": "Fim do prazo para instituições enviarem contribuições ao STF sobre o contencioso de IBS e CBS", "area": "tributario", "itemId": "tri-stf-consulta-ibs-cbs"},
     {"data": "2026-12-15", "rotulo": "Sem decisão do Senado até aqui, vale a alíquota de 11,3% da CBS (TCU)", "area": "tributario", "itemId": "tri-cbs"},
     {"data": "2026-12-16", "rotulo": "Entra a primeira etapa da nova jornada (42 h semanais), 60 dias após a EC 141/2026", "area": "trabalhista", "itemId": "tra-6x1"},
@@ -219,16 +220,16 @@
       "confianca": "secundaria"
     },
     {
-      "id": "tra-6x1", "areas": ["trabalhista"], "data": "2026-11-06",
-      "titulo": "STF marca para 10/11 audiência de conciliação sobre a implementação do fim da escala 6x1",
-      "resumo": "O ministro Flávio Dino convocou a audiência para terça (10/11), às 14h, em Brasília. Só entra em debate a forma de implementar a Emenda Constitucional 141/2026 (promulgada em 16/10), sem rediscutir a redução da jornada. A CNC pede adiar a primeira etapa para outubro de 2027 (ADI 8.041) e a CNI questiona a aplicação a contratos em curso (ADI 8.042). Não há liminar. A audiência ocorreu em 10/11: segundo o InfoMoney, a CNC não contesta o limite de 40 horas, mas pede mais tempo (acha insuficientes os 60 dias), e a CNI pede suspender a redução para contratos e convenções em curso, isenção provisória para micro e pequenas empresas e transição por setor. Dino disse que a redução e o descanso extra não estão em negociação.",
+      "id": "tra-6x1", "areas": ["trabalhista"], "data": "2026-11-10",
+      "titulo": "Dino diz que decidirá até 13/11 as regras de implementação do fim da 6x1, sem flexibilizar a emenda",
+      "resumo": "Após a audiência de conciliação de 10/11, o ministro Flávio Dino (ADIs 8.041 e 8.042) informou que decidirá até sexta (13/11) pontos de implementação da EC 141/2026, com referendo do Plenário. Não haverá suspensão da emenda nem manutenção da 6x1; ele afastou a ideia de queda imediata de 44 para 40 horas se as negociações coletivas falharem. Houve convergência para permitir, por convenção coletiva, flexibilizar o prazo de compensação do repouso em regimes diferenciados e estender o regime especial a empregados de estatais que exploram atividade econômica. Seguem em debate o prazo de 60 dias para a primeira etapa (42 h) e os contratos administrativos, com até um ano de adaptação.",
       "porQueImporta": "Empresas precisam planejar escalas e acordos coletivos para a etapa de 42 horas, prevista 60 dias após a promulgação. Trabalhadores querem saber o que muda no seu contrato.",
       "servicos": ["Auditoria Trabalhista", "Negociação Sindical", "Acompanhamento em Dissídios Coletivos", "Reclamação de horas extras"],
       "pauta": {"formato": ["Reels", "Carrossel", "Stories"], "ideia": "Fim da 6x1: o calendário da transição e o que a empresa precisa ajustar já."},
       "oportunidade": 3,
-      "atencao": "Conferido o que foi divulgado antes e na abertura da audiência (InfoMoney, 10/11); o desfecho e os encaminhamentos da audiência ainda não foram confirmados. Posições das confederações são pedidos, não decisões. Atualizar após a ata/decisão do STF.",
-      "fonte": {"nome": "InfoMoney (10/11)", "url": "https://www.infomoney.com.br/politica/escala-6x1-audiencia-reune-no-stf-representantes-de-empregadores-e-trabalhadores/"},
-      "confianca": "secundaria"
+      "atencao": "Fonte primária (STF, 10/11) trata de anúncio do relator; a decisão em si ainda não saiu e depende de referendo do Plenário. Atualizar após 13/11.",
+      "fonte": {"nome": "STF (10/11)", "url": "https://noticias.stf.jus.br/postsnoticias/escala-5x2-relator-decidira-sobre-implementacao-da-nova-jornada-ate-sexta-feira-13/"},
+      "confianca": "primaria"
     },
     {
       "id": "tri-cbs", "areas": ["tributario"], "data": "2026-11-04",
@@ -456,6 +457,42 @@
       "oportunidade": 2,
       "atencao": "Decisão de segunda instância em caso concreto, sujeita a recurso e sem efeito vinculante. Conferida apenas a matéria do Migalhas; a íntegra não foi lida.",
       "fonte": {"nome": "Migalhas (09/11)", "url": "https://www.migalhas.com.br/quentes/468117/tj-sp-afasta-improbidade-de-ex-prefeita-em-terceirizacao-de-merenda"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-pis-cofins-portuario", "areas": ["tributario"], "data": "2026-11-10",
+      "titulo": "STJ nega créditos de PIS/Cofins sobre pagamentos a trabalhadores portuários avulsos",
+      "resumo": "A 1ª Turma do STJ, no REsp 1.500.504 (relator ministro Sérgio Kukina), entendeu que valores pagos a portuários avulsos por meio do Ogmo não geram créditos de PIS/Cofins no regime não cumulativo. O fundamento é a vedação legal a créditos sobre remuneração de pessoas físicas, que vale mesmo quando a mão de obra é essencial à atividade.",
+      "porQueImporta": "Empresas do setor portuário e de logística que apuram créditos nesse regime devem revisar teses de creditamento sobre mão de obra avulsa.",
+      "servicos": ["Atuação Consultiva", "Contencioso Tributário Judicial"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Crédito de PIS/Cofins sobre mão de obra: o que o STJ entendeu sobre portuários avulsos."},
+      "oportunidade": 1,
+      "atencao": "Decisão de turma em caso concreto; só a matéria do Migalhas foi conferida (não localizada no site do STJ). A matéria não informa se há efeito vinculante nem a data da sessão.",
+      "fonte": {"nome": "Migalhas (10/11)", "url": "https://www.migalhas.com.br/quentes/468312/stj-nega-creditos-de-pis-cofins-sobre-trabalho-portuario-avulso"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "emp-stj-suspende-falencia", "areas": ["empresarial"], "data": "2026-11-10",
+      "titulo": "STJ suspende, em caráter provisório, falência decretada quando recurso está parado no TJ/MS",
+      "resumo": "A 3ª Turma do STJ concedeu liminar (TutCautAnt 1.742, relatora ministra Daniela Teixeira) para suspender os efeitos da decisão que converteu em falência a recuperação judicial de uma indústria sul-mato-grossense, permitindo a assembleia de credores. O recurso estava pendente no tribunal estadual havia cerca de 90 dias e há risco a cerca de 600 empregos. O mérito será retomado em 17/11 com o voto-vista da ministra Nancy Andrighi.",
+      "porQueImporta": "Mostra que, em situações excepcionais e urgentes, o STJ pode intervir de forma provisória quando o recurso contra a falência demora a ser julgado.",
+      "servicos": ["Contencioso Judicial"],
+      "pauta": {"formato": ["Carrossel"], "ideia": "Recuperação judicial convertida em falência: quando o STJ pode intervir de forma provisória."},
+      "oportunidade": 1,
+      "atencao": "Liminar excepcional e provisória, em caso concreto; o mérito ainda será julgado. Só a matéria do Migalhas foi conferida.",
+      "fonte": {"nome": "Migalhas (10/11)", "url": "https://www.migalhas.com.br/quentes/468297/demora-do-tj-ms-em-julgar-recurso-leva-stj-a-suspender-falencia"},
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-ans-planos-coletivos-adesao", "areas": ["civil"], "data": "2026-11-10",
+      "titulo": "STJ valida regra da ANS que veda cobrança direta de beneficiários em planos coletivos por adesão",
+      "resumo": "A 1ª Turma do STJ, no REsp 1.822.747 (relator ministro Herman Benjamin), restabeleceu a validade dos arts. 13 e 14 da RN 195/2009 da ANS, que atribuem à pessoa jurídica contratante a responsabilidade pelo pagamento e impedem a operadora de cobrar diretamente o beneficiário. O beneficiário ainda pode contribuir para o custeio, e a cobrança pode ser delegada a administradoras de benefícios.",
+      "porQueImporta": "Ajuda o consumidor de plano coletivo por adesão a entender quem responde pela cobrança e como isso se relaciona ao debate sobre falso coletivo e reajustes.",
+      "servicos": ["Negativa de Cobertura de Plano de Saúde"],
+      "pauta": {"formato": ["Reels", "Carrossel"], "ideia": "Plano coletivo por adesão: quem pode cobrar a mensalidade, segundo o STJ."},
+      "oportunidade": 2,
+      "atencao": "Decisão de turma sobre a validade da norma da ANS; alcance para outros processos não detalhado. Só a matéria do Migalhas foi conferida.",
+      "fonte": {"nome": "Migalhas (10/11)", "url": "https://www.migalhas.com.br/quentes/468315/stj-valida-regra-da-ans-que-proibe-cobranca-direta-em-planos-coletivos"},
       "confianca": "secundaria"
     }
   ],
