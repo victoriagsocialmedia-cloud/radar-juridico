@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-11T10:38:25-03:00",
+  "geradoEm": "2026-11-11T13:45:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -1247,6 +1247,60 @@
       "fonte": {
         "nome": "ConJur (10/11)",
         "url": "https://conjur.com.br/2026-nov-10/repasse-de-boa-fe-a-outro-sindicato-nao-deve-obrigar-empresa-a-fazer-novo-recolhimento/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-difal-restituicao-3m",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-10",
+      "titulo": "STJ mantém o direito da 3M de pedir restituição de ICMS-Difal e deixa a prova do art. 166 do CTN para a liquidação",
+      "resumo": "A 2ª Turma do STJ, em recurso relatado pela ministra Maria Thereza de Assis Moura, manteve o direito da empresa de buscar a devolução de ICMS-Difal pago. A comprovação de que ela suportou o encargo financeiro do imposto, exigida pelo art. 166 do CTN, não foi decidida agora e ficou para a fase de liquidação.",
+      "porQueImporta": "Empresas que recolheram Difal em período questionado podem avaliar a restituição, ciente de que, em tributos que admitem repasse do encargo, será preciso comprovar que o custo não foi transferido ao consumidor.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Recuperação de Crédito"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Restituição de Difal: o que o art. 166 do CTN exige da empresa e por que a prova do encargo importa."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma em caso concreto (REsp 2.208.689), não vinculante; o mérito da prova do encargo ainda será examinado. Só a matéria do Migalhas foi conferida; confirmar no acórdão do STJ antes de publicar.",
+      "fonte": {
+        "nome": "Migalhas (10/11)",
+        "url": "https://www.migalhas.com.br/quentes/468301/stj-mantem-direito-da-3m-de-buscar-restituicao-de-icms-difal"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stj-anpc-improbidade",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-10",
+      "titulo": "STJ nega acordo de não persecução cível firmado com o MPF quando o MP estadual, autor da ação, se opõe",
+      "resumo": "A 2ª Turma do STJ, sob relatoria do ministro Marco Aurélio Bellizze, não homologou acordo de ex-gestores de Itanhaém (SP) condenados por improbidade na compra de material escolar. Como a ação era do MP paulista e ele se opôs, o MPF não poderia substituí-lo. O colegiado também afastou a aplicação retroativa da Lei 14.230/2021 sobre coisa julgada, com base no Tema 1.199 do STF, e registrou que a negociação não é vedada só pelo trânsito em julgado.",
+      "porQueImporta": "Mostra os limites do acordo de não persecução cível: quem conduz a ação é quem decide, e mudanças da nova Lei de Improbidade não alcançam condenações já definitivas.",
+      "servicos": [
+        "Assessoria em Licitações e Contratos Públicos",
+        "Assessoria jurídica a entes públicos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Acordo de não persecução cível em improbidade: quando é possível e quem precisa concordar."
+      },
+      "oportunidade": 1,
+      "atencao": "Decisão de turma em caso concreto (REsp 2.209.027), sem efeito vinculante. Só a matéria do Migalhas foi conferida; a data do julgamento não consta do texto (matéria de 10/11); confirmar no STJ antes de publicar.",
+      "fonte": {
+        "nome": "Migalhas (10/11)",
+        "url": "https://www.migalhas.com.br/quentes/468307/stj-nega-anpc-em-caso-de-improbidade-na-compra-de-material-escolar"
       },
       "confianca": "secundaria"
     }
