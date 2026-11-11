@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-11T13:45:00-03:00",
+  "geradoEm": "2026-11-11T14:10:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -633,7 +633,7 @@
       ],
       "data": "2026-11-04",
       "titulo": "TCU aprova alíquota de referência da CBS de 11,3% para 2027, acima da estimativa da Fazenda",
-      "resumo": "A matéria segue para o Senado. Sem deliberação até 15/12, vale o percentual do TCU. A Fazenda estima alíquota efetiva média abaixo de 8,5%. O split payment começa facultativo em agosto de 2027, e o governo prepara MP sobre o Imposto Seletivo e PEC para prorrogar o IPI.",
+      "resumo": "A matéria segue para o Senado. Sem deliberação até 15/12, vale o percentual do TCU. A Fazenda estima alíquota efetiva média abaixo de 8,5%. O split payment começa facultativo em agosto de 2027, e o governo prepara MP sobre o Imposto Seletivo e PEC para prorrogar o IPI. Em 05/11, o ministro da Fazenda, Dario Durigan, reafirmou que a CBS começa em 1º/01/2027, sem adiamento, e que prazos de multas e de obrigações acessórias poderão ser ampliados; ele também disse que o contribuinte de boa-fé não deve sofrer penalidade, via programa de conformidade ainda sem detalhes.",
       "porQueImporta": "Afeta formação de preço e planejamento de 2027 de empresas de todos os portes.",
       "servicos": [
         "Atuação Consultiva"
@@ -646,7 +646,7 @@
         "ideia": "CBS 2027: por que a alíquota pode ser maior do que o governo disse e o que preparar agora."
       },
       "oportunidade": 3,
-      "atencao": "Fonte é newsletter jurídica. Conferir a decisão do TCU antes de citar percentuais.",
+      "atencao": "Fonte é newsletter jurídica. Conferir a decisão do TCU antes de citar percentuais. O início em jan/2027 e a fala sobre boa-fé foram conferidos só em portais secundários (BPMoney, 05/11; AmdJus, 09/11); a matéria do g1 de 11/11 ('Receita confirma início da CBS') não pôde ser aberta e não há ato oficial conferido. Não tratar a ausência de multa como regra em vigor.",
       "fonte": {
         "nome": "Expresso Tributário FCR (04/11)",
         "url": "https://news.fcrlaw.com.br/expresso/expresso-tributario-04-11-2026/"
