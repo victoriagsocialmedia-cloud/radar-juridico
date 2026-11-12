@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-12T17:16:00-03:00",
+  "geradoEm": "2026-11-12T17:19:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -1570,6 +1570,59 @@
       "fonte": {
         "nome": "Migalhas (11/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468293/stj-discute-calculo-de-ganho-de-capital-de-investidor-estrangeiro"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adu-siscomex-di-cambial",
+      "areas": [
+        "aduaneiro"
+      ],
+      "data": "2026-11-06",
+      "titulo": "Siscomex dispensa a DI para fins cambiais em regimes especiais quando a admissão foi feita por Duimp",
+      "resumo": "O Comunicado Siscomex Importação nº 106/2026, de 06/11, informa que a exigência de registrar declaração de importação (DI) para fins cambiais nos regimes de entreposto aduaneiro, depósito especial, Recof e lojas francas não se aplica ao Novo Processo de Importação. Se a mercadoria foi admitida por Duimp, basta retificar a Duimp de admissão para informar a transferência de propriedade. Se a admissão foi por DI e a exportação ou venda ocorre depois do desligamento dessa DI, continua exigido o registro de uma DI com processo, informando o motivo.",
+      "porQueImporta": "Reduz uma etapa operacional para empresas que usam regimes aduaneiros especiais e exige atenção ao tipo de declaração usada na admissão.",
+      "servicos": [
+        "Atuação Consultiva"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Regimes aduaneiros especiais: quando a segunda DI para fins cambiais deixou de ser necessária."
+      },
+      "oportunidade": 2,
+      "atencao": "Orientação operacional do Siscomex, voltada a quem opera nos regimes citados; casos com admissão por DI tradicional seguem com a exigência.",
+      "fonte": {
+        "nome": "Siscomex (gov.br), Importação nº 106/2026",
+        "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-106"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "tri-tjsp-ibs-cbs-base-icms",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-10",
+      "titulo": "Presidente do TJ-SP suspende dez decisões que excluíam IBS e CBS da base de cálculo do ICMS",
+      "resumo": "O presidente do TJ-SP, desembargador Francisco Loureiro, suspendeu dez decisões (sentenças e liminares em mandados de segurança) que afastavam IBS e CBS da base do ICMS. A Fazenda paulista estimou impacto de R$ 10,2 bilhões por ano em 2027 caso a exclusão se generalizasse. O pedido da PGE para alcançar também decisões futuras foi negado, pois ainda não existiam; novas decisões devem ser acrescentadas em pedidos próprios.",
+      "porQueImporta": "Mostra que a tese de exclusão de IBS e CBS da base do ICMS enfrenta resistência no Judiciário paulista e pode ser suspensa por razões de finanças públicas, o que pesa na estratégia de quem planeja ações.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Atuação Consultiva"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "IBS e CBS na base do ICMS: por que decisões favoráveis foram suspensas em São Paulo."
+      },
+      "oportunidade": 2,
+      "atencao": "A suspensão não decide o mérito da tese e não é vinculante para outros casos. Só matérias secundárias foram conferidas (a ConJur de 10/11 citada na pauta não foi aberta); confirmar no processo nº 2270251-20.2026.8.26.0000 do TJ-SP.",
+      "fonte": {
+        "nome": "Reforma Tributária (10/11/2026)",
+        "url": "https://www.reformatributaria.com/iva/tj-sp-fazenda-de-sp-consegue-suspender-10-decisoes-que-tiravam-ibs-e-cbs-da-base-do-icms/"
       },
       "confianca": "secundaria"
     }
