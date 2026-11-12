@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-12T12:00:00-03:00",
+  "geradoEm": "2026-11-12T10:38:03-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -1331,6 +1331,63 @@
         "url": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-iss-nao-integra-base-de-calculo-do-pis-e-da-cofins/"
       },
       "confianca": "primaria"
+    },
+    {
+      "id": "tri-hra-stj-afetacao",
+      "areas": [
+        "tributario",
+        "trabalhista"
+      ],
+      "data": "2026-11-11",
+      "titulo": "STJ afeta a tributação da hora de repouso e alimentação após a reforma trabalhista e suspende processos no país",
+      "resumo": "A 1ª Seção do STJ afetou, em julgamento virtual encerrado em 11/11, o REsp 2.270.193, que vai definir se o valor pago pela supressão do intervalo intrajornada (hora de repouso e alimentação) tem natureza remuneratória ou indenizatória depois da Lei 13.467/2017. Foi determinada a suspensão nacional dos processos sobre o tema até a fixação da tese, que será vinculante. A relatoria da afetação ficou com o ministro Sérgio Kukina.",
+      "porQueImporta": "A definição afeta a incidência de contribuição previdenciária patronal, RAT e contribuições a terceiros sobre essa verba, com reflexo em passivos e em possíveis valores a recuperar.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Recuperação de Crédito",
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Hora de repouso e alimentação paga na rescisão ou em ação: a tributação está em discussão no STJ e o que a empresa pode revisar com cautela."
+      },
+      "oportunidade": 2,
+      "atencao": "Mérito ainda não julgado; não há tese fixada nem promessa de recuperação. Só a matéria da ConJur foi conferida (fonte secundária); confirmar no site do STJ quando o acórdão de afetação for publicado.",
+      "fonte": {
+        "nome": "ConJur (11/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-11/stj-vai-decidir-tributacao-sobre-hora-repouso-alimentacao-apos-reforma/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-divida-divorcio-negativacao-tjsc",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-12",
+      "titulo": "TJ-SC: quem assume dívida em acordo de separação e não paga, causando negativação da ex-companheira, deve indenizar",
+      "resumo": "A 4ª Câmara Civil do TJ-SC manteve a condenação de um homem que assumiu financiamentos em nome da ex-companheira ao fim do relacionamento, deixou de pagar e levou à negativação do nome dela. Foram mantidos R$ 5 mil de danos morais e a multa contratual, e a alegação de dificuldades da pandemia foi rejeitada por falta de prova. O tribunal também afastou a Súmula 385 do STJ por não haver inscrições anteriores legítimas.",
+      "porQueImporta": "Reforça a importância de documentar bem quem paga o quê em acordos de separação e de agir quando o descumprimento gera negativação do nome.",
+      "servicos": [
+        "Indenização por Negativação Indevida"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Seu ex ficou de pagar a dívida no acordo e seu nome foi negativado? O que a Justiça tem entendido sobre isso."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de tribunal estadual, não vinculante, baseada em texto da assessoria do TJ-SC; o caso envolve fim de relacionamento (não é divórcio formal no relato). Só a ConJur foi conferida (fonte secundária) e a data do julgamento não foi informada.",
+      "fonte": {
+        "nome": "ConJur (12/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-12/marido-que-assume-divida-em-divorcio-e-nao-paga-deve-danos-morais/"
+      },
+      "confianca": "secundaria"
     }
   ],
   "blog": [
