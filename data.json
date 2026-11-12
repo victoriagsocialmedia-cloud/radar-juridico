@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-12T16:50:00-03:00",
+  "geradoEm": "2026-11-12T18:00:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -7,12 +7,6 @@
       "rotulo": "Último dia para pedir renegociação de dívidas rurais (MP 1.376/2026)",
       "area": "agrario",
       "itemId": "agr-bnb"
-    },
-    {
-      "data": "2026-11-13",
-      "rotulo": "Prazo anunciado pelo ministro Dino para decidir as regras de implementação da nova jornada (EC 141/2026)",
-      "area": "trabalhista",
-      "itemId": "tra-6x1"
     },
     {
       "data": "2026-11-16",
@@ -25,6 +19,12 @@
       "rotulo": "Sem decisão do Senado até aqui, vale a alíquota de 11,3% da CBS (TCU)",
       "area": "tributario",
       "itemId": "tri-cbs"
+    },
+    {
+      "data": "2026-12-15",
+      "rotulo": "Sem convenção ou acordo coletivo até aqui, a jornada de 42 h pode ser distribuída em cinco dias de 8h24 (decisão de Dino, sujeita a referendo)",
+      "area": "trabalhista",
+      "itemId": "tra-6x1"
     },
     {
       "data": "2026-12-16",
@@ -600,10 +600,10 @@
       "areas": [
         "trabalhista"
       ],
-      "data": "2026-11-10",
-      "titulo": "Dino diz que decidirá até 13/11 as regras de implementação do fim da 6x1, sem flexibilizar a emenda",
-      "resumo": "Após a audiência de conciliação de 10/11, o ministro Flávio Dino (ADIs 8.041 e 8.042) informou que decidirá até sexta (13/11) pontos de implementação da EC 141/2026, com referendo do Plenário. Não haverá suspensão da emenda nem manutenção da 6x1; ele afastou a ideia de queda imediata de 44 para 40 horas se as negociações coletivas falharem. Houve convergência para permitir, por convenção coletiva, flexibilizar o prazo de compensação do repouso em regimes diferenciados e estender o regime especial a empregados de estatais que exploram atividade econômica. Seguem em debate o prazo de 60 dias para a primeira etapa (42 h) e os contratos administrativos, com até um ano de adaptação.",
-      "porQueImporta": "Empresas precisam planejar escalas e acordos coletivos para a etapa de 42 horas, prevista 60 dias após a promulgação. Trabalhadores querem saber o que muda no seu contrato.",
+      "data": "2026-11-12",
+      "titulo": "Dino decide regras de transição do fim da 6x1: 42 h a partir de 16/12, jornada em cinco dias e 90 dias para renegociar cláusulas",
+      "resumo": "Em decisão nas ADIs 8.041 e 8.042, o ministro Flávio Dino manteve o calendário da EC 141/2026: a jornada de 42 horas semanais vale de 16/12/2026 a 15/12/2027. Sem convenção ou acordo coletivo até 15/12, a empresa poderá distribuir as 42 horas em cinco dias de 8h24, sem pagar como extra os 24 minutos diários. Sindicatos e empregadores terão 90 dias para renegociar cláusulas, e as incompatíveis com a emenda perdem efeito em 16/12. Foram retirados os limites semanais e mensais para o gozo dos dois descansos remunerados, que poderão ser distribuídos por negociação coletiva, e o prazo de adaptação dos contratos públicos caiu de um ano para 180 dias.",
+      "porQueImporta": "Empresas precisam ajustar escalas, banco de horas e acordos coletivos antes de 16/12, e trabalhadores passam a ter um calendário concreto de transição, sem redução salarial.",
       "servicos": [
         "Auditoria Trabalhista",
         "Negociação Sindical",
@@ -616,15 +616,15 @@
           "Carrossel",
           "Stories"
         ],
-        "ideia": "Fim da 6x1: o calendário da transição e o que a empresa precisa ajustar já."
+        "ideia": "Fim da 6x1: decisão de Dino fixa o calendário. O que a empresa precisa acertar com o sindicato até 16/12."
       },
       "oportunidade": 3,
-      "atencao": "Fonte primária (STF, 10/11) trata de anúncio do relator; a decisão em si ainda não saiu e depende de referendo do Plenário. Atualizar após 13/11.",
+      "atencao": "Decisão monocrática com efeito imediato, sujeita a referendo do Plenário do STF. Só a matéria do Migalhas (12/11) foi conferida (fonte secundária); confirmar o texto da decisão no site do STF. A data do limite final de 40 horas não consta da matéria.",
       "fonte": {
-        "nome": "STF (10/11)",
-        "url": "https://noticias.stf.jus.br/postsnoticias/escala-5x2-relator-decidira-sobre-implementacao-da-nova-jornada-ate-sexta-feira-13/"
+        "nome": "Migalhas (12/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468490/fim-da-escala-6x1-dino-mantem-prazo-de-transicao-e-flexibiliza-folgas"
       },
-      "confianca": "primaria"
+      "confianca": "secundaria"
     },
     {
       "id": "tri-cbs",
@@ -1414,6 +1414,88 @@
       "fonte": {
         "nome": "ConJur (04/11)",
         "url": "https://conjur.com.br/2026-nov-04/cni-questiona-pagamento-de-horas-extras-por-falta-de-pausas-termicas"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-pis-cofins-descontos",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-11",
+      "titulo": "STJ decide que descontos e bonificações de fornecedores ao varejo ficam fora da base do PIS e da Cofins",
+      "resumo": "A 1ª Seção do STJ, no Tema Repetitivo 1.412 (relator ministro Afrânio Vilela), entendeu que descontos e bonificações ligados à compra e venda reduzem o custo de aquisição e não compõem a base de PIS e Cofins do comprador. O entendimento vale mesmo quando há contrapartidas comerciais, como exposição em gôndolas, e não exige destaque na nota fiscal. Ficam sujeitas à tributação as bonificações em dinheiro que representem ingresso patrimonial novo e definitivo.",
+      "porQueImporta": "Varejistas e distribuidores podem revisar a apuração de PIS e Cofins sobre esses valores e avaliar eventual recuperação, conforme o caso concreto.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Recuperação de Crédito"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Desconto do fornecedor entra na base do PIS e da Cofins? O que o STJ decidiu e o que o varejo pode revisar."
+      },
+      "oportunidade": 3,
+      "atencao": "Só a matéria do Migalhas (11/11) foi conferida; no site do STJ foi confirmada a afetação do Tema 1.412, não o julgamento. A matéria não detalha modulação nem efeitos sobre processos em curso. Sem promessa de restituição.",
+      "fonte": {
+        "nome": "Migalhas (11/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468414/stj-exclui-descontos-e-bonificacoes-de-fornecedores-a-varejistas-da-base-do-pis-cofins"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-vale-transporte-fgts",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-11",
+      "titulo": "STJ: vale-transporte pago em dinheiro integra a base de cálculo do FGTS",
+      "resumo": "A 1ª Seção do STJ, no Tema Repetitivo 1.334 (relator ministro Marco Aurélio Bellizze), fixou que o vale-transporte pago em dinheiro entra, em regra, na base do FGTS. A exclusão exige a concessão na forma legal, com a compra dos vales emitidos pelas operadoras (Lei 7.418/85). Ficam ressalvados os casos em que a lei autoriza o pagamento em dinheiro, como o trabalho doméstico.",
+      "porQueImporta": "Empresas que pagam o benefício em dinheiro devem revisar a folha e o risco de diferenças de FGTS.",
+      "servicos": [
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Vale-transporte em dinheiro e FGTS: o que muda para a empresa e como revisar a folha com cautela."
+      },
+      "oportunidade": 2,
+      "atencao": "Tese desfavorável às empresas. Só a matéria do Migalhas (11/11) foi conferida (fonte secundária); a matéria não detalha efeitos sobre processos em curso.",
+      "fonte": {
+        "nome": "Migalhas (11/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468402/vale-transporte-em-dinheiro-integra-calculo-do-fgts-decide-stj"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pen-multa-confiscatoria",
+      "areas": [
+        "penal-tributario"
+      ],
+      "data": "2026-11-12",
+      "titulo": "Juíza de Ubatuba/SP suspende ação penal por crime tributário até a discussão sobre multa possivelmente confiscatória",
+      "resumo": "A 2ª Vara de Ubatuba/SP suspendeu por um ano uma ação penal por crimes contra a ordem tributária (Lei 8.137/90), com suspensão também da prescrição. A juíza viu indícios de que a multa, de cerca de R$ 1,3 milhão sobre tributo de cerca de R$ 172 mil, seja confiscatória à luz do Tema 863 do STF, e considerou a discussão uma questão prejudicial à responsabilização penal. O Ministério Público havia pedido o prosseguimento da ação.",
+      "porQueImporta": "Mostra que a discussão do débito fiscal pode repercutir na esfera penal, o que reforça a importância de coordenar a defesa tributária e a criminal.",
+      "servicos": [
+        "Defesa em Investigações sobre Fraude Fiscal e Sonegação",
+        "Consultoria para Regularização Tributária e Redução de Riscos Penais"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Dívida tributária em discussão e processo penal: por que as duas defesas precisam andar juntas."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de primeira instância, em segredo de justiça, sem caráter vinculante. Só a matéria do Migalhas (12/11) foi conferida. Não citar o caso como regra.",
+      "fonte": {
+        "nome": "Migalhas (12/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468480/juiza-suspende-acao-penal-por-indicios-de-multa-tributaria-confiscatoria"
       },
       "confianca": "secundaria"
     }
