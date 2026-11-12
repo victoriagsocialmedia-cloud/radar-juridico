@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-11T14:10:00-03:00",
+  "geradoEm": "2026-11-12T12:00:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -1303,6 +1303,34 @@
         "url": "https://www.migalhas.com.br/quentes/468307/stj-nega-anpc-em-caso-de-improbidade-na-compra-de-material-escolar"
       },
       "confianca": "secundaria"
+    },
+    {
+      "id": "tri-iss-pis-cofins-tema118",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-10-21",
+      "titulo": "STF decide que o ISS não entra na base de cálculo do PIS e da Cofins (Tema 118)",
+      "resumo": "Em julgamento de repercussão geral concluído em 21/10, o Plenário entendeu que o ISS apenas transita pela contabilidade da empresa e não configura receita própria, devendo ficar fora da base do PIS e da Cofins. O placar foi apertado, com voto decisivo do ministro Fux. A tese vale para os demais processos sobre o tema.",
+      "porQueImporta": "Prestadores de serviço que incluíram o ISS na base dessas contribuições podem ter valores a recuperar, o que reforça a revisão de apurações passadas.",
+      "servicos": [
+        "Recuperação de Crédito",
+        "Contencioso Tributário Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "ISS fora do PIS/Cofins: o que a decisão do STF muda para empresas de serviços e como revisar o passado."
+      },
+      "oportunidade": 3,
+      "atencao": "A modulação de efeitos ficou em aberto e pode ser discutida em embargos de declaração; sem ela definida, não prometer valores nem prazos de restituição. As matérias divergem sobre o placar (6 a 5 ou empate desfeito por Fux); conferir no acórdão.",
+      "fonte": {
+        "nome": "STF (21/10/2026)",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-iss-nao-integra-base-de-calculo-do-pis-e-da-cofins/"
+      },
+      "confianca": "primaria"
     }
   ],
   "blog": [
