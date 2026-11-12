@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-12T18:00:00-03:00",
+  "geradoEm": "2026-11-12T17:16:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -170,6 +170,26 @@
         {
           "nome": "Restituição das Contribuições Previdenciárias de Ações Trabalhistas",
           "url": "https://www.marcosinacio.adv.br/servico/restituicao-das-contribuicoes-previdenciarias-decorrentes-de-acoes-trabalhistas"
+        },
+        {
+          "nome": "Concessão de Patentes",
+          "url": "https://www.marcosinacio.adv.br/servico/concessao-de-patentes"
+        },
+        {
+          "nome": "Consultoria no Licenciamento de Softwares",
+          "url": "https://www.marcosinacio.adv.br/servico/consultoria-no-licenciamento-de-softwares"
+        },
+        {
+          "nome": "ESG",
+          "url": "https://www.marcosinacio.adv.br/servico/esg"
+        },
+        {
+          "nome": "Programa de Integridade",
+          "url": "https://www.marcosinacio.adv.br/servico/programa-de-integralidade"
+        },
+        {
+          "nome": "Contestação em Casos de Concessão de Benefícios Acidentários",
+          "url": "https://www.marcosinacio.adv.br/servico/contestacao-em-casos-de-concessao-de-beneficios-acidentarios"
         }
       ]
     },
@@ -1496,6 +1516,60 @@
       "fonte": {
         "nome": "Migalhas (12/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468480/juiza-suspende-acao-penal-por-indicios-de-multa-tributaria-confiscatoria"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "emp-stj-goodwill-haveres",
+      "areas": [
+        "empresarial"
+      ],
+      "data": "2026-11-11",
+      "titulo": "STJ julga se marca e goodwill entram no cálculo dos haveres de sócio que sai da sociedade",
+      "resumo": "A Terceira Turma do STJ começou a julgar o REsp 2.243.267, sobre a inclusão de bens intangíveis, como marca e goodwill, na apuração de haveres de ex-sócios quando o contrato social não os menciona. A relatora, ministra Nancy Andrighi, votou para incluí-los, avaliando-os pelos elementos existentes na data da saída, sem projeções de resultados futuros. O julgamento foi suspenso por pedido de vista da ministra Daniela Teixeira.",
+      "porQueImporta": "O valor da marca pode mudar bastante o que o sócio que se retira tem a receber, o que interessa a quem negocia saídas e redige contratos sociais.",
+      "servicos": [
+        "Contencioso Societário",
+        "Contencioso Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Sócio que sai da empresa: a marca entra no cálculo do que ele tem a receber?"
+      },
+      "oportunidade": 2,
+      "atencao": "Julgamento em andamento e suspenso por pedido de vista; só o voto da relatora é conhecido e o resultado pode mudar. Só a matéria do Migalhas foi conferida (fonte secundária); confirmar no andamento do REsp 2.243.267 no STJ.",
+      "fonte": {
+        "nome": "Migalhas (11/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468279/stj-julga-incluir-marca-em-valor-devido-a-ex-socios-de-rede-de-sushi"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stj-ganho-capital-irrf",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-11",
+      "titulo": "STJ discute se o ganho de capital de investidor estrangeiro é apurado em reais ou em moeda estrangeira para o IRRF",
+      "resumo": "A Segunda Turma do STJ analisa o REsp 2.302.310, sobre a apuração do ganho de capital de empresa estrangeira que vende participação em sociedade brasileira. Discute-se se o cálculo deve ser em reais ou na moeda do investimento e se a variação cambial entra na base. O relator, ministro Francisco Falcão, e a ministra Maria Thereza votaram pela apuração em reais; o ministro Bellizze divergiu, e o ministro Afrânio Vilela pediu vista.",
+      "porQueImporta": "A moeda de apuração pode alterar de modo relevante o imposto retido na fonte em operações de saída de investimento estrangeiro no Brasil.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Atuação Consultiva"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Venda de participação por investidor estrangeiro: em que moeda se calcula o ganho de capital tributado?"
+      },
+      "oportunidade": 2,
+      "atencao": "Julgamento suspenso por pedido de vista, com placar de 2 a 1; o resultado pode mudar. Só a matéria do Migalhas foi conferida (fonte secundária); confirmar no andamento do REsp 2.302.310 no STJ.",
+      "fonte": {
+        "nome": "Migalhas (11/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468293/stj-discute-calculo-de-ganho-de-capital-de-investidor-estrangeiro"
       },
       "confianca": "secundaria"
     }
