@@ -1,6 +1,8 @@
 {
   "permissions": {
     "allow": [
+      "WebFetch(domain:marcosinacio.adv.br)",
+      "WebFetch(domain:www.marcosinacio.adv.br)",
       "WebFetch(domain:migalhas.com.br)",
       "WebFetch(domain:www.migalhas.com.br)",
       "WebFetch(domain:conjur.com.br)",
