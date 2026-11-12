@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-12T10:38:03-03:00",
+  "geradoEm": "2026-11-12T16:50:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -1386,6 +1386,34 @@
       "fonte": {
         "nome": "ConJur (12/11/2026)",
         "url": "https://conjur.com.br/2026-nov-12/marido-que-assume-divida-em-divorcio-e-nao-paga-deve-danos-morais/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-adi-pausas-termicas",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-04",
+      "titulo": "CNI vai ao STF contra horas extras por falta de pausas de recuperação térmica",
+      "resumo": "A Confederação Nacional da Indústria ajuizou no STF a ADI 8.038, relatada pelo ministro Nunes Marques, contra a interpretação da Justiça do Trabalho que exige pagamento de horas extras quando o empregado exposto ao calor não recebe pausas de recuperação térmica (Tema 161 do TST). Para a entidade, a leitura dos arts. 71, §4º, e 253 da CLT cria uma obrigação sem previsão expressa. A ação está em fase inicial, sem liminar ou julgamento.",
+      "porQueImporta": "O resultado pode afetar trabalhadores expostos a calor e as empresas que respondem a pedidos de horas extras por esse motivo; por ora, a orientação do TST segue como referência na Justiça do Trabalho.",
+      "servicos": [
+        "Reclamação de horas extras",
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Trabalha no calor sem pausas? Entenda a discussão no STF sobre horas extras por falta de recuperação térmica."
+      },
+      "oportunidade": 2,
+      "atencao": "Ação inicial, sem decisão do STF; o Tema 161 do TST continua sendo a orientação vigente até eventual julgamento. Só a matéria da ConJur foi conferida (texto completo, acesso aberto); confirmar a tramitação no site do STF.",
+      "fonte": {
+        "nome": "ConJur (04/11)",
+        "url": "https://conjur.com.br/2026-nov-04/cni-questiona-pagamento-de-horas-extras-por-falta-de-pausas-termicas"
       },
       "confianca": "secundaria"
     }
