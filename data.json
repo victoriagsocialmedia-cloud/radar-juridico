@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-13T07:33:00-03:00",
+  "geradoEm": "2026-11-13T12:31:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -1672,6 +1672,32 @@
       "fonte": {
         "nome": "Migalhas (12/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468421/gilmar-suspende-acoes-de-valores-pagos-pelo-sus-a-hospitais-privados"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-tst-dispensa-massa-casa-moeda",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-12",
+      "titulo": "TST anula dispensa em massa na Casa da Moeda e fixa R$ 10 milhões por dano moral coletivo",
+      "resumo": "A SDI-1 do TST, por maioria, restabeleceu decisão que anulou a dispensa de 212 empregados da Casa da Moeda escolhidos por serem aposentados ou aptos a se aposentar, reconhecendo discriminação por idade. A decisão determina reintegração, pagamento dos salários do período de afastamento e indenização coletiva de R$ 10 milhões. O relator também destacou que a empresa não ouviu o sindicato antes das dispensas, o que a jurisprudência exige em dispensas coletivas.",
+      "porQueImporta": "Reforça que dispensas coletivas pedem diálogo prévio com o sindicato e critérios objetivos, sem uso de idade ou condição previdenciária, reduzindo o risco de nulidade e de condenações elevadas.",
+      "servicos": [
+        "Negociação Sindical"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Dispensa em massa: por que ouvir o sindicato antes e evitar critérios ligados à idade."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de caso específico (empresa estatal), com divergência na turma; baseada em matéria do Migalhas de 12/11. Data do julgamento e número exato do processo não conferidos na fonte primária (TST). Confirmar antes de publicar.",
+      "fonte": {
+        "nome": "Migalhas (12/11)",
+        "url": "https://www.migalhas.com.br/quentes/468499/tst-anula-dispensa-em-massa-e-multa-casa-da-moeda-em-r-10-mi-por-etarismo"
       },
       "confianca": "secundaria"
     }
