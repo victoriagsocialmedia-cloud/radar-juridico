@@ -1,13 +1,7 @@
 {
-  "geradoEm": "2026-11-12T17:19:00-03:00",
+  "geradoEm": "2026-11-13T07:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
-    {
-      "data": "2026-11-12",
-      "rotulo": "Último dia para pedir renegociação de dívidas rurais (MP 1.376/2026)",
-      "area": "agrario",
-      "itemId": "agr-bnb"
-    },
     {
       "data": "2026-11-16",
       "rotulo": "Fim do prazo para instituições enviarem contribuições ao STF sobre o contencioso de IBS e CBS",
@@ -1623,6 +1617,61 @@
       "fonte": {
         "nome": "Reforma Tributária (10/11/2026)",
         "url": "https://www.reformatributaria.com/iva/tj-sp-fazenda-de-sp-consegue-suspender-10-decisoes-que-tiravam-ibs-e-cbs-da-base-do-icms/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adu-stj-gatt-zfm",
+      "areas": [
+        "aduaneiro",
+        "tributario"
+      ],
+      "data": "2026-11-12",
+      "titulo": "STJ julga se PIS e Cofins-Importação incidem sobre produtos de países do Gatt na Zona Franca de Manaus (Tema 1.244)",
+      "resumo": "A 1ª Seção do STJ analisa, em recursos repetitivos, se há PIS-Importação e Cofins-Importação sobre bens de países signatários do Gatt destinados a consumo ou industrialização na Zona Franca de Manaus. O relator, ministro Marco Aurélio Bellizze, propôs não tributar, por entender que a cláusula de tratamento nacional do Gatt é autoaplicável e prevalece sobre a lei interna. A Fazenda Nacional sustenta que a cláusula só impede discriminação no mercado interno. O julgamento foi interrompido em 11/11 por pedido de vista do ministro Herman Benjamin.",
+      "porQueImporta": "Importadores que operam na Zona Franca de Manaus podem ter valores pagos a maior a recuperar, caso a tese do relator prevaleça.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Recuperação de Crédito"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Importou para a Zona Franca de Manaus? Entenda o que o STJ está julgando sobre PIS e Cofins-Importação."
+      },
+      "oportunidade": 2,
+      "atencao": "Julgamento ainda sem resultado: só há o voto-proposta do relator, e o pedido de vista pode alterar o cenário. Conferido apenas na matéria da ConJur (fonte secundária); confirmar no site do STJ.",
+      "fonte": {
+        "nome": "ConJur (12/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-12/relator-no-stj-propoe-nao-tributar-importacoes-de-paises-do-gatt-para-zona-franca/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stf-sus-hospitais",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-12",
+      "titulo": "Gilmar Mendes suspende no país ações sobre valores pagos pelo SUS a hospitais privados e trava precatórios do tema",
+      "resumo": "O ministro Gilmar Mendes, do STF, suspendeu em todo o país os processos que discutem a revisão dos valores pagos pelo SUS a hospitais privados, além da expedição e do levantamento de precatórios e RPVs ligados ao tema, até o julgamento de mérito (RE 1.612.904). A medida atende a pedido da AGU, após o reconhecimento de repercussão geral em outubro. A decisão final deve definir como eventuais custos adicionais serão divididos entre União, Estados e municípios.",
+      "porQueImporta": "Municípios e estados que contratam hospitais privados para o SUS ficam com o cenário de custos e de ações em aberto até o STF decidir.",
+      "servicos": [
+        "Assessoria jurídica a entes públicos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "STF suspende ações sobre a Tabela SUS: o que muda para a gestão municipal de saúde."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão monocrática, sujeita a referendo. Só a matéria do Migalhas (12/11) foi conferida (fonte secundária); confirmar no site do STF.",
+      "fonte": {
+        "nome": "Migalhas (12/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468421/gilmar-suspende-acoes-de-valores-pagos-pelo-sus-a-hospitais-privados"
       },
       "confianca": "secundaria"
     }
