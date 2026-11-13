@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-13T12:31:00-03:00",
+  "geradoEm": "2026-11-13T13:54:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -7,6 +7,12 @@
       "rotulo": "Fim do prazo para instituições enviarem contribuições ao STF sobre o contencioso de IBS e CBS",
       "area": "tributario",
       "itemId": "tri-stf-consulta-ibs-cbs"
+    },
+    {
+      "data": "2026-11-16",
+      "rotulo": "Termina às 23h59 a sessão virtual do STF que julga o referendo da liminar de Dino sobre a transição para a escala 5x2",
+      "area": "trabalhista",
+      "itemId": "tra-6x1"
     },
     {
       "data": "2026-12-15",
@@ -633,12 +639,12 @@
         "ideia": "Fim da 6x1: decisão de Dino fixa o calendário. O que a empresa precisa acertar com o sindicato até 16/12."
       },
       "oportunidade": 3,
-      "atencao": "Decisão monocrática com efeito imediato, sujeita a referendo do Plenário do STF. Só a matéria do Migalhas (12/11) foi conferida (fonte secundária); confirmar o texto da decisão no site do STF. A data do limite final de 40 horas não consta da matéria.",
+      "atencao": "Decisão monocrática com efeito imediato. O referendo pelo Plenário do STF está em sessão virtual extraordinária de 13/11 (11h) a 16/11 (23h59), segundo o Migalhas (13/11); o resultado pode confirmar ou alterar as regras. O conteúdo da liminar foi conferido na notícia oficial do STF (12/11). A data do limite final de 40 horas não consta das fontes conferidas.",
       "fonte": {
-        "nome": "Migalhas (12/11/2026)",
-        "url": "https://www.migalhas.com.br/quentes/468490/fim-da-escala-6x1-dino-mantem-prazo-de-transicao-e-flexibiliza-folgas"
+        "nome": "STF Notícias (12/11/2026)",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-regra-de-transicao-para-implementacao-da-jornada-5x2/"
       },
-      "confianca": "secundaria"
+      "confianca": "primaria"
     },
     {
       "id": "tri-cbs",
