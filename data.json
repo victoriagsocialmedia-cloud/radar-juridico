@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-13T13:54:00-03:00",
+  "geradoEm": "2026-11-13T16:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -1704,6 +1704,90 @@
       "fonte": {
         "nome": "Migalhas (12/11)",
         "url": "https://www.migalhas.com.br/quentes/468499/tst-anula-dispensa-em-massa-e-multa-casa-da-moeda-em-r-10-mi-por-etarismo"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pen-combustiveis-rj-sp",
+      "areas": [
+        "penal-tributario"
+      ],
+      "data": "2026-11-11",
+      "titulo": "Operação no RJ e em SP mira grupo de combustíveis por fraude fiscal de mais de R$ 5,5 bilhões",
+      "resumo": "O Gaesf, grupo do MP do Rio de Janeiro especializado em sonegação fiscal, e a Polícia Civil de São Paulo cumpriram 17 mandados de prisão e 19 de busca e apreensão contra um grupo ligado a uma refinaria de petróleo. A investigação apura fraudes fiscais sucessivas ao longo da cadeia de produção e distribuição de combustíveis, além de lavagem de dinheiro. O prejuízo estimado aos cofres públicos passa de R$ 5,5 bilhões.",
+      "porQueImporta": "O setor de combustíveis segue na mira de operações fiscais e penais; empresas da cadeia que negociaram com investigados podem ser chamadas a comprovar a regularidade das operações e dos créditos.",
+      "servicos": [
+        "Defesa em Investigações sobre Fraude Fiscal e Sonegação",
+        "Consultoria para Regularização Tributária e Redução de Riscos Penais"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Fraude fiscal em combustíveis: por que a regularidade de fornecedores e créditos protege a empresa de risco penal."
+      },
+      "oportunidade": 2,
+      "atencao": "Investigação em andamento, sem julgamento. Tom informativo e preventivo; não citar empresas ou pessoas investigadas. O nome da operação não consta da fonte conferida.",
+      "fonte": {
+        "nome": "Agência SP (11/11/2026)",
+        "url": "https://www.agenciasp.sp.gov.br/seguranca-publica/policia-civil-de-sp-atua-em-operacao-contra-grupo-investigado-por-esquema-bilionario-de-fraude-fiscal/"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "civ-stj-aluguel-ex-conjuge-filhos",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-05",
+      "titulo": "STJ: ex-cônjuge que mora com os filhos no imóvel do casal não deve aluguel ao outro",
+      "resumo": "A 3ª Turma do STJ, com relatoria da ministra Nancy Andrighi, entendeu que não cabe cobrar aluguel do ex-cônjuge que ocupa o imóvel junto com os filhos comuns. Para o colegiado, nesse caso não há posse exclusiva, porque o uso da casa atende ao dever de sustento dos dois pais. A indenização pelo uso exclusivo continua possível quando o imóvel é ocupado só por um dos ex-cônjuges, e pode, excepcionalmente, ser convertida em parte da pensão, em ação própria.",
+      "porQueImporta": "Orienta a negociação da partilha e do uso do imóvel no divórcio, levando em conta quem fica com os filhos e quem arca com as despesas da casa.",
+      "servicos": [
+        "Divórcio",
+        "Ação de Alimentos"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "Ficou no imóvel com os filhos depois do divórcio? O que o STJ decidiu sobre cobrança de aluguel."
+      },
+      "oportunidade": 2,
+      "atencao": "Só a matéria do ConJur foi conferida (fonte secundária); a data do julgamento e o número do processo não constam da matéria (data = publicação). Decisão de turma, não vinculante.",
+      "fonte": {
+        "nome": "ConJur (05/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-05/ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "agr-tjmt-pra-embargo",
+      "areas": [
+        "agrario"
+      ],
+      "data": "2026-11-08",
+      "titulo": "TJ-MT revoga embargo e libera exploração de fazenda que cumpre o programa de regularização ambiental",
+      "resumo": "A 2ª Câmara de Direito Público e Coletivo do TJ-MT revogou liminar que proibia a exploração econômica de cerca de 1,4 mil hectares por déficit de reserva legal, em ação civil pública do MP. O colegiado considerou que a propriedade aderiu ao Programa de Regularização Ambiental e executa plano de recuperação, o que, pelo Código Florestal, permite manter as atividades durante a recuperação. Também mandou reativar incentivos fiscais e linhas de crédito.",
+      "porQueImporta": "Mostra que o produtor em dia com o PRA pode contestar embargos e bloqueios de crédito, desde que documente o cumprimento do programa.",
+      "servicos": [
+        "Defesa em multas ambientais",
+        "Crédito rural: execução, ações revisionais e alongamento"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Estático"
+        ],
+        "ideia": "Fazenda no PRA pode continuar produzindo? O que o TJ-MT decidiu sobre embargo ambiental."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão em agravo de instrumento (proc. 1021637-02.2026.8.11.0000), específica ao caso e sem análise do mérito da ação civil pública. Trata de embargo, não de multa. Só a matéria do ConJur foi conferida (fonte secundária).",
+      "fonte": {
+        "nome": "ConJur (08/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-08/tj-mt-permite-exploracao-economica-em-fazenda-em-processo-de-regularizacao-ambiental/"
       },
       "confianca": "secundaria"
     }
