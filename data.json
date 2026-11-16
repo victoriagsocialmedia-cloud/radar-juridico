@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-13T16:38:00-03:00",
+  "geradoEm": "2026-11-16T07:37:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -13,6 +13,12 @@
       "rotulo": "Termina às 23h59 a sessão virtual do STF que julga o referendo da liminar de Dino sobre a transição para a escala 5x2",
       "area": "trabalhista",
       "itemId": "tra-6x1"
+    },
+    {
+      "data": "2026-11-26",
+      "rotulo": "Fim da sessão virtual do STF que julga os embargos sobre execução de condenações por improbidade culposa (Tema 309)",
+      "area": "publico",
+      "itemId": "pub-stf-improbidade-culposa"
     },
     {
       "data": "2026-12-15",
@@ -1816,6 +1822,32 @@
       "fonte": {
         "nome": "ConJur (13/11/2026)",
         "url": "https://conjur.com.br/2026-nov-13/seguro-garantia-impede-protesto-e-inscricao-no-cadin-propoe-relator-no-stj/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stf-improbidade-culposa",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-13",
+      "titulo": "STF julga no plenário virtual se condenações definitivas por improbidade culposa continuam sendo executadas",
+      "resumo": "Em embargos de declaração no RE 656.558 (Tema 309), o STF analisa como a invalidação da modalidade culposa de improbidade afeta condenações anteriores. O relator, ministro Dias Toffoli, propõe interromper as execuções a partir de um marco temporal, preservando situações consolidadas, e foi acompanhado por Flávio Dino. Alexandre de Moraes divergiu em parte, defendendo manter o ressarcimento ao erário. O julgamento segue de 13 a 26/11.",
+      "porQueImporta": "O resultado define se gestores e ex-gestores condenados por improbidade sem dolo ainda enfrentam execução, e como ficam ressarcimentos já fixados.",
+      "servicos": [
+        "Assessoria jurídica a entes públicos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Improbidade sem dolo: o que o STF discute sobre condenações antigas e o que gestores devem acompanhar."
+      },
+      "oportunidade": 2,
+      "atencao": "Julgamento em andamento (só três votos até a matéria); resultado pode mudar. Só a matéria do Migalhas foi conferida, com datas de marco temporal inconsistentes no texto; confirmar no STF antes de publicar.",
+      "fonte": {
+        "nome": "Migalhas (13/11)",
+        "url": "https://www.migalhas.com.br/quentes/468591/stf-discute-execucao-de-condenacoes-por-improbidade-sem-dolo"
       },
       "confianca": "secundaria"
     }
