@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T07:38:00-03:00",
+  "geradoEm": "2026-11-16T10:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -560,7 +560,7 @@
         "ideia": "Contagem regressiva: quem pode renegociar a dívida rural até 12/11 e que documentos reunir."
       },
       "oportunidade": 3,
-      "atencao": "A notícia trata do BNB. Outros bancos podem ter prazos e regras próprios.",
+      "atencao": "A notícia trata do BNB; outros bancos podem ter prazos e regras próprios. O prazo de 12/11 já passou; a MP 1.376/2026 foi aprovada pelo Congresso em 11/11 e aguarda sanção (ver item agr-mp-1376-aprovada-congresso).",
       "fonte": {
         "nome": "Movimento Econômico (26/10)",
         "url": "https://movimentoeconomico.com.br/agronegocio/2026/10/26/produtores-rurais-tem-ate-12-de-novembro-para-renegociar-dividas-no-bnb/"
@@ -2101,6 +2101,89 @@
       "fonte": {
         "nome": "ConJur (15/11/2026)",
         "url": "https://conjur.com.br/2026-nov-15/convencao-coletiva-nao-pode-afastar-garantia-a-trabalhadora-prevista-na-clt/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stj-cprb-base-pis-cofins",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-13",
+      "titulo": "STJ fixa em repetitivo que a CPRB entra na base de cálculo do PIS e da Cofins (Tema 1.276)",
+      "resumo": "A Primeira Seção do STJ, sob relatoria do ministro Marco Aurélio Bellizze, definiu em recurso repetitivo que a Contribuição Previdenciária sobre a Receita Bruta (CPRB) compõe a base de cálculo do PIS/Pasep e da Cofins e não pode ser excluída. A tese foi fixada no julgamento dos REsps 2.123.902, 2.123.904 e 2.123.906 e passa a orientar os demais tribunais.",
+      "porQueImporta": "Empresas que discutem a exclusão da CPRB da base do PIS e da Cofins precisam reavaliar ações em curso, provisões e pedidos de compensação.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Atuação Consultiva"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Estático"
+        ],
+        "ideia": "Tema 1.276: o STJ fechou a porta para tirar a CPRB da base do PIS e da Cofins. O que fazer com a ação em curso."
+      },
+      "oportunidade": 2,
+      "atencao": "Tese desfavorável ao contribuinte, com efeito vinculante. A notícia do STJ não informa a data do julgamento (data = publicação) nem se houve modulação.",
+      "fonte": {
+        "nome": "STJ Notícias (13/11/2026)",
+        "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/13112026-cprb-compoe-a-base-de-calculo-do-pispasep-e-da-cofins--define-stj-em-tese-vinculante.aspx"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "pen-tax-mirage-compensacoes",
+      "areas": [
+        "penal-tributario"
+      ],
+      "data": "2026-11-12",
+      "titulo": "Operação Tax Mirage: Receita e PF miram esquema de compensações com créditos inexistentes de mais de R$ 185 milhões",
+      "resumo": "Receita Federal e Polícia Federal cumpriram 19 mandados de busca no PR, SC, AM, RO e RR. Segundo a Receita, um grupo vendia supostos estudos de recuperação de créditos baseados em pagamentos de contribuição previdenciária que nunca ocorreram, e cobrava um percentual sobre os valores compensados. Ao menos 48 contribuintes de 10 estados usaram as compensações, e algumas empresas obtiveram certidões de regularidade para disputar licitações.",
+      "porQueImporta": "Quem contratou consultoria de recuperação de créditos com promessa de zerar dívidas pode responder pela compensação indevida e deve rever a origem dos créditos usados.",
+      "servicos": [
+        "Defesa em Investigações sobre Fraude Fiscal e Sonegação",
+        "Consultoria para Regularização Tributária e Redução de Riscos Penais"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "Promessa de zerar impostos com créditos 'garantidos'? Os riscos de compensar o que não existe."
+      },
+      "oportunidade": 3,
+      "atencao": "Investigação em andamento, sem julgamento. Tom informativo e preventivo; não citar empresas ou pessoas investigadas.",
+      "fonte": {
+        "nome": "Receita Federal (12/11/2026)",
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-pf-cumprem-mandados-contra-esquema-de-fraudes-tributarias-superiores-a-r-185-milhoes-ocultacao-patrimonial-e-fraudes-em-licitacoes"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "agr-mp-1376-aprovada-congresso",
+      "areas": [
+        "agrario"
+      ],
+      "data": "2026-11-11",
+      "titulo": "Congresso aprova MP da renegociação de dívidas rurais no último dia de vigência; texto vai à sanção",
+      "resumo": "O Senado aprovou em 11/11 a MP 1.376/2026, um dia depois da Câmara. O texto cria linhas de crédito para quitar ou amortizar operações de crédito rural e CPRs de produtores com perdas em ao menos duas safras entre 2019 e 2025, com limites de R$ 400 mil a R$ 4 milhões conforme o perfil, juros de 6% a 12% ao ano e até oito anos para pagar, com dois anos até a primeira amortização. O relator ampliou o número de produtores que podem aderir.",
+      "porQueImporta": "Com a conversão em lei, as regras da renegociação ganham estabilidade; o produtor deve conferir se ainda há janela de adesão e reunir o laudo das perdas.",
+      "servicos": [
+        "Crédito rural: execução, ações revisionais e alongamento"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "MP das dívidas rurais aprovada: quem pode renegociar, limites, juros e prazos."
+      },
+      "oportunidade": 3,
+      "atencao": "Aguarda sanção presidencial, que pode vetar trechos. A matéria não informa novo prazo de adesão. Fonte secundária (Congresso em Foco); conferir o texto final no site do Congresso.",
+      "fonte": {
+        "nome": "Congresso em Foco (11/11/2026)",
+        "url": "https://www.congressoemfoco.com.br/noticia/131523/mp-da-renegociacao-de-dividas-de-produtores-rurais-vai-a-sancao"
       },
       "confianca": "secundaria"
     }
