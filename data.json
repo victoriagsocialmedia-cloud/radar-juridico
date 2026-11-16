@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T07:37:00-03:00",
+  "geradoEm": "2026-11-16T07:38:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -80,6 +80,42 @@
         {
           "nome": "Revisão de Aposentadoria e Gratificações",
           "url": "https://www.marcosinacio.adv.br/expertise/administrativo/"
+        },
+        {
+          "nome": "Ações de Cobrança",
+          "url": "https://www.marcosinacio.adv.br/servico/acoes-de-cobranca"
+        },
+        {
+          "nome": "Concurso Público",
+          "url": "https://www.marcosinacio.adv.br/servico/concurso-publico"
+        },
+        {
+          "nome": "Conversão de Licença Especial em Pecúnia",
+          "url": "https://www.marcosinacio.adv.br/servico/conversao-de-licenca-especial-em-pecunia"
+        },
+        {
+          "nome": "Defesa em Processo Administrativo Disciplinar (PAD) e Ação Judicial",
+          "url": "https://www.marcosinacio.adv.br/servico/defesa-em-processo-administrativo-disciplinar-pad-e-acao-judicial"
+        },
+        {
+          "nome": "Execução da GDASS",
+          "url": "https://www.marcosinacio.adv.br/servico/execucao-gdass"
+        },
+        {
+          "nome": "Planejamento Previdenciário Militar",
+          "url": "https://www.marcosinacio.adv.br/servico/planejamento-previdenciario-militar"
+        },
+        {
+          "nome": "Progressão Funcional",
+          "url": "https://www.marcosinacio.adv.br/servico/7296"
+        },
+        {
+          "nome": "Progressão na Carreira Militar",
+          "url": "https://www.marcosinacio.adv.br/servico/progressao-na-carreira-militar"
+        },
+        {
+          "nome": "Reintegração, Remoção e Readaptação Funcional",
+          "url": "https://www.marcosinacio.adv.br/servico/reintegracao-remocao-e-readaptacao-funcional"
         }
       ]
     },
@@ -149,6 +185,78 @@
         {
           "nome": "Indenização por Negativação Indevida",
           "url": "https://www.marcosinacio.adv.br/servico/negativacao-indevida"
+        },
+        {
+          "nome": "Ações de Cobrança",
+          "url": "https://www.marcosinacio.adv.br/servico/acoes-de-cobranca"
+        },
+        {
+          "nome": "Auxílio Moradia para Médico Residente",
+          "url": "https://www.marcosinacio.adv.br/servico/auxilio-moradia-para-medico-residente"
+        },
+        {
+          "nome": "Expedição de Alvará",
+          "url": "https://www.marcosinacio.adv.br/servico/expedicao-de-alvara"
+        },
+        {
+          "nome": "Guarda, Tutela e Curatela",
+          "url": "https://www.marcosinacio.adv.br/servico/guarda-tutela-e-curatela"
+        },
+        {
+          "nome": "Habilitação em Processos Judiciais e Administrativos",
+          "url": "https://www.marcosinacio.adv.br/servico/habilitacao-em-processos-judiciais-e-administrativos"
+        },
+        {
+          "nome": "Homologação de Testamento",
+          "url": "https://www.marcosinacio.adv.br/servico/homologacao-de-testamento"
+        },
+        {
+          "nome": "Indenização da CAPESESP",
+          "url": "https://www.marcosinacio.adv.br/servico/indenizacao-da-capesesp"
+        },
+        {
+          "nome": "Indenização em Razão da Morte de Profissionais de Saúde na Linha de Frente do Covid",
+          "url": "https://www.marcosinacio.adv.br/servico/indenizacao-em-razao-da-morte-de-profissionais-de-saude-na-linha-de-frente-do-covid"
+        },
+        {
+          "nome": "Indenização por Acidente em Rodovia Federal",
+          "url": "https://www.marcosinacio.adv.br/servico/indenizacao-por-acidente-em-rodovia-federal"
+        },
+        {
+          "nome": "Indenização por Descontos Indevidos",
+          "url": "https://www.marcosinacio.adv.br/servico/indenizacao-por-descontos-indevidos"
+        },
+        {
+          "nome": "Indenização por Empréstimo Fraudado",
+          "url": "https://www.marcosinacio.adv.br/servico/emprestimo-fraudado"
+        },
+        {
+          "nome": "Pensão Civil",
+          "url": "https://www.marcosinacio.adv.br/servico/pensao-civil"
+        },
+        {
+          "nome": "Reconhecimento de Paternidade",
+          "url": "https://www.marcosinacio.adv.br/servico/reconhecimento-de-paternidade"
+        },
+        {
+          "nome": "Reconhecimento de Paternidade ou Maternidade Socioafetiva",
+          "url": "https://www.marcosinacio.adv.br/servico/reconhecimento-de-paternidade-ou-maternidade-socioafetiva"
+        },
+        {
+          "nome": "Reconhecimento de União Estável",
+          "url": "https://www.marcosinacio.adv.br/servico/reconhecimento-de-uniao-estavel"
+        },
+        {
+          "nome": "Retificação de Documentos",
+          "url": "https://www.marcosinacio.adv.br/servico/retificacao-de-documentos"
+        },
+        {
+          "nome": "Suspensão do FIES para Médico Residente",
+          "url": "https://www.marcosinacio.adv.br/servico/suspensao-do-fies-para-medico-residente"
+        },
+        {
+          "nome": "Usucapião",
+          "url": "https://www.marcosinacio.adv.br/servico/usucapiao"
         }
       ]
     },
@@ -196,6 +304,66 @@
         {
           "nome": "Contestação em Casos de Concessão de Benefícios Acidentários",
           "url": "https://www.marcosinacio.adv.br/servico/contestacao-em-casos-de-concessao-de-beneficios-acidentarios"
+        },
+        {
+          "nome": "Acompanhamento em Dissídios Coletivos",
+          "url": "https://www.marcosinacio.adv.br/servico/acompanhamento-em-dissidios-coletivos"
+        },
+        {
+          "nome": "Assessoria na Condução das Atividades de Terceirização",
+          "url": "https://www.marcosinacio.adv.br/servico/assessoria-na-conducao-das-atividades-de-terceirizacao"
+        },
+        {
+          "nome": "Consultoria e Constituição de Holding",
+          "url": "https://www.marcosinacio.adv.br/servico/consultoria-e-constituicao-de-holding"
+        },
+        {
+          "nome": "Consultoria e Implementação de Estrutura de Salários, Benefícios e Incentivos",
+          "url": "https://www.marcosinacio.adv.br/servico/consultoria-e-implementacao-de-estrutura-de-salarios-beneficios-e-incentivos"
+        },
+        {
+          "nome": "Consultoria e Implementação de Plano Sucessório e Patrimonial",
+          "url": "https://www.marcosinacio.adv.br/servico/consultoria-e-implementacao-de-plano-sucessorio-e-patrimonial"
+        },
+        {
+          "nome": "Consultoria em Projetos de Reorganização Societária",
+          "url": "https://www.marcosinacio.adv.br/servico/consultoria-em-projetos-de-reorganizacao-societaria"
+        },
+        {
+          "nome": "Consultoria na Elaboração de Políticas Internas e Documentos",
+          "url": "https://www.marcosinacio.adv.br/servico/consultoria-na-elaboracao-de-politicas-internas-e-documentos"
+        },
+        {
+          "nome": "Contestação do Fator Acidentário de Prevenção – FAP",
+          "url": "https://www.marcosinacio.adv.br/servico/contestacao-do-fator-acidentario-de-prevencao-fap"
+        },
+        {
+          "nome": "Contestação e Recurso no INSS Quanto ao Nexo de Acidentalidade",
+          "url": "https://www.marcosinacio.adv.br/servico/contestacao-e-recurso-no-inss-quanto-ao-nexo-de-acidentalidade"
+        },
+        {
+          "nome": "Contratos de Tecnologia",
+          "url": "https://www.marcosinacio.adv.br/servico/contratos-de-tecnologia"
+        },
+        {
+          "nome": "DUE Diligence em Processos de Fusões e Aquisições",
+          "url": "https://www.marcosinacio.adv.br/servico/due-diligence-em-processos-de-fusoes-e-aquisicoes"
+        },
+        {
+          "nome": "Elaboração de Documentos Legais e Paralegais",
+          "url": "https://www.marcosinacio.adv.br/servico/elaboracao-de-documentos-legais-e-paralegais"
+        },
+        {
+          "nome": "Negociação em Acordo de Acionistas e de Sócios",
+          "url": "https://www.marcosinacio.adv.br/servico/negociacao-em-acordo-de-acionistas-e-de-socios"
+        },
+        {
+          "nome": "Proteção de Desenhos Industriais",
+          "url": "https://www.marcosinacio.adv.br/servico/protecao-de-desenhos-industriais"
+        },
+        {
+          "nome": "Registro de Marca",
+          "url": "https://www.marcosinacio.adv.br/servico/registro-de-marcas-e-patentes"
         }
       ]
     },
@@ -1848,6 +2016,91 @@
       "fonte": {
         "nome": "Migalhas (13/11)",
         "url": "https://www.migalhas.com.br/quentes/468591/stf-discute-execucao-de-condenacoes-por-improbidade-sem-dolo"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "emp-tjsc-cbf-marca-dominio-publico",
+      "areas": [
+        "empresarial"
+      ],
+      "data": "2026-11-15",
+      "titulo": "TJ-SC: cores do Brasil, bola de futebol e a palavra \"Brasil\" não são exclusivas da CBF",
+      "resumo": "A 1ª Câmara de Direito Comercial do TJ-SC negou recurso da CBF e afastou multa de R$ 40 mil prevista em acordo contra uma confecção de Gaspar/SC. A empresa passou a usar um brasão com verde e amarelo, bola de futebol e a palavra \"Brasil\". Para o colegiado, esses elementos são de domínio público e não reproduzem o núcleo distintivo das marcas registradas pela CBF no INPI.",
+      "porQueImporta": "Ajuda empresas a entender até onde vai a proteção de uma marca registrada e a desenhar identidade visual com elementos de uso comum sem violar direitos de terceiros.",
+      "servicos": [
+        "Registro de Marca",
+        "Contencioso Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Verde, amarelo e bola de futebol: o que é marca registrada e o que é de uso comum."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de câmara estadual, específica ao caso (proc. 5005431-69.2024.8.24.0025). Só a matéria do Migalhas foi conferida (fonte secundária); a data do julgamento não consta (data = publicação).",
+      "fonte": {
+        "nome": "Migalhas (15/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468100/tj-sc-cores-do-brasil-e-bola-de-futebol-nao-sao-exclusivas-da-cbf"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-tjpi-consignado-comprovante-ted",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-15",
+      "titulo": "Juíza do Piauí reverte sentença e valida consignado após analisar comprovante de transferência do banco",
+      "resumo": "A 2ª Vara Cível de Teresina/PI havia anulado um empréstimo consignado e condenado o banco a devolver os descontos e pagar R$ 1 mil de danos morais. Ao julgar embargos de declaração, a juíza reconheceu que não havia analisado o comprovante de TED apresentado pelo banco, que mostrava o crédito na conta da consumidora. Como a autora também não apresentou os extratos do período, mesmo intimada, os pedidos foram julgados improcedentes.",
+      "porQueImporta": "Mostra que, em ações sobre empréstimo não reconhecido, os extratos bancários da época são prova decisiva, e que a falta deles pode derrubar o pedido.",
+      "servicos": [
+        "Indenização por Empréstimo Fraudado",
+        "Indenização por Descontos Indevidos"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Stories"
+        ],
+        "ideia": "Desconto de empréstimo que você não reconhece? Por que guardar os extratos faz diferença no processo."
+      },
+      "oportunidade": 1,
+      "atencao": "Decisão de primeira instância, desfavorável à consumidora e sujeita a recurso (proc. 0862559-13.2024.8.18.0140). Tom preventivo, sem citar o banco. Só a matéria do Migalhas foi conferida (fonte secundária); data = publicação.",
+      "fonte": {
+        "nome": "Migalhas (15/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468170/juiza-valida-emprestimo-apos-analisar-comprovante-ignorado"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-trt1-descanso-dominical-mulheres",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-15",
+      "titulo": "Justiça do Trabalho do Rio: convenção coletiva não pode afastar descanso dominical quinzenal das comerciárias",
+      "resumo": "Em ação civil pública do MPT, a 3ª Vara do Trabalho do Rio de Janeiro entendeu que a convenção do comércio, ao prever folga aos domingos a cada três semanas, viola o artigo 386 da CLT, que exige revezamento quinzenal para mulheres. O sindicato patronal foi proibido de negociar cláusulas que reduzam esse descanso e deve ajustar as vigentes. Houve condenação de R$ 50 mil por dano moral coletivo e multa de R$ 30 mil por norma coletiva celebrada em desacordo.",
+      "porQueImporta": "Empresas do comércio e sindicatos precisam revisar escalas e cláusulas de descanso dominical, especialmente agora, com a reorganização das jornadas pela EC 141/2026.",
+      "servicos": [
+        "Negociação Sindical",
+        "Auditoria Trabalhista",
+        "Acompanhamento em Dissídios Coletivos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Escala no comércio: a regra do domingo a cada 15 dias para mulheres vale mesmo com convenção coletiva."
+      },
+      "oportunidade": 2,
+      "atencao": "Sentença de primeira instância (ACP 0101356-69.2026.5.01.0003), sujeita a recurso. Só a matéria do ConJur foi conferida (fonte secundária); data = publicação.",
+      "fonte": {
+        "nome": "ConJur (15/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-15/convencao-coletiva-nao-pode-afastar-garantia-a-trabalhadora-prevista-na-clt/"
       },
       "confianca": "secundaria"
     }
