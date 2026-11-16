@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T10:33:00-03:00",
+  "geradoEm": "2026-11-16T13:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2184,6 +2184,64 @@
       "fonte": {
         "nome": "Congresso em Foco (11/11/2026)",
         "url": "https://www.congressoemfoco.com.br/noticia/131523/mp-da-renegociacao-de-dividas-de-produtores-rurais-vai-a-sancao"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stj-cigarros-pis-cofins-tema1455",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-16",
+      "titulo": "STJ fixa em repetitivo que varejista de cigarros não tem direito à restituição de PIS e Cofins pagos a mais (Tema 1.455)",
+      "resumo": "A Primeira Seção do STJ, com relatoria da ministra Maria Thereza de Assis Moura, decidiu que o varejista de cigarros e cigarrilhas não recebe de volta a diferença entre o PIS e a Cofins antecipados com base no preço de tabela e o valor calculado sobre o preço efetivamente praticado. Para o colegiado, o regime do tabaco tem finalidade extrafiscal, multiplicadores fixados em lei e preço de tabela obrigatório, o que afasta a aplicação do entendimento do STF sobre restituição na substituição tributária. Não houve modulação.",
+      "porQueImporta": "Varejistas do setor com pedidos de restituição ou ações em curso devem reavaliar a estratégia, e o precedente sinaliza os limites da restituição na substituição tributária em regimes especiais.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Recuperação de Crédito"
+      ],
+      "pauta": {
+        "formato": [
+          "Estático",
+          "Stories"
+        ],
+        "ideia": "Substituição tributária: quando o STJ nega a devolução do imposto pago a mais."
+      },
+      "oportunidade": 1,
+      "atencao": "Tese desfavorável ao contribuinte, com efeito vinculante, restrita a cigarros e cigarrilhas (REsps 2.177.940 e 2.215.075). A notícia do STJ menciona julgamento na sessão de 9 de setembro; data = publicação.",
+      "fonte": {
+        "nome": "STJ Notícias (16/11/2026)",
+        "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16112026-Em-repetitivo--STJ-afasta-restituicao-de-PIS-e-Cofins-a-varejistas-de-cigarros-e-cigarrilhas.aspx"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "tri-stf-itbi-integralizacao-tema1348",
+      "areas": [
+        "tributario",
+        "empresarial"
+      ],
+      "data": "2026-10-19",
+      "titulo": "STF: imunidade de ITBI na integralização de imóveis ao capital vale também para empresas do ramo imobiliário (Tema 1.348)",
+      "resumo": "Em repercussão geral concluída em 19/10, o STF reconheceu que a imunidade do ITBI na transferência de imóveis para formar ou aumentar o capital social vale independentemente da atividade da empresa, inclusive para as que compram, vendem ou alugam imóveis. A imunidade alcança só a parte do valor efetivamente destinada ao capital; o excedente pode ser tributado, e ficam ressalvados os casos de simulação ou fraude.",
+      "porQueImporta": "Muda o planejamento de holdings patrimoniais e imobiliárias: a transferência de imóveis ao capital deixa de ser barrada pela atividade da empresa, mas exige documentação cuidadosa do valor integralizado.",
+      "servicos": [
+        "Atuação Consultiva",
+        "Consultoria e Constituição de Holding",
+        "Consultoria e Implementação de Plano Sucessório e Patrimonial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Holding imobiliária e ITBI: o que o STF decidiu e o cuidado com o valor que vai para o capital."
+      },
+      "oportunidade": 3,
+      "atencao": "Só a matéria do Migalhas (análise de advogada, 16/11) foi conferida (fonte secundária); confirmar o acórdão no site do STF. Segundo a matéria, o acórdão ainda não foi publicado e pode haver pedido de modulação por municípios.",
+      "fonte": {
+        "nome": "Migalhas (16/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468649/advogada-analisa-imunidade-de-itbi-para-empresas-imobiliarias"
       },
       "confianca": "secundaria"
     }
