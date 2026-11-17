@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T10:32:00-03:00",
+  "geradoEm": "2026-11-17T13:37:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2427,6 +2427,60 @@
         "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Poupanca-usada-como-conta-corrente-nao-afasta-impenhorabilidade--define-Corte-Especial-em-repetitivo.aspx"
       },
       "confianca": "primaria"
+    },
+    {
+      "id": "emp-stj-assembleia-credores-emendas",
+      "areas": [
+        "empresarial"
+      ],
+      "data": "2026-11-17",
+      "titulo": "STJ anula assembleia de credores que aprovou plano de recuperação com mudanças feitas minutos antes da votação",
+      "resumo": "A 3ª Turma do STJ, em decisão unânime (REsp 1.933.757, relator ministro Moura Ribeiro), manteve a nulidade da aprovação do plano de recuperação judicial de um grupo da construção civil. O edital não respeitou a antecedência mínima de 15 dias, e as emendas substanciais ao plano foram apresentadas pouco antes da votação, sem tempo razoável para os credores analisarem. O argumento de que a Lei 11.101/2005 admite ajustes na assembleia com anuência do devedor não foi acolhido.",
+      "porQueImporta": "Reforça que mudanças relevantes no plano precisam ser conhecidas com antecedência pelos credores, o que orienta tanto a empresa em recuperação quanto os credores que acompanham a assembleia.",
+      "servicos": [
+        "Contencioso Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Plano de recuperação alterado na hora da assembleia: por que o STJ pode anular a votação."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão em caso concreto. Só a matéria da ConJur foi conferida; a data do julgamento não consta nela. Conferir o acórdão antes de citar.",
+      "fonte": {
+        "nome": "ConJur (17/11)",
+        "url": "https://conjur.com.br/2026-nov-17/stj-anula-assembleia-de-credores-que-aprovou-mudancas-de-ultima-hora/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-plp299-incentivos-creditos",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-17",
+      "titulo": "Substitutivo ao PLP 299/26 no Senado amplia o corte de incentivos fiscais e prevê limitar o uso de créditos tributários",
+      "resumo": "O substitutivo do senador Eduardo Braga reduz de 90% para 80% o aproveitamento de incentivos, ampliando o corte linear da LC 224/25, e autoriza o Executivo a reduzir, por ato próprio, o volume de créditos usados na compensação de tributos federais. Segundo levantamento de escritório citado pela Migalhas, o corte atinge sobretudo IRPJ, CSLL, Imposto de Importação e contribuição previdenciária. Se aprovado e sancionado em 2026, o IRPJ seria afetado a partir de 1º/01/2027.",
+      "porQueImporta": "Empresas com incentivos fiscais ou créditos acumulados podem ter carga maior e menos liquidez em 2027, o que justifica mapear benefícios e simular efeitos antes da votação.",
+      "servicos": [
+        "Atuação Consultiva",
+        "Recuperação de Crédito"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Incentivos e créditos tributários em risco em 2027: o que a empresa pode mapear agora."
+      },
+      "oportunidade": 3,
+      "atencao": "Projeto em tramitação; o texto pode mudar no Congresso. Só a matéria da Migalhas (fonte secundária, com análise de escritório) foi conferida; o texto do substitutivo não foi aberto.",
+      "fonte": {
+        "nome": "Migalhas (17/11)",
+        "url": "https://www.migalhas.com.br/quentes/468660/para-escritorio-projeto-reduz-incentivos-fiscais-e-limita-creditos"
+      },
+      "confianca": "secundaria"
     }
   ],
   "blog": [
