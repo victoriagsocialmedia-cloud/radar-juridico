@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T07:44:00-03:00",
+  "geradoEm": "2026-11-17T10:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2400,6 +2400,33 @@
         "url": "https://conjur.com.br/2026-nov-16/stj-julga-beneficio-do-carf-se-voto-de-qualidade-so-decide-decadencia/"
       },
       "confianca": "secundaria"
+    },
+    {
+      "id": "civ-stj-impenhorabilidade-poupanca-tema1285",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-17",
+      "titulo": "STJ fixa em repetitivo: poupança usada como conta-corrente segue impenhorável até 40 salários mínimos (Tema 1.285)",
+      "resumo": "A Corte Especial do STJ, com relatoria da ministra Maria Thereza de Assis Moura, definiu que valores de até 40 salários mínimos na poupança são impenhoráveis mesmo quando a conta é usada no dia a dia. A proteção pode alcançar dinheiro em espécie, conta-corrente e outros investimentos, desde que o devedor prove que se trata de reserva duradoura para emergências. Aplicações especulativas e sobras de salários de meses anteriores deixadas na conta-corrente podem ser penhoradas.",
+      "porQueImporta": "Define o que pode e o que não pode ser bloqueado em cobranças judiciais, o que orienta tanto credores quanto devedores na estratégia da execução.",
+      "servicos": [
+        "Ações de Cobrança"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Bloquearam sua poupança? O que o STJ decidiu sobre o limite de 40 salários mínimos."
+      },
+      "oportunidade": 2,
+      "atencao": "Tese vinculante (REsps 2.015.693 e 2.020.425); julgamento em sessão virtual encerrada em 21/10, notícia publicada em 17/11. A notícia não menciona modulação.",
+      "fonte": {
+        "nome": "STJ Notícias (17/11/2026)",
+        "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Poupanca-usada-como-conta-corrente-nao-afasta-impenhorabilidade--define-Corte-Especial-em-repetitivo.aspx"
+      },
+      "confianca": "primaria"
     }
   ],
   "blog": [
