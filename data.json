@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T07:35:00-03:00",
+  "geradoEm": "2026-11-17T07:44:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2290,6 +2290,114 @@
       "fonte": {
         "nome": "Migalhas (16/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468717/justica-nega-custeio-de-rinvoq-a-paciente-com-artrite-reumatoide"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-stj-plr-pensao",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-06",
+      "titulo": "STJ: PLR não entra automaticamente na base da pensão alimentícia quando o valor fixado já atende à necessidade do filho",
+      "resumo": "A 3ª Turma do STJ, por unanimidade, retirou a participação nos lucros e resultados (PLR) da base de cálculo de pensão provisória devida a uma filha menor. O Tribunal de Justiça do RS havia incluído a verba por ela ter natureza remuneratória. Para o relator, a pensão se mede pela necessidade real de quem recebe e pela capacidade de quem paga, e, se o valor já é suficiente, não cabe somar outras verbas sem motivo excepcional.",
+      "porQueImporta": "Ajuda pais e responsáveis a entender como o juiz calcula alimentos e por que renda variável nem sempre entra na conta, o que importa tanto para quem pede quanto para quem paga a pensão.",
+      "servicos": [
+        "Ação de Alimentos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Pensão alimentícia e PLR: o que entra na conta e o que o STJ considera para fixar o valor."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão sobre pensão provisória, apoiada na constatação, feita pela própria instância de origem, de que o valor já era suficiente; não vale como regra automática. Fonte secundária: o acórdão (REsp 2.235.064) não foi aberto.",
+      "fonte": {
+        "nome": "ConJur (06/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-06/plr-nao-integra-base-de-calculo-da-pensao-alimenticia-se-valor-e-suficiente/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stj-fundeb-contrib-previdenciaria",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-15",
+      "titulo": "STJ afeta ao rito de relevância a cobrança de contribuição previdenciária patronal sobre rateio do Fundeb/Fundef e suspende ações no país",
+      "resumo": "A 1ª Seção do STJ decidiu, em sessão virtual encerrada em 11/11, definir tese vinculante sobre a incidência da contribuição previdenciária patronal sobre valores pagos a profissionais da educação básica no rateio de recursos do Fundeb/Fundef (art. 26 da Lei 14.113/2020). A Fazenda Nacional defende a cobrança; turmas de direito público já a afastaram por falta de habitualidade. Os processos sobre o tema ficam suspensos em todo o país até o julgamento (REsp 2.270.423).",
+      "porQueImporta": "Municípios e redes de ensino que fazem esses pagamentos precisam acompanhar o tema e avaliar o risco e eventuais valores já recolhidos.",
+      "servicos": [
+        "Assessoria jurídica a entes públicos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Estático"
+        ],
+        "ideia": "Rateio do Fundeb e contribuição previdenciária: o STJ vai decidir, e o que o gestor municipal deve acompanhar."
+      },
+      "oportunidade": 2,
+      "atencao": "Ainda não há tese fixada: a decisão apenas afetou o tema e suspendeu os processos. Fonte secundária; a decisão de afetação no site do STJ não foi aberta.",
+      "fonte": {
+        "nome": "ConJur (15/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-15/stj-julga-contribuicao-previdenciaria-em-rateio-de-recursos-do-fundeb-fundef/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stf-honorarios-refis-municipal",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-16",
+      "titulo": "STF derruba lei municipal que dispensava honorários de sucumbência de procuradores em programa de Refis",
+      "resumo": "O Plenário do STF, por unanimidade, declarou inconstitucional (ADPF 1.341, ajuizada pelo Conselho Federal da OAB) lei de Nova Serrana/MG que isentava quem aderisse ao Refis municipal dos honorários de sucumbência devidos aos procuradores do município. O relator, ministro Gilmar Mendes, entendeu que o tema é de competência privativa da União e propôs efeitos retroativos, porque a lei só vigorou em 2026.",
+      "porQueImporta": "Mostra que programas de regularização fiscal municipais têm limites e orienta gestores e procuradorias ao desenhar ou aplicar esse tipo de benefício.",
+      "servicos": [
+        "Assessoria jurídica a entes públicos"
+      ],
+      "pauta": {
+        "formato": [
+          "Estático"
+        ],
+        "ideia": "Refis municipal pode dispensar honorários dos procuradores? O STF respondeu que não."
+      },
+      "oportunidade": 1,
+      "atencao": "Fonte secundária; o acórdão e a notícia do STF não foram abertos. Decisão sobre lei de um município específico.",
+      "fonte": {
+        "nome": "ConJur (16/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-16/stf-invalida-lei-que-dispensava-pagamento-de-honorarios-a-procuradores-municipais/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stj-carf-voto-qualidade-decadencia",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-16",
+      "titulo": "STJ julga se os benefícios da Lei do Carf valem quando o voto de qualidade só decide a decadência",
+      "resumo": "A 1ª Turma do STJ analisa o REsp 2.244.413 sobre o alcance da Lei 14.689/2023, que permite ao contribuinte vencido no Carf por voto de qualidade pagar sem multa e juros de mora e usar prejuízo fiscal e base negativa de CSLL. O relator votou a favor da Fazenda: os benefícios só caberiam quando o mérito é decidido, não quando o desempate trata apenas de decadência. O julgamento foi suspenso por pedido de vista da ministra Regina Helena Costa.",
+      "porQueImporta": "Quem tem processo no Carf decidido por voto de qualidade precisa saber se pode aderir aos benefícios e como isso afeta o planejamento do pagamento.",
+      "servicos": [
+        "Contencioso Tributário Administrativo",
+        "Atuação Consultiva"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Perdeu no Carf por voto de qualidade? O que o STJ está decidindo sobre o desconto de multa e juros."
+      },
+      "oportunidade": 2,
+      "atencao": "Julgamento em andamento, com um único voto (do relator) e pedido de vista; o resultado pode mudar. Fonte secundária; o processo no STJ não foi aberto.",
+      "fonte": {
+        "nome": "ConJur (16/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-16/stj-julga-beneficio-do-carf-se-voto-de-qualidade-so-decide-decadencia/"
       },
       "confianca": "secundaria"
     }
