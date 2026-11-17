@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T13:37:00-03:00",
+  "geradoEm": "2026-11-17T16:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -807,7 +807,7 @@
         "ideia": "Fim da 6x1: decisão de Dino fixa o calendário. O que a empresa precisa acertar com o sindicato até 16/12."
       },
       "oportunidade": 3,
-      "atencao": "Decisão monocrática com efeito imediato, que segue em vigor. Em 14/11, o ministro Luiz Fux pediu destaque e levou o referendo ao plenário presencial do STF, em data ainda não definida; até então, Gilmar Mendes, Cármen Lúcia e Alexandre de Moraes haviam acompanhado o relator (Migalhas, 14/11). O julgamento presencial pode confirmar ou alterar as regras. O conteúdo da liminar foi conferido na notícia oficial do STF (12/11). A data do limite final de 40 horas não consta das fontes conferidas.",
+      "atencao": "Decisão monocrática com efeito imediato, que segue em vigor. Depois que o ministro Luiz Fux levou o referendo ao plenário presencial (14/11), Dino converteu as ADIs 8.041 e 8.042 para julgamento direto do mérito (art. 12 da Lei 9.868/99), ainda sem data, e manteve as liminares até lá; Câmara, Senado, interessados, AGU e PGR receberam prazos curtos para se manifestar (ConJur, 17/11). O julgamento de mérito pode confirmar ou alterar as regras. O conteúdo da liminar foi conferido na notícia oficial do STF (12/11). A data do limite final de 40 horas não consta das fontes conferidas.",
       "fonte": {
         "nome": "STF Notícias (12/11/2026)",
         "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-regra-de-transicao-para-implementacao-da-jornada-5x2/"
