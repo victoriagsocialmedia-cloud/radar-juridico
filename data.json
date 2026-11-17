@@ -1,19 +1,7 @@
 {
-  "geradoEm": "2026-11-16T13:33:00-03:00",
+  "geradoEm": "2026-11-17T07:35:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
-    {
-      "data": "2026-11-16",
-      "rotulo": "Fim do prazo para instituições enviarem contribuições ao STF sobre o contencioso de IBS e CBS",
-      "area": "tributario",
-      "itemId": "tri-stf-consulta-ibs-cbs"
-    },
-    {
-      "data": "2026-11-16",
-      "rotulo": "Termina às 23h59 a sessão virtual do STF que julga o referendo da liminar de Dino sobre a transição para a escala 5x2",
-      "area": "trabalhista",
-      "itemId": "tra-6x1"
-    },
     {
       "data": "2026-11-18",
       "rotulo": "Pauta do plenário do STF: ADI 6.002, sobre a exigência de valor nos pedidos da reclamação trabalhista",
@@ -819,7 +807,7 @@
         "ideia": "Fim da 6x1: decisão de Dino fixa o calendário. O que a empresa precisa acertar com o sindicato até 16/12."
       },
       "oportunidade": 3,
-      "atencao": "Decisão monocrática com efeito imediato. O referendo pelo Plenário do STF está em sessão virtual extraordinária de 13/11 (11h) a 16/11 (23h59), segundo o Migalhas (13/11); o resultado pode confirmar ou alterar as regras. O conteúdo da liminar foi conferido na notícia oficial do STF (12/11). A data do limite final de 40 horas não consta das fontes conferidas.",
+      "atencao": "Decisão monocrática com efeito imediato, que segue em vigor. Em 14/11, o ministro Luiz Fux pediu destaque e levou o referendo ao plenário presencial do STF, em data ainda não definida; até então, Gilmar Mendes, Cármen Lúcia e Alexandre de Moraes haviam acompanhado o relator (Migalhas, 14/11). O julgamento presencial pode confirmar ou alterar as regras. O conteúdo da liminar foi conferido na notícia oficial do STF (12/11). A data do limite final de 40 horas não consta das fontes conferidas.",
       "fonte": {
         "nome": "STF Notícias (12/11/2026)",
         "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-regra-de-transicao-para-implementacao-da-jornada-5x2/"
@@ -2275,6 +2263,33 @@
       "fonte": {
         "nome": "Migalhas (16/11)",
         "url": "https://www.migalhas.com.br/quentes/468638/stf-deve-julgar-na-quarta-exigencia-de-valor-em-pedidos-trabalhistas"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-tjba-rinvoq-medicamento-domiciliar",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-16",
+      "titulo": "Justiça da Bahia nega custeio de Rinvoq por plano antigo que exclui remédio de uso domiciliar",
+      "resumo": "A 3ª Vara de Relações de Consumo de Salvador negou pedido de paciente com artrite reumatoide para obrigar o plano de saúde a fornecer o upadacitinibe (Rinvoq), de uso oral e contínuo. O contrato, de 1998 e não adaptado à Lei 9.656/98, exclui medicamentos usados fora dos regimes hospitalar e ambulatorial. Para a juíza, a prescrição médica não basta para afastar essa cláusula; os pedidos de reembolso e de danos morais também foram rejeitados.",
+      "porQueImporta": "Mostra que o tipo de contrato (antigo ou adaptado à lei dos planos) e o modo de uso do remédio pesam muito nas ações por negativa de cobertura, e que vale avaliar a adaptação do plano.",
+      "servicos": [
+        "Negativa de Cobertura de Plano de Saúde"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Stories"
+        ],
+        "ideia": "Plano antigo, não adaptado à lei: o que muda quando o remédio é de uso em casa."
+      },
+      "oportunidade": 1,
+      "atencao": "Sentença de primeira instância, desfavorável à paciente e sujeita a recurso; há decisões em sentido contrário. Tom informativo, sem citar a operadora. Só a matéria do Migalhas foi conferida (fonte secundária); data = publicação.",
+      "fonte": {
+        "nome": "Migalhas (16/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468717/justica-nega-custeio-de-rinvoq-a-paciente-com-artrite-reumatoide"
       },
       "confianca": "secundaria"
     }
