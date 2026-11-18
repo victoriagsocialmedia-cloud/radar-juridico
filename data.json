@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T10:32:00-03:00",
+  "geradoEm": "2026-11-18T13:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -13,6 +13,12 @@
       "rotulo": "Fim da sessão virtual do STF que julga os embargos sobre execução de condenações por improbidade culposa (Tema 309)",
       "area": "publico",
       "itemId": "pub-stf-improbidade-culposa"
+    },
+    {
+      "data": "2026-12-10",
+      "rotulo": "Desligamento final da DI e da DSI no Siscomex: LI não vinculada perde validade e novas importações só por Duimp",
+      "area": "aduaneiro",
+      "itemId": "adu-desligamento-di-dsi-dez2026"
     },
     {
       "data": "2026-12-15",
@@ -2627,6 +2633,90 @@
       "fonte": {
         "nome": "Migalhas (18/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468823/advogado-atua-por-filho-autista-em-acao--processo-mais-importante"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adu-desligamento-di-dsi-dez2026",
+      "areas": [
+        "aduaneiro"
+      ],
+      "data": "2026-11-16",
+      "titulo": "Siscomex confirma desligamento final da DI e da DSI em 10/12: importações passam a ser só por Duimp",
+      "resumo": "O Portal Único Siscomex atualizou em 16/11 o cronograma de desligamento da Declaração de Importação (DI) e da DSI-Eletrônica. Em 10/12/2026, novas operações nesses sistemas deixam de ser aceitas, inclusive as amparadas por processo judicial ou declaração preliminar. Licenças de importação (LI) não vinculadas a uma DI até essa data não poderão mais ser usadas, e o sistema passará a exigir a Duimp. Declarações já registradas e em despacho ainda podem ser retificadas com nova LI.",
+      "porQueImporta": "Importadores que ainda usam DI ou têm LIs deferidas e não vinculadas precisam concluir as operações ou migrar para a Duimp antes de 10/12, sob risco de bloqueio do registro.",
+      "servicos": [
+        "Atuação Consultiva",
+        "Contencioso Tributário Administrativo"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Fim da DI em 10/12: o que o importador precisa resolver antes da migração total para a Duimp."
+      },
+      "oportunidade": 3,
+      "atencao": "Parte do cronograma de dezembro está numa tabela em imagem, não conferida; as regras de 10/12 foram conferidas no texto da página.",
+      "fonte": {
+        "nome": "Portal Único Siscomex (atualizado em 16/11/2026)",
+        "url": "https://www.gov.br/siscomex/pt-br/programa-portal-unico/cronograma-de-desligamento-di"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "tri-stj-salario-educacao-cartorios-tema1228",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-18",
+      "titulo": "STJ fixa em repetitivo que titular de cartório pessoa física não paga salário-educação (Tema 1.228)",
+      "resumo": "A 1ª Seção do STJ decidiu, por maioria, que tabeliães e registradores que exercem a atividade como pessoas físicas não são contribuintes do salário-educação, a contribuição de 2,5% sobre a folha de pagamento. Para o relator, ministro Teodoro Silva Santos, os serviços notariais são atividade típica do Estado exercida por delegação e não se enquadram na definição legal de empresa contribuinte.",
+      "porQueImporta": "Titulares de cartórios que recolheram o salário-educação podem avaliar a restituição dos valores pagos nos últimos cinco anos e a suspensão da cobrança.",
+      "servicos": [
+        "Recuperação de Crédito",
+        "Contencioso Tributário Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Estático",
+          "Carrossel"
+        ],
+        "ideia": "Cartório pagou salário-educação? O STJ decidiu que não é devido e abre espaço para restituição."
+      },
+      "oportunidade": 2,
+      "atencao": "Tese vinculante, fixada por maioria. Só a matéria do Migalhas (18/11) foi conferida (fonte secundária); confirmar modulação e data do julgamento no site do STJ.",
+      "fonte": {
+        "nome": "Migalhas (18/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468832/stj-afasta-cobranca-de-salario-educacao-de-titulares-de-cartorios"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-tst-horas-extras-vincendas",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-18",
+      "titulo": "TST inclui horas extras futuras na condenação de banco enquanto persistir a jornada irregular",
+      "resumo": "A 8ª Turma do TST garantiu a um bancário que deixou de exercer função de confiança o pagamento da 7ª e da 8ª horas como extras, incluindo as parcelas vincendas, ou seja, as que se tornarem devidas enquanto as condições de trabalho continuarem as mesmas. O relator, ministro Evandro Valadão, criticou a condenação por fatos futuros, mas seguiu a jurisprudência do tribunal.",
+      "porQueImporta": "A condenação por parcelas vincendas amplia o impacto das ações de horas extras e reforça a importância de revisar o enquadramento de cargos de confiança.",
+      "servicos": [
+        "Reclamação de horas extras",
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "Cargo de gerente só no papel? Horas extras podem valer até para o futuro."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma, não vinculante. Só a matéria do Migalhas (18/11) foi conferida (fonte secundária).",
+      "fonte": {
+        "nome": "Migalhas (18/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468850/ministro-critica-condenacao-por-horas-extras-futuras-mas-segue-tst"
       },
       "confianca": "secundaria"
     }
