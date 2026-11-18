@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T07:34:00-03:00",
+  "geradoEm": "2026-11-18T07:35:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2515,6 +2515,93 @@
         "url": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027"
       },
       "confianca": "primaria"
+    },
+    {
+      "id": "civ-stj-pensao-morte-escritura-divorcio",
+      "areas": [
+        "civil",
+        "administrativo"
+      ],
+      "data": "2026-11-17",
+      "titulo": "STJ garante pensão por morte de servidor federal a ex-esposa com alimentos fixados em divórcio no cartório",
+      "resumo": "A 1ª Turma do STJ reconheceu, por maioria, o direito de uma ex-esposa à pensão por morte de servidor público federal com quem havia firmado divórcio consensual por escritura pública, com pensão alimentícia (paga na forma de custeio do plano de saúde). O TRF-2 havia negado o benefício porque a Lei 8.112/90 fala em alimentos fixados judicialmente. O relator, ministro Sérgio Kukina, votou nesse sentido, mas prevaleceu a divergência aberta pela ministra Regina Helena Costa, que equiparou os alimentos fixados em cartório aos judiciais.",
+      "porQueImporta": "Quem se divorciou em cartório com pensão alimentícia não precisa de decisão judicial para pedir pensão por morte de ex-cônjuge servidor federal, e o acordo de divórcio merece atenção a essa consequência.",
+      "servicos": [
+        "Pensão Civil",
+        "Divórcio",
+        "Ação de Alimentos"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "Divórcio no cartório com pensão: a ex-esposa pode ter direito à pensão por morte do servidor?"
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma, por maioria, não vinculante. Só a matéria do Migalhas (17/11) foi conferida (fonte secundária); a data do julgamento e o número do processo não constam da parte conferida (data = publicação).",
+      "fonte": {
+        "nome": "Migalhas (17/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468808/stj-concede-pensao-por-morte-baseada-em-acordo-de-divorcio-em-cartorio"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stj-cfem-pis-cofins-insumo",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-17",
+      "titulo": "STJ nega créditos de PIS e Cofins sobre a CFEM paga por mineradora e fabricante de cimento",
+      "resumo": "A 1ª Turma do STJ, com voto do relator Sérgio Kukina, reformou decisão do TRF-5 e negou a uma fabricante de cimento o crédito de PIS e Cofins sobre a Compensação Financeira pela Exploração de Recursos Minerais (CFEM) paga pela extração de calcário. Para o colegiado, a CFEM é um custo da atividade, mas não se enquadra no conceito de insumo do Tema 779.",
+      "porQueImporta": "Empresas de mineração e indústrias que extraem matéria-prima devem rever créditos de PIS e Cofins tomados sobre a CFEM e avaliar o risco em ações e compensações em curso.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Recuperação de Crédito"
+      ],
+      "pauta": {
+        "formato": [
+          "Estático",
+          "Carrossel"
+        ],
+        "ideia": "CFEM gera crédito de PIS/Cofins? O que o STJ decidiu para quem extrai minério."
+      },
+      "oportunidade": 1,
+      "atencao": "Decisão de turma, desfavorável ao contribuinte e não vinculante. Só a matéria do Migalhas (17/11) foi conferida (fonte secundária); data = publicação.",
+      "fonte": {
+        "nome": "Migalhas (17/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468817/stj-nega-creditos-de-pis-cofins-sobre-cfem-paga-por-fabricante"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stj-itcmd-decadencia-inventario",
+      "areas": [
+        "tributario",
+        "civil"
+      ],
+      "data": "2026-11-17",
+      "titulo": "STJ discute quando começa o prazo para o Estado cobrar diferença de ITCMD em inventário",
+      "resumo": "A 1ª Turma do STJ começou a julgar um caso de Minas Gerais em que o contribuinte antecipou o ITCMD e o Estado lançou depois uma diferença. A relatora, ministra Regina Helena Costa, entende que os cinco anos para o Fisco cobrar contam do trânsito em julgado da sentença que homologou a partilha; o ministro Gurgel de Faria defende o primeiro dia do ano seguinte à homologação. O julgamento foi suspenso por pedido de vista.",
+      "porQueImporta": "A definição pode extinguir ou manter cobranças de ITCMD em inventários antigos, e reforça a importância de acompanhar os prazos do Fisco após a partilha.",
+      "servicos": [
+        "Inventário",
+        "Contencioso Tributário Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Inventário encerrado e o Estado cobra mais ITCMD anos depois: o prazo que o STJ está discutindo."
+      },
+      "oportunidade": 2,
+      "atencao": "Julgamento em andamento, suspenso por pedido de vista; ainda não há resultado. Só a matéria do Migalhas (17/11) foi conferida (fonte secundária).",
+      "fonte": {
+        "nome": "Migalhas (17/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468815/stj-analisa-inicio-do-prazo-de-decadencia-do-itcmd-em-inventario"
+      },
+      "confianca": "secundaria"
     }
   ],
   "blog": [
