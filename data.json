@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T16:33:00-03:00",
+  "geradoEm": "2026-11-18T07:34:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -43,6 +43,12 @@
       "rotulo": "Prazo para regularizar créditos de PIS/Cofins do setor farmacêutico (Operação Fármacos II)",
       "area": "tributario",
       "itemId": "tri-farmacos-ii"
+    },
+    {
+      "data": "2027-02-01",
+      "rotulo": "Começa a cobrança do Imposto Seletivo, nas alíquotas fixadas pela MP 1.399/2026",
+      "area": "aduaneiro",
+      "itemId": "adu-mp-1399-imposto-seletivo"
     }
   ],
   "areas": [
@@ -2481,6 +2487,34 @@
         "url": "https://www.migalhas.com.br/quentes/468660/para-escritorio-projeto-reduz-incentivos-fiscais-e-limita-creditos"
       },
       "confianca": "secundaria"
+    },
+    {
+      "id": "adu-mp-1399-imposto-seletivo",
+      "areas": [
+        "aduaneiro",
+        "tributario"
+      ],
+      "data": "2026-11-04",
+      "titulo": "MP 1.399/2026 define as alíquotas do Imposto Seletivo para 2027, com regras específicas para a importação",
+      "resumo": "A Medida Provisória nº 1.399, publicada em edição extra do DOU em 04/11, fixa as alíquotas do Imposto Seletivo (IS) para 2027, partindo das alíquotas atuais do IPI ajustadas por fatores de conversão. Alcança veículos, embarcações, aeronaves, produtos de fumo, bebidas alcoólicas e bebidas açucaradas, com cobrança a partir de 1º/02/2027. Para bens importados há mecanismo de equivalência com o produto nacional e fator de ajuste; as exportações são isentas. O governo deve enviar ao Congresso, até 31/05/2027, projeto com as alíquotas de 2028 em diante.",
+      "porQueImporta": "Importadores dos bens alcançados precisam revisar custos, preços e classificação fiscal para 2027, e a forma de cálculo na importação pode gerar discussão sobre diferença de carga em relação ao similar nacional.",
+      "servicos": [
+        "Atuação Consultiva",
+        "Contencioso Tributário Administrativo"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Imposto Seletivo em 2027: o que muda para quem importa veículos, bebidas e outros bens alcançados."
+      },
+      "oportunidade": 2,
+      "atencao": "Medida provisória sujeita à conversão em lei pelo Congresso e a possíveis alterações. Fatos gerais conferidos na Agência Senado (05/11); detalhes dos fatores de ajuste na importação vêm de artigo de opinião na ConJur (17/11), que também critica a metodologia, e devem ser confirmados no texto da MP. O texto oficial não foi aberto.",
+      "fonte": {
+        "nome": "Agência Senado (05/11/2026)",
+        "url": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027"
+      },
+      "confianca": "primaria"
     }
   ],
   "blog": [
