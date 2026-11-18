@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T13:32:00-03:00",
+  "geradoEm": "2026-11-18T13:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2719,6 +2719,35 @@
         "url": "https://www.migalhas.com.br/quentes/468850/ministro-critica-condenacao-por-horas-extras-futuras-mas-segue-tst"
       },
       "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stj-salario-educacao-cartorios",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-18",
+      "titulo": "STJ fixa em repetitivo que titular de cartório, pessoa física, não paga salário-educação (Tema 1.228)",
+      "resumo": "A Primeira Seção do STJ definiu, por maioria e em recurso repetitivo, que a contribuição do salário-educação não pode ser exigida da pessoa física que exerce serviço notarial ou registral. Para o relator, ministro Teodoro Silva Santos, o titular atua por delegação do Estado e a lei do tributo não o inclui como contribuinte, não cabendo equipará-lo a empresa por analogia com a legislação previdenciária. A decisão julgou os REsps 2.068.273, 2.068.698 e 2.068.695, com três votos vencidos.",
+      "porQueImporta": "Titulares de cartórios que recolhem ou foram cobrados pelo salário-educação podem avaliar a revisão de lançamentos e pedidos de restituição ou compensação, observadas a prescrição e a modulação, se houver.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Recuperação de Crédito",
+        "Atuação Consultiva"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Estático"
+        ],
+        "ideia": "Tema 1.228: STJ decide que titular de cartório não paga salário-educação. O que verificar sobre valores já recolhidos."
+      },
+      "oportunidade": 2,
+      "atencao": "Tese vinculante favorável ao contribuinte, mas restrita à pessoa física titular de serviço notarial ou registral. A notícia não informa a data do julgamento (data = publicação) nem eventual modulação; confira o acórdão antes de agir.",
+      "fonte": {
+        "nome": "STJ Notícias (18/11/2026)",
+        "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/18112026-primeira-secao-fixa-tese-e-define-que-salario-educacao-nao-pode-ser-exigido-de-titulares-de-cartorio.aspx"
+      },
+      "confianca": "primaria"
     }
   ],
   "blog": [
