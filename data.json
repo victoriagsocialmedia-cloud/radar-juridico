@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T13:33:00-03:00",
+  "geradoEm": "2026-11-18T16:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2748,6 +2748,33 @@
         "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/18112026-primeira-secao-fixa-tese-e-define-que-salario-educacao-nao-pode-ser-exigido-de-titulares-de-cartorio.aspx"
       },
       "confianca": "primaria"
+    },
+    {
+      "id": "civ-tjsp-cirurgia-robotica-endometriose",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-18",
+      "titulo": "TJ-SP: plano de saúde não precisa custear cirurgia robótica para endometriose quando já autorizou a videolaparoscopia",
+      "resumo": "A 4ª Câmara de Direito Privado do TJ-SP reformou sentença e entendeu que o plano não é obrigado a pagar cirurgia robótica de endometriose se já autorizou a videolaparoscopia convencional e o relatório médico só aponta benefícios potenciais da técnica robótica. O relator citou o julgamento do STF na ADI 7.265 sobre cobertura excepcional fora do rol da ANS e a RN 465/21 da ANS. A condenação por danos morais de R$ 10 mil foi afastada.",
+      "porQueImporta": "Mostra que, em negativas de procedimentos fora do rol, o laudo médico precisa demonstrar por que a alternativa já coberta é inadequada ou ineficaz; benefício apenas potencial tende a não bastar.",
+      "servicos": [
+        "Negativa de Cobertura de Plano de Saúde"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Estático"
+        ],
+        "ideia": "Plano negou o procedimento que o médico indicou? O que o laudo precisa dizer para fundamentar o pedido de cobertura."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de segunda instância em caso concreto (proc. 1012701-51.2025.8.26.0114), desfavorável ao beneficiário; não é vinculante. Conferido apenas na notícia do Migalhas, sem acesso ao acórdão.",
+      "fonte": {
+        "nome": "Migalhas",
+        "url": "https://www.migalhas.com.br/quentes/468859/plano-nao-deve-custear-cirurgia-robotica-a-paciente-com-endometriose"
+      },
+      "confianca": "secundaria"
     }
   ],
   "blog": [
