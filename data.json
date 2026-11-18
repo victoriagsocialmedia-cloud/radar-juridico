@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T07:35:00-03:00",
+  "geradoEm": "2026-11-18T10:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2600,6 +2600,33 @@
       "fonte": {
         "nome": "Migalhas (17/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468815/stj-analisa-inicio-do-prazo-de-decadencia-do-itcmd-em-inventario"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-tjam-terapias-autismo-plano",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-16",
+      "titulo": "TJ-AM mantém obrigação de plano de saúde custear terapias de criança com autismo",
+      "resumo": "A 2ª Câmara Cível do TJ-AM manteve, por unanimidade, a decisão que obriga a operadora a custear as terapias prescritas a uma criança de 11 anos com transtorno do espectro autista, em seis frentes de atendimento. Segundo a defesa, mesmo com tutela de urgência, foram necessários vários pedidos de bloqueio de valores até a operadora passar a cumprir a ordem, cerca de um ano depois.",
+      "porQueImporta": "Reforça que a prescrição médica detalhada é a base para exigir a cobertura das terapias para autismo e que o descumprimento da liminar pode ser enfrentado com bloqueio de valores.",
+      "servicos": [
+        "Negativa de Cobertura de Plano de Saúde"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "Plano negou ou atrasou as terapias do autismo? O que fazer quando a liminar não é cumprida."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de câmara estadual, específica ao caso. Não citar a família nem a criança; tom informativo e preventivo. Só a matéria do Migalhas (18/11) foi conferida (fonte secundária); julgamento em 16/11 segundo a matéria.",
+      "fonte": {
+        "nome": "Migalhas (18/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468823/advogado-atua-por-filho-autista-em-acao--processo-mais-importante"
       },
       "confianca": "secundaria"
     }
