@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T16:32:00-03:00",
+  "geradoEm": "2026-11-18T16:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2665,34 +2665,6 @@
       "confianca": "primaria"
     },
     {
-      "id": "tri-stj-salario-educacao-cartorios-tema1228",
-      "areas": [
-        "tributario"
-      ],
-      "data": "2026-11-18",
-      "titulo": "STJ fixa em repetitivo que titular de cartório pessoa física não paga salário-educação (Tema 1.228)",
-      "resumo": "A 1ª Seção do STJ decidiu, por maioria, que tabeliães e registradores que exercem a atividade como pessoas físicas não são contribuintes do salário-educação, a contribuição de 2,5% sobre a folha de pagamento. Para o relator, ministro Teodoro Silva Santos, os serviços notariais são atividade típica do Estado exercida por delegação e não se enquadram na definição legal de empresa contribuinte.",
-      "porQueImporta": "Titulares de cartórios que recolheram o salário-educação podem avaliar a restituição dos valores pagos nos últimos cinco anos e a suspensão da cobrança.",
-      "servicos": [
-        "Recuperação de Crédito",
-        "Contencioso Tributário Judicial"
-      ],
-      "pauta": {
-        "formato": [
-          "Estático",
-          "Carrossel"
-        ],
-        "ideia": "Cartório pagou salário-educação? O STJ decidiu que não é devido e abre espaço para restituição."
-      },
-      "oportunidade": 2,
-      "atencao": "Tese vinculante, fixada por maioria. Só a matéria do Migalhas (18/11) foi conferida (fonte secundária); confirmar modulação e data do julgamento no site do STJ.",
-      "fonte": {
-        "nome": "Migalhas (18/11/2026)",
-        "url": "https://www.migalhas.com.br/quentes/468832/stj-afasta-cobranca-de-salario-educacao-de-titulares-de-cartorios"
-      },
-      "confianca": "secundaria"
-    },
-    {
       "id": "tra-tst-horas-extras-vincendas",
       "areas": [
         "trabalhista"
@@ -2773,6 +2745,61 @@
       "fonte": {
         "nome": "Migalhas",
         "url": "https://www.migalhas.com.br/quentes/468859/plano-nao-deve-custear-cirurgia-robotica-a-paciente-com-endometriose"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pen-pf-cash-out-apostas",
+      "areas": [
+        "penal-tributario"
+      ],
+      "data": "2026-11-18",
+      "titulo": "Operação Cash Out: PF e Receita bloqueiam R$ 2,3 bilhões de grupo de apostas ilegais investigado por sonegação",
+      "resumo": "A Polícia Federal, com 17 auditores da Receita Federal e acompanhamento do MPF, cumpriu 59 mandados de busca em PE, SP, RJ, PR e SC contra uma organização sediada em Pernambuco. O grupo é investigado por exploração ilegal de jogos e apostas, evasão de divisas, manutenção de recursos no exterior sem declaração, sonegação fiscal e lavagem de dinheiro. A Justiça Federal determinou o bloqueio de R$ 2,3 bilhões em ativos.",
+      "porQueImporta": "Mostra a atuação conjunta de Receita e PF sobre o setor de apostas e o cruzamento de dados fiscais e cambiais, com reflexos para empresas e prestadores que se relacionam com o setor.",
+      "servicos": [
+        "Defesa em Investigações sobre Fraude Fiscal e Sonegação",
+        "Consultoria para Regularização Tributária e Redução de Riscos Penais"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Apostas, sonegação e lavagem: por que o setor está na mira da Receita e da PF."
+      },
+      "oportunidade": 2,
+      "atencao": "Investigação em andamento, sem julgamento. Tom informativo e preventivo; não citar empresas ou pessoas investigadas.",
+      "fonte": {
+        "nome": "Polícia Federal (18/11/2026)",
+        "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-faz-operacao-contra-organizacao-atuante-na-exploracao-ilegal-de-apostas"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "pen-jfes-socio-sem-gestao-absolvido",
+      "areas": [
+        "penal-tributario"
+      ],
+      "data": "2026-11-18",
+      "titulo": "Justiça Federal no ES absolve sócios acusados de sonegação: figurar no contrato social não basta",
+      "resumo": "A 2ª Vara Federal Criminal de Vitória absolveu dois réus acusados de reduzir IRPJ e CSLL em cerca de R$ 2,6 milhões com declarações falsas. Para o juiz Américo Bedê Freire Júnior, não houve prova de que tivessem poder de gestão sobre o caixa ou atuação dolosa: um atuava só na logística e o outro não era reconhecido como administrador pelas testemunhas. A decisão rejeitou a responsabilização penal objetiva baseada apenas em atos societários.",
+      "porQueImporta": "Reforça que, em crimes tributários, a acusação precisa demonstrar quem de fato decidia sobre tributos e finanças, o que orienta a defesa de sócios e administradores.",
+      "servicos": [
+        "Defesa em Investigações sobre Fraude Fiscal e Sonegação"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "Ser sócio no papel basta para responder por sonegação? O que esta absolvição mostra."
+      },
+      "oportunidade": 2,
+      "atencao": "Sentença de primeira instância, sujeita a recurso. Só a matéria do ConJur (18/11) foi conferida (fonte secundária); a data da decisão não consta da matéria (data = publicação).",
+      "fonte": {
+        "nome": "ConJur (18/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-18/posicao-de-socio-nao-basta-para-condenacao-por-sonegacao-fiscal/"
       },
       "confianca": "secundaria"
     }
