@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T16:32:00-03:00",
+  "geradoEm": "2026-11-19T16:37:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2958,6 +2958,33 @@
       "fonte": {
         "nome": "Migalhas (19/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468970/stf-tem-maioria-contra-dispensa-de-honorarios-em-acordos-tributarios"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "emp-stj-patente-nulidade-suspensao",
+      "areas": [
+        "empresarial"
+      ],
+      "data": "2026-11-18",
+      "titulo": "STJ vai definir se a ação de nulidade de patente suspende a ação por infração da mesma patente",
+      "resumo": "A 2ª Seção do STJ, sob relatoria do ministro Ricardo Villas Bôas Cueva (REsp 2.216.293), afetou ao regime da relevância da questão federal a discussão sobre a suspensão automática da ação de infração ou abstenção de uso na Justiça Estadual quando há ação de nulidade da mesma patente na Justiça Federal. Hoje a 3ª Turma adota a suspensão obrigatória, enquanto a 4ª Turma admite a análise caso a caso pelo juiz. Os recursos sobre o tema ficam suspensos no STJ e nos tribunais de apelação, e a matéria ainda não tem data de julgamento de mérito.",
+      "porQueImporta": "Quem detém ou questiona uma patente enfrenta hoje regras diferentes sobre a continuidade de uma ação de infração, e o entendimento da 2ª Seção deve trazer previsibilidade para a estratégia de proteção e de defesa.",
+      "servicos": [
+        "Concessão de Patentes"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Estático"
+        ],
+        "ideia": "Patente contestada: a ação de infração pode ficar parada? O que o STJ vai uniformizar."
+      },
+      "oportunidade": 2,
+      "atencao": "Fonte secundária (ConJur); a decisão de afetação foi conferida na matéria, mas não na página do STJ, e o voto do relator (PDF) não foi lido. Ainda não há julgamento de mérito nem tese firmada.",
+      "fonte": {
+        "nome": "ConJur, 19/11/2026",
+        "url": "https://conjur.com.br/2026-nov-19/stj-vai-definir-se-pedido-de-nulidade-de-patente-suspende-acao-por-infracao/"
       },
       "confianca": "secundaria"
     }
