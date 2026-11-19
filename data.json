@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T07:38:00-03:00",
+  "geradoEm": "2026-11-19T10:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2849,6 +2849,33 @@
       "fonte": {
         "nome": "ConJur (18/11/2026)",
         "url": "https://conjur.com.br/2026-nov-18/execucao-de-honorarios-deve-aguardar-compensacao-tributaria-decide-stj/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-stj-vgbl-fora-partilha",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-10-26",
+      "titulo": "Corte Especial do STJ: VGBL em fase de acumulação não entra na partilha após a morte do titular",
+      "resumo": "Por maioria, a Corte Especial do STJ reconheceu a natureza securitária dos valores aplicados em previdência privada aberta do tipo VGBL, mesmo durante a fase de acumulação. Com a morte do titular, os recursos vão ao beneficiário indicado no contrato e não integram a partilha do inventário. Prevaleceu o voto do relator, ministro Moura Ribeiro, alinhado ao STF e às turmas de Direito Público do STJ, que também afastam o ITCMD sobre esses valores.",
+      "porQueImporta": "O julgamento uniformiza a divergência entre as turmas do STJ e orienta famílias com inventário em andamento ou em planejamento sucessório que envolva VGBL.",
+      "servicos": [
+        "Inventário"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "VGBL entra no inventário? O que a Corte Especial do STJ decidiu e por que a indicação de beneficiário importa."
+      },
+      "oportunidade": 2,
+      "atencao": "A decisão foi por maioria. A divergência (min. Isabel Gallotti, com outros quatro ministros) defendia incluir o VGBL no inventário para proteger a legítima dos herdeiros necessários. Indícios de fraude à sucessão podem afastar a regra no caso concreto.",
+      "fonte": {
+        "nome": "IBDFAM (com informações do ConJur), 26/10/2026",
+        "url": "https://ibdfam.org.br/noticias/stj-decide-que-valores-de-vgbl-nao-integram-partilha-de-bens-apos-a-morte-do-titular"
       },
       "confianca": "secundaria"
     }
