@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T13:32:00-03:00",
+  "geradoEm": "2026-11-19T16:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2931,6 +2931,33 @@
       "fonte": {
         "nome": "Migalhas (19/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468961/lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stf-honorarios-parcelamentos-federais",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-19",
+      "titulo": "STF forma maioria contra normas federais que dispensam honorários de sucumbência em parcelamentos e acordos com a União",
+      "resumo": "O Plenário do STF formou maioria em 19/11, com o relator Dias Toffoli, para declarar inconstitucionais dispositivos de leis federais que dispensam honorários de sucumbência, ou transferem seu pagamento ao próprio cliente, em acordos, renegociações e parcelamentos de dívidas com a União. Para o relator, os honorários pertencem aos advogados públicos ou privados, têm natureza alimentar e não podem ser usados como incentivo à regularização de débitos. O julgamento foi suspenso com os votos de Nunes Marques e Gilmar Mendes pendentes, e os efeitos da decisão ainda serão definidos.",
+      "porQueImporta": "Empresas que desistiram de ações para aderir a parcelamentos especiais ou acordos com a União podem ter de rever o custo dessas adesões, conforme a modulação que o STF fixar.",
+      "servicos": [
+        "Atuação Consultiva",
+        "Contencioso Tributário Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Aderiu a parcelamento e desistiu da ação? O que o julgamento do STF sobre honorários pode mudar no custo do acordo."
+      },
+      "oportunidade": 2,
+      "atencao": "Julgamento não concluído: faltam dois votos e a definição dos efeitos (modulação). A fonte não informa o número da ação; coberturas anteriores apontam a ADI 5.405, da OAB, contra dispositivos das Leis 11.775/2008, 11.941/2009, 12.249/2010, 12.844/2013 e 13.043/2014. Conferir no site do STF antes de citar. O STJ tem entendimento próprio sobre honorários na desistência para adesão à transação tributária.",
+      "fonte": {
+        "nome": "Migalhas (19/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468970/stf-tem-maioria-contra-dispensa-de-honorarios-em-acordos-tributarios"
       },
       "confianca": "secundaria"
     }
