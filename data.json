@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T07:35:00-03:00",
+  "geradoEm": "2026-11-19T07:38:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2265,7 +2265,7 @@
         "ideia": "Reclamação trabalhista precisa indicar o valor de cada pedido? O que está em jogo no STF nesta quarta."
       },
       "oportunidade": 3,
-      "atencao": "Pauta anunciada pelo Migalhas em 16/11; só essa matéria foi conferida e a data pode mudar. Não há decisão ainda; a proposta do relator não é vinculante. Confirmar no site do STF.",
+      "atencao": "A ADI 6.002 constava da pauta do plenário de 18/11 (STF Notícias), mas o resultado do julgamento não foi localizado nesta rodada; verifique no site do STF antes de usar. A proposta do relator não é vinculante e o caso pode ter sido adiado.",
       "fonte": {
         "nome": "Migalhas (16/11)",
         "url": "https://www.migalhas.com.br/quentes/468638/stf-deve-julgar-na-quarta-exigencia-de-valor-em-pedidos-trabalhistas"
@@ -2823,6 +2823,34 @@
         "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre="
       },
       "confianca": "primaria"
+    },
+    {
+      "id": "tri-stj-honorarios-compensacao",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-18",
+      "titulo": "STJ: honorários de sucumbência só podem ser executados após a Receita homologar a compensação escolhida pelo contribuinte",
+      "resumo": "A 1ª Turma do STJ, por maioria, entendeu no REsp 2.160.442 que, quando o contribuinte vencedor opta por compensar administrativamente o indébito, a execução dos honorários fixados na fase de conhecimento deve aguardar a conclusão da compensação. Segundo o voto vencedor, só com a homologação pela Receita Federal a liquidez do título fica definida. A ministra Regina Helena Costa ficou vencida. Há notícia de precedente da 2ª Turma em sentido contrário, de modo que a questão ainda não é uniforme.",
+      "porQueImporta": "Quem ganha uma ação de repetição ou compensação e escolhe a via administrativa pode ter de esperar a homologação para receber os honorários; a escolha entre compensar e executar o crédito merece planejamento.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Recuperação de Crédito"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Ganhou a ação tributária e vai compensar? Entenda como a escolha da compensação pode atrasar o recebimento dos honorários, segundo o STJ."
+      },
+      "oportunidade": 2,
+      "atencao": "Só a matéria da ConJur foi conferida; a data da sessão não consta e o acórdão não foi aberto. Decisão de Turma, não vinculante, com divergência noticiada na 2ª Turma.",
+      "fonte": {
+        "nome": "ConJur (18/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-18/execucao-de-honorarios-deve-aguardar-compensacao-tributaria-decide-stj/"
+      },
+      "confianca": "secundaria"
     }
   ],
   "blog": [
