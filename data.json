@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T10:32:00-03:00",
+  "geradoEm": "2026-11-19T10:34:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2876,6 +2876,32 @@
       "fonte": {
         "nome": "IBDFAM (com informações do ConJur), 26/10/2026",
         "url": "https://ibdfam.org.br/noticias/stj-decide-que-valores-de-vgbl-nao-integram-partilha-de-bens-apos-a-morte-do-titular"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stf-refaz-ro-honorarios",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-18",
+      "titulo": "STF derruba limite de 5% nos honorários de procuradores no Refaz de Rondônia",
+      "resumo": "O Plenário do STF, por maioria, declarou inconstitucional dispositivo de lei de Rondônia que limitava a 5% os honorários sobre débitos quitados no programa de regularização fiscal estadual (ADI 7.694, proposta pela Anape). A decisão afasta a redução tanto dos honorários de sucumbência quanto dos de cobrança administrativa de ICMS. Os efeitos valem a partir da publicação da ata, com modulação aprovada por unanimidade.",
+      "porQueImporta": "Reforça que entes públicos não podem usar programas de regularização fiscal para reduzir por conta própria a remuneração das procuradorias, o que orienta o desenho e a revisão de leis desse tipo.",
+      "servicos": [
+        "Assessoria jurídica a entes públicos"
+      ],
+      "pauta": {
+        "formato": [
+          "Estático"
+        ],
+        "ideia": "Explicar, de forma preventiva, os limites que o STF impõe a leis locais de Refis sobre honorários de procuradores."
+      },
+      "oportunidade": 1,
+      "atencao": "Fonte secundária (Migalhas); a íntegra do acórdão e a ata do julgamento ainda não foram conferidas no site do STF. Relator e outro ministro ficaram vencidos quanto aos honorários administrativos.",
+      "fonte": {
+        "nome": "Migalhas",
+        "url": "https://www.migalhas.com.br/quentes/468899/stf-derruba-reducao-de-honorarios-de-procuradores-em-programa-fiscal"
       },
       "confianca": "secundaria"
     }
