@@ -1,13 +1,7 @@
 {
-  "geradoEm": "2026-11-18T16:33:00-03:00",
+  "geradoEm": "2026-11-19T07:35:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
-    {
-      "data": "2026-11-18",
-      "rotulo": "Pauta do plenário do STF: ADI 6.002, sobre a exigência de valor nos pedidos da reclamação trabalhista",
-      "area": "trabalhista",
-      "itemId": "tra-stf-adi6002-valor-pedidos"
-    },
     {
       "data": "2026-11-26",
       "rotulo": "Fim da sessão virtual do STF que julga os embargos sobre execução de condenações por improbidade culposa (Tema 309)",
@@ -2802,6 +2796,33 @@
         "url": "https://conjur.com.br/2026-nov-18/posicao-de-socio-nao-basta-para-condenacao-por-sonegacao-fiscal/"
       },
       "confianca": "secundaria"
+    },
+    {
+      "id": "adm-stj-remocao-docentes-federais",
+      "areas": [
+        "administrativo"
+      ],
+      "data": "2026-11-11",
+      "titulo": "STJ fixa em repetitivo que professor federal pode ser removido entre universidades e institutos federais",
+      "resumo": "A Primeira Seção do STJ definiu, por unanimidade e em recurso repetitivo, que os professores da carreira do magistério superior federal formam um quadro único em todo o país, vinculado ao Ministério da Educação. Com isso, a remoção entre diferentes instituições federais de ensino superior é cabível nas hipóteses do art. 36 da Lei 8.112/1990, como acompanhamento de cônjuge servidor deslocado no interesse da administração e motivo de saúde do servidor ou de dependente.",
+      "porQueImporta": "Professores federais que tiveram a remoção negada porque a instituição de destino é outra autarquia passam a ter tese vinculante a seu favor.",
+      "servicos": [
+        "Reintegração, Remoção e Readaptação Funcional"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Professor federal pode mudar de universidade para acompanhar o cônjuge ou por saúde? O que o STJ decidiu."
+      },
+      "oportunidade": 2,
+      "atencao": "O Informativo 910 do STJ registra o Tema 1.400 (rel. Sérgio Kukina, julgado em 11/11); o Migalhas noticiou a mesma tese como Tema 1.322 (rel. Teodoro Silva Santos), possivelmente em processos conexos. Conferir o número do tema no site do STJ antes de citar.",
+      "fonte": {
+        "nome": "STJ – Informativo de Jurisprudência n. 910 (17/11/2026)",
+        "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre="
+      },
+      "confianca": "primaria"
     }
   ],
   "blog": [
