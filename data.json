@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T10:34:00-03:00",
+  "geradoEm": "2026-11-19T13:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -813,7 +813,7 @@
         "ideia": "Fim da 6x1: decisão de Dino fixa o calendário. O que a empresa precisa acertar com o sindicato até 16/12."
       },
       "oportunidade": 3,
-      "atencao": "Decisão monocrática com efeito imediato, que segue em vigor. Depois que o ministro Luiz Fux levou o referendo ao plenário presencial (14/11), Dino converteu as ADIs 8.041 e 8.042 para julgamento direto do mérito (art. 12 da Lei 9.868/99), ainda sem data, e manteve as liminares até lá; Câmara, Senado, interessados, AGU e PGR receberam prazos curtos para se manifestar (ConJur, 17/11). O julgamento de mérito pode confirmar ou alterar as regras. O conteúdo da liminar foi conferido na notícia oficial do STF (12/11). A data do limite final de 40 horas não consta das fontes conferidas.",
+      "atencao": "Decisão monocrática com efeito imediato, que segue em vigor. Depois que o ministro Luiz Fux levou o referendo ao plenário presencial (14/11), Dino converteu as ADIs 8.041 e 8.042 para julgamento direto do mérito (art. 12 da Lei 9.868/99), ainda sem data, e manteve as liminares até lá; Câmara, Senado, interessados, AGU e PGR receberam prazos curtos para se manifestar (ConJur, 17/11). O julgamento de mérito pode confirmar ou alterar as regras. O conteúdo da liminar foi conferido na notícia oficial do STF (12/11). Segundo o Migalhas (19/11), o limite de 40 horas semanais entra em vigor em 16/12/2027; o decreto de regulamentação foi assinado em 19/11 (ver item próprio).",
       "fonte": {
         "nome": "STF Notícias (12/11/2026)",
         "url": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-regra-de-transicao-para-implementacao-da-jornada-5x2/"
@@ -2902,6 +2902,35 @@
       "fonte": {
         "nome": "Migalhas",
         "url": "https://www.migalhas.com.br/quentes/468899/stf-derruba-reducao-de-honorarios-de-procuradores-em-programa-fiscal"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-decreto-regulamenta-fim-6x1",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-19",
+      "titulo": "Decreto regulamenta o fim da escala 6x1: duas folgas semanais e divisor 210 a partir de 16/12",
+      "resumo": "O presidente da República assinou em 19/11 o decreto que regulamenta a transição da escala 6x1 para a 5x2 prevista na EC 141/2026. A partir de 16/12/2026, a regra geral passa a ser de dois dias de repouso remunerado por semana e jornada de até 42 horas semanais, sem redução de salário; o teto cai para 40 horas em 16/12/2027. Para mensalistas, o salário-hora passa a ser calculado com divisor 210 (42 horas) e 200 (40 horas), o que eleva o valor da hora normal e, por consequência, a base das horas extras. Uma das folgas deve cair preferencialmente no domingo, e acordo ou convenção coletiva pode distribuí-las de outra forma ao longo do mês, garantida a média de dois dias por semana e ao menos um descanso por semana.",
+      "porQueImporta": "Empresas precisam recalcular o salário-hora e as horas extras, ajustar escalas e rever acordos coletivos antes de 16/12; quem já trabalha 40 horas ou menos em seis dias também tem direito à segunda folga.",
+      "servicos": [
+        "Auditoria Trabalhista",
+        "Negociação Sindical",
+        "Reclamação de horas extras"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "Saiu o decreto do fim da 6x1: o que muda no cálculo da hora extra com o divisor 210 e como ficam as folgas."
+      },
+      "oportunidade": 3,
+      "atencao": "O número do decreto e a publicação no Diário Oficial não constam da fonte conferida. O Ministério do Trabalho prevê editar, a partir de 23/11, portarias para categorias com regimes especiais. As ADIs 8.041 e 8.042 seguem pendentes de julgamento de mérito no STF.",
+      "fonte": {
+        "nome": "Migalhas (19/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468961/lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1"
       },
       "confianca": "secundaria"
     }
