@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T10:37:00-03:00",
+  "geradoEm": "2026-11-20T13:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3040,6 +3040,32 @@
       "fonte": {
         "nome": "ConJur (19/11/2026)",
         "url": "https://conjur.com.br/2026-nov-19/candidatos-autistas-tem-direito-a-concorrer-a-vagas-reservadas-para-pcds/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-trt2-pejotizacao-iniciativa-trabalhador",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-20",
+      "titulo": "TRT-2: pejotização iniciada pelo próprio trabalhador não configura fraude, decide juiz de SP",
+      "resumo": "A 3ª Vara do Trabalho de São Paulo negou vínculo de emprego a um ex-frentista que pediu demissão e foi recontratado como PJ, com remuneração bem maior, e só ajuizou a ação após a dispensa. Segundo a matéria, as mensagens trocadas mostraram que a proposta partiu do trabalhador, que sabia que abriria mão de 13º, FGTS e férias, e que a empresa chegou a alertá-lo. O juiz reconheceu que a jurisprudência trabalhista em geral rejeita a pejotização, mas entendeu que, neste caso, não houve fraude.",
+      "porQueImporta": "Mostra que o registro de quem tomou a iniciativa e das condições oferecidas pesa na análise de contratações como PJ, tema de atenção para empresas que revisam seus contratos e passivos trabalhistas.",
+      "servicos": [
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Contratação como PJ: o que a Justiça do Trabalho observa para distinguir parceria legítima de fraude."
+      },
+      "oportunidade": 2,
+      "atencao": "Sentença de primeiro grau (processo 1001392-93.2026.5.02.0703), sujeita a recurso e sem efeito vinculante; a jurisprudência predominante segue rejeitando a pejotização. Baseado em matéria da ConJur de 20/11; a sentença integral não foi conferida.",
+      "fonte": {
+        "nome": "ConJur (20/11)",
+        "url": "https://conjur.com.br/2026-nov-20/se-pejotizacao-partiu-de-iniciativa-do-trabalhador-nao-ha-fraude-trabalhista/"
       },
       "confianca": "secundaria"
     }
