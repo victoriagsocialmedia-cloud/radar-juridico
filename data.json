@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T16:37:00-03:00",
+  "geradoEm": "2026-11-20T10:37:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2985,6 +2985,61 @@
       "fonte": {
         "nome": "ConJur, 19/11/2026",
         "url": "https://conjur.com.br/2026-nov-19/stj-vai-definir-se-pedido-de-nulidade-de-patente-suspende-acao-por-infracao/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-stj-execucoes-fiscais-lote-tema1184",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-20",
+      "titulo": "STJ discute barrar recursos sobre extinção de execuções fiscais de baixo valor em lote; caso foi retirado de pauta",
+      "resumo": "A 1ª Seção do STJ analisa, no REsp 2.297.871, uma proposta do ministro Herman Benjamin para firmar tese de que o tribunal não teria competência para julgar recursos especiais sobre execuções fiscais extintas por baixo valor e falta de movimentação, matéria já orientada pelo STF no Tema 1.184 e pela Resolução CNJ 547/2024. O processo foi retirado da pauta da sessão de afetação encerrada em 18/11 e pode voltar, possivelmente em sessão virtual, após ajustes do relator. O conselho recorrente sustenta distinção com base no art. 8º da Lei 12.514/2011.",
+      "porQueImporta": "Quem tem execução fiscal extinta (ou cobra crédito em execuções de pequeno valor) pode ver o alcance dos recursos ao STJ ficar mais restrito; vale acompanhar a definição.",
+      "servicos": [
+        "Contencioso Tributário Judicial",
+        "Recuperação de Crédito"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Execução fiscal de baixo valor extinta: o que o STJ discute sobre limitar recursos e por que acompanhar."
+      },
+      "oportunidade": 1,
+      "atencao": "Só a matéria da ConJur foi conferida; não há decisão, apenas proposta do relator, e o caso foi retirado de pauta. Não citar como tese firmada.",
+      "fonte": {
+        "nome": "ConJur (20/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-20/stj-avalia-barrar-recursos-sobre-extincao-de-execucoes-fiscais-em-lote/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adm-tjdft-autistas-cotas-concurso",
+      "areas": [
+        "administrativo"
+      ],
+      "data": "2026-11-19",
+      "titulo": "TJDFT: candidato com autismo pode concorrer às vagas reservadas a pessoas com deficiência em seleção pública",
+      "resumo": "A 1ª Câmara Cível do TJDFT concedeu, por unanimidade, mandado de segurança a candidato com transtorno do espectro autista (nível 1) excluído da cota de PcD em processo seletivo simplificado para professores substitutos da rede pública do DF após avaliação biopsicossocial. Para o relator, a Lei 12.764/2012 considera a pessoa com TEA como pessoa com deficiência para todos os efeitos legais, sem distinção por nível de suporte, e a administração não pode criar restrição adicional. O candidato foi mantido na lista de cotistas.",
+      "porQueImporta": "Candidatos com TEA excluídos de cotas de concursos e seleções por critério de nível de suporte podem ter fundamento para questionar a decisão administrativa.",
+      "servicos": [
+        "Concurso Público"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Autismo e vagas de PcD em concursos: o que a Lei 12.764/2012 diz e o que decidiu o TJDFT."
+      },
+      "oportunidade": 2,
+      "atencao": "Só a matéria da ConJur foi conferida (acórdão não aberto). Decisão de câmara estadual em caso concreto, não vinculante; a data do julgamento não consta.",
+      "fonte": {
+        "nome": "ConJur (19/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-19/candidatos-autistas-tem-direito-a-concorrer-a-vagas-reservadas-para-pcds/"
       },
       "confianca": "secundaria"
     }
