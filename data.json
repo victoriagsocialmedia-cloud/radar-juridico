@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T13:32:00-03:00",
+  "geradoEm": "2026-11-20T13:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -31,6 +31,12 @@
       "rotulo": "Entra a primeira etapa da nova jornada (42 h semanais), 60 dias após a EC 141/2026",
       "area": "trabalhista",
       "itemId": "tra-6x1"
+    },
+    {
+      "data": "2026-12-18",
+      "rotulo": "Perdem validade as autorizações antigas de despacho de granéis sem descarga prévia (Portaria RFB 750)",
+      "area": "aduaneiro",
+      "itemId": "adu-portaria-rfb-750-graneis"
     },
     {
       "data": "2026-12-30",
@@ -3066,6 +3072,60 @@
       "fonte": {
         "nome": "ConJur (20/11)",
         "url": "https://conjur.com.br/2026-nov-20/se-pejotizacao-partiu-de-iniciativa-do-trabalhador-nao-ha-fraude-trabalhista/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adu-portaria-rfb-750-graneis",
+      "areas": [
+        "aduaneiro"
+      ],
+      "data": "2026-11-18",
+      "titulo": "Portaria RFB 750 restringe despacho de granéis combustíveis sem descarga prévia; autorizações antigas caem em 30 dias",
+      "resumo": "Publicada no Diário Oficial de 18/11 e em vigor desde então, a Portaria RFB nº 750/2026 altera a Portaria RFB nº 583/2025, que trata do combate a fraudes na importação com ocultação do real comprador ou vendedor. A autorização de despacho aduaneiro de importação de granéis sem prévia descarga, para petróleo, derivados, outros hidrocarbonetos e combustíveis (inclusive metanol e etanol), passa a ser concedida por operação, mediante justificativa e só em caráter excepcional: quando a descarga for inviável por dimensão ou peso da carga, calado ou falta de equipamentos e condições de segurança. A autorização depende de anuência da Superintendência Regional ou, se os locais estiverem em estados diferentes, da Coana, e pode ser revogada a qualquer tempo. As autorizações concedidas antes perdem a validade em 30 dias contados da publicação.",
+      "porQueImporta": "Importadores de combustíveis e derivados que usam o despacho sem descarga prévia precisam pedir nova autorização, por operação, antes que as atuais percam a validade.",
+      "servicos": [
+        "Atuação Consultiva",
+        "Contencioso Tributário Administrativo"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Importa combustível a granel? O que muda com a Portaria RFB 750 e o prazo para as autorizações antigas."
+      },
+      "oportunidade": 2,
+      "atencao": "Texto conferido em agregador que reproduz o Diário Oficial (Atlas Público), com link para o site oficial. O prazo de 30 dias foi contado da publicação (18/11), o que leva a 18/12/2026; confirmar a contagem no caso concreto.",
+      "fonte": {
+        "nome": "Diário Oficial da União, 18/11/2026 (via Atlas Público)",
+        "url": "https://atlaspublico.com.br/regulacao/dou/portaria-rfb-n-750-de-3-de-novembro-de-2026-928538"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-tjgo-donanemabe-alzheimer-plano",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-17",
+      "titulo": "Justiça de Goiânia manda plano custear remédio para Alzheimer fora do rol da ANS",
+      "resumo": "A 25ª Vara Cível de Goiânia concedeu liminar para que um plano de saúde custeie o tratamento com donanemabe (Kisunla), por infusão a cada quatro semanas, a uma beneficiária de 75 anos com comprometimento cognitivo leve associado ao Alzheimer. A operadora havia negado a cobertura por ausência do medicamento no rol da ANS e por não atender à diretriz de utilização nº 65. A juíza aplicou o Código de Defesa do Consumidor (Súmula 608 do STJ) e considerou que a demora no início do tratamento poderia comprometer sua eficácia.",
+      "porQueImporta": "A negativa por ausência no rol da ANS não encerra a discussão: com prescrição médica e urgência demonstrada, beneficiários têm obtido o custeio de tratamentos novos na Justiça.",
+      "servicos": [
+        "Negativa de Cobertura de Plano de Saúde"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "O plano negou remédio porque não está no rol da ANS? O que fazer, a partir de uma decisão recente sobre Alzheimer."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão liminar de primeira instância, sujeita a recurso; não forma precedente. Cada caso depende da prescrição e das provas apresentadas.",
+      "fonte": {
+        "nome": "Migalhas (20/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468407/justica-manda-plano-custear-remedio-para-alzheimer-fora-do-rol-da-ans"
       },
       "confianca": "secundaria"
     }
