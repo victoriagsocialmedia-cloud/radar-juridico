@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T13:33:00-03:00",
+  "geradoEm": "2026-11-23T07:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3126,6 +3126,60 @@
       "fonte": {
         "nome": "Migalhas (20/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468407/justica-manda-plano-custear-remedio-para-alzheimer-fora-do-rol-da-ans"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-tst-jornada-19h-dano-existencial",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-19",
+      "titulo": "TST mantém indenização por dano existencial a caminhoneiro com jornadas de até 19 horas, com responsabilidade da tomadora",
+      "resumo": "A 2ª Turma do TST manteve a condenação de uma transportadora a pagar R$ 10 mil por dano existencial a motorista submetido habitualmente a jornadas de até 19 horas diárias, comprovadas pelos próprios controles de ponto. A empresa contratante dos serviços responde de forma subsidiária: a transportadora funcionava no pátio da tomadora e atendia exclusivamente a ela, o que levou ao reconhecimento de terceirização. Para o colegiado, a duração extrema do trabalho inviabilizava descanso, lazer e convívio familiar, o que justifica a indenização mesmo sem prova específica dos prejuízos à vida pessoal.",
+      "porQueImporta": "Mesmo com horas extras registradas e pagas, jornadas extremas geram indenização à parte, e a empresa tomadora dos serviços pode responder pela terceirizada.",
+      "servicos": [
+        "Auditoria Trabalhista",
+        "Reclamação de horas extras"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Pagar a hora extra basta? Quando a jornada excessiva gera dano existencial e o que a empresa contratante precisa auditar."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de Turma em caso concreto, sem efeito vinculante. Na origem, o pedido de diferenças de horas extras foi rejeitado porque os registros foram considerados válidos.",
+      "fonte": {
+        "nome": "Migalhas (22/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468634/tst-mantem-condenacao-de-transportadora-e-ambev-por-jornada-de-ate-19h"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-tjsp-adesao-plano-portabilidade",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-19",
+      "titulo": "TJ-SP manda operadora concluir adesão de paciente com doença autoimune a plano coletivo, com aproveitamento de carências",
+      "resumo": "Em tutela de urgência, o TJ-SP determinou que operadora e administradora de benefícios garantam, em até cinco dias, a adesão provisória de um paciente com espondilite anquilosante a plano coletivo por adesão, mantendo as carências já cumpridas. Ele havia perdido o plano empresarial e apresentou a proposta dentro do prazo de portabilidade, mas a contratação ficou travada por um bloqueio cadastral sem justificativa. O relator considerou a demora injustificada e o risco de interrupção do tratamento contínuo.",
+      "porQueImporta": "Bloqueio injustificado na contratação ou na portabilidade pode configurar negativa indireta de cobertura, e a urgência do tratamento contínuo pesa na decisão.",
+      "servicos": [
+        "Negativa de Cobertura de Plano de Saúde"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Perdeu o plano da empresa e a portabilidade travou? Seus direitos sobre carências e adesão a um novo plano."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão provisória em recurso, sujeita a revisão no julgamento final; o próprio relator registrou dúvidas sobre a elegibilidade ao plano coletivo.",
+      "fonte": {
+        "nome": "Migalhas (22/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468813/tj-sp-garante-adesao-de-paciente-com-doenca-autoimune-a-plano-de-saude"
       },
       "confianca": "secundaria"
     }
