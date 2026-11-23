@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T10:33:00-03:00",
+  "geradoEm": "2026-11-23T13:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3207,6 +3207,61 @@
       "fonte": {
         "nome": "ConJur (23/11/2026)",
         "url": "https://conjur.com.br/2026-nov-23/convocacao-demorada-em-concurso-exige-comunicacao-pessoal-de-candidato/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-tjsp-reajuste-plano-coletivo-nota-atuarial",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-19",
+      "titulo": "TJ-SP: sem comprovar a sinistralidade, reajuste de plano coletivo é abusivo e o excesso deve ser devolvido",
+      "resumo": "A 3ª Câmara de Direito Privado do TJ-SP (relator desembargador Carlos Eduardo Donegá Morandini) entendeu que a operadora de plano coletivo precisa provar, com documentação idônea, que o reajuste reflete a sinistralidade e a variação de custos. Sem nota técnica de registro do produto e estudos atuariais, o percentual foi considerado abusivo, substituído pelo índice anual da ANS, com devolução simples do que foi pago a mais. A decisão cita precedente da 3ª Turma do STJ (REsp 2.140.291).",
+      "porQueImporta": "Beneficiários de planos coletivos e empresas contratantes costumam receber reajustes sem explicação; a decisão mostra que a operadora tem de demonstrar os números e que o excesso pode ser recuperado.",
+      "servicos": [
+        "Negativa de Cobertura de Plano de Saúde"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "Reajuste do plano coletivo: o que a operadora precisa provar e quando a cobrança a mais pode ser devolvida."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de câmara estadual, sem efeito vinculante. Trata de reajuste, não de negativa de cobertura, e se liga ao serviço pelo contencioso de planos de saúde. Só a matéria do ConJur foi conferida; o acórdão não foi aberto. Processo 1033734-25.2024.8.26.0602.",
+      "fonte": {
+        "nome": "ConJur (19/11)",
+        "url": "https://conjur.com.br/2026-nov-19/ausencia-de-nota-atuarial-gera-abusividade-de-reajuste-de-plano-coletivo/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-mg-teto-cache-shows-adi8047",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-20",
+      "titulo": "Minas Gerais fixa teto para cachês de shows contratados com dinheiro público; lei é questionada no STF",
+      "resumo": "A Lei estadual de MG nº 26.040/2026 limita o gasto com apresentações artísticas: R$ 700 mil por show com recursos estaduais e, com recursos municipais, o menor valor entre R$ 500 mil e um percentual da receita corrente líquida. O teto inclui cachê, equipe, logística e tributos, e exige justificativa e planilha de custos publicadas com antecedência. A constitucionalidade é discutida na ADI 8.047, relatada pelo ministro Cristiano Zanin.",
+      "porQueImporta": "Municípios que contratam shows em festas e eventos precisam revisar editais, inexigibilidades e planilhas de custo para reduzir risco perante tribunais de contas e controle externo.",
+      "servicos": [
+        "Assessoria em Licitações e Contratos Públicos",
+        "Defesa em Tribunais de Contas"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Estático"
+        ],
+        "ideia": "Contratar show com dinheiro público: o que gestores devem documentar para evitar questionamento do controle externo."
+      },
+      "oportunidade": 2,
+      "atencao": "Lei estadual de MG, ainda sob questionamento no STF; vigência e texto da lei não foram conferidos em fonte oficial, apenas na matéria do ConJur.",
+      "fonte": {
+        "nome": "ConJur (20/11)",
+        "url": "https://conjur.com.br/2026-nov-20/licitacao-e-shows-artisticos-o-cache-agora-tem-teto/"
       },
       "confianca": "secundaria"
     }
