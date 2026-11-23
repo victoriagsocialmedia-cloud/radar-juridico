@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T13:32:00-03:00",
+  "geradoEm": "2026-11-23T16:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3262,6 +3262,58 @@
       "fonte": {
         "nome": "ConJur (20/11)",
         "url": "https://conjur.com.br/2026-nov-20/licitacao-e-shows-artisticos-o-cache-agora-tem-teto/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-tst-traje-social-motociclista",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-23",
+      "titulo": "TST mantém condenação de loja que exigia traje social de empregado que trabalhava de moto",
+      "resumo": "A 4ª Turma do TST manteve a condenação de uma empresa que obrigava um cobrador a usar calça e camisa sociais em serviço externo de motocicleta, permitindo apenas o capacete como proteção. Foram mantidos R$ 18 mil de indenização por danos morais e o ressarcimento pelo uso, desgaste e manutenção da moto própria, com base na jurisprudência de que o empregado que usa veículo próprio em favor da empresa deve ser compensado, sem prova de prejuízo específico.",
+      "porQueImporta": "Exigências de uniforme e o uso de veículo próprio do empregado são fontes frequentes de passivo trabalhista; revisar políticas internas e contratos ajuda a prevenir condenações.",
+      "servicos": [
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Empregado que usa a própria moto ou o próprio carro no trabalho: quando a empresa precisa compensar e o que revisar na política interna."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma (Ag-RRAg-100358-85.2022.5.01.0571), não vinculante. Só a matéria do Migalhas (23/11) foi conferida (fonte secundária); o acórdão não foi lido.",
+      "fonte": {
+        "nome": "Migalhas (23/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/469024/tst-mantem-condenacao-de-loja-que-exigia-traje-social-de-motociclista"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-trt2-motoboy-sem-vinculo",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-22",
+      "titulo": "Vara do Trabalho de SP nega vínculo a motoboy que podia recusar entregas e atender outros clientes",
+      "resumo": "A 11ª Vara do Trabalho de São Paulo (Zona Leste) julgou improcedente o pedido de vínculo de um motociclista que prestou serviços a três empresas por quase dois anos. Para a juíza, a ausência de obrigação de ficar disponível e de punição por recusar entregas, somada à prestação de serviços a outros clientes, afastou a subordinação. Sem vínculo, os pedidos de horas extras, intervalos, periculosidade e danos morais também foram negados.",
+      "porQueImporta": "Mostra que a forma real de prestação do serviço (autonomia para recusar demandas, atendimento a outros clientes) pesa mais que a rotulagem do contrato, ponto central na revisão de contratações de entregadores e prestadores.",
+      "servicos": [
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Prestador autônomo ou empregado? Os sinais que a Justiça do Trabalho analisa para reconhecer (ou não) o vínculo."
+      },
+      "oportunidade": 2,
+      "atencao": "Sentença de primeiro grau (processo 1000732-84.2026.5.02.0611), sujeita a recurso e sem efeito vinculante. Só a matéria do Migalhas (22/11) foi conferida (fonte secundária); a sentença não foi lida.",
+      "fonte": {
+        "nome": "Migalhas (22/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/468605/motoboy-que-podia-negar-entregas-e-atender-clientes-nao-tera-vinculo"
       },
       "confianca": "secundaria"
     }
