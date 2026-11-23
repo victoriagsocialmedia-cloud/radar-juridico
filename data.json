@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T07:32:00-03:00",
+  "geradoEm": "2026-11-23T10:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2933,7 +2933,7 @@
         "ideia": "Saiu o decreto do fim da 6x1: o que muda no cálculo da hora extra com o divisor 210 e como ficam as folgas."
       },
       "oportunidade": 3,
-      "atencao": "O número do decreto e a publicação no Diário Oficial não constam da fonte conferida. O Ministério do Trabalho prevê editar, a partir de 23/11, portarias para categorias com regimes especiais. As ADIs 8.041 e 8.042 seguem pendentes de julgamento de mérito no STF.",
+      "atencao": "O número do decreto e a publicação no Diário Oficial não constam da fonte conferida. O Ministério do Trabalho prevê editar, a partir de 23/11, portarias para categorias com regimes especiais. As ADIs 8.041 e 8.042 seguem pendentes de julgamento de mérito no STF. Em 17/11 o ministro Dino converteu as ADIs 8.041 e 8.042 para julgamento definitivo de mérito no plenário presencial (sem data marcada), mantendo as cautelares. Em 23/11, a ConJur registra que advogados veem possível conflito do divisor 210 do decreto (Decreto 13.173/2026) com o Tema 316 do TST e o divisor 220 negociado, o que pode gerar litígio sobre horas extras; há quem discorde.",
       "fonte": {
         "nome": "Migalhas (19/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468961/lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1"
@@ -3180,6 +3180,33 @@
       "fonte": {
         "nome": "Migalhas (22/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/468813/tj-sp-garante-adesao-de-paciente-com-doenca-autoimune-a-plano-de-saude"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adm-stj-concurso-convocacao-pessoal",
+      "areas": [
+        "administrativo"
+      ],
+      "data": "2026-11-23",
+      "titulo": "STJ: nomeação de aprovado em concurso muito tempo após a homologação exige comunicação pessoal, não só publicação no Diário Oficial",
+      "resumo": "Em mandado de segurança (MS 32.435), o ministro Teodoro Silva Santos, do STJ, entendeu que, quando a convocação de candidato aprovado ocorre depois de intervalo relevante da homologação do concurso (no caso, 1 ano e 3 meses, acima da validade inicial), a administração deve assegurar comunicação pessoal e inequívoca. O candidato, aprovado para advogado da União de 2ª categoria, perdeu a nomeação por falta de posse sem ter sido efetivamente avisado, e a AGU negou reabrir o prazo. Segundo a matéria, a decisão determinou a nomeação, afastando o argumento de que o cadastro de reserva se esgotou.",
+      "porQueImporta": "Aprovados em concursos públicos que perderam a posse por convocação tardia, sem aviso pessoal, podem ter fundamento para questionar o ato e pedir nova oportunidade de posse.",
+      "servicos": [
+        "Concurso Público"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Aprovado em concurso e convocado só pelo Diário Oficial? O que o STJ disse sobre a comunicação pessoal ao candidato."
+      },
+      "oportunidade": 2,
+      "atencao": "Só a matéria da ConJur foi conferida; a decisão (PDF hospedado na própria ConJur) não foi aberta e não há link na fonte primária do STJ. Parece decisão individual (monocrática) em caso concreto, não vinculante; a data do julgamento não consta.",
+      "fonte": {
+        "nome": "ConJur (23/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-23/convocacao-demorada-em-concurso-exige-comunicacao-pessoal-de-candidato/"
       },
       "confianca": "secundaria"
     }
