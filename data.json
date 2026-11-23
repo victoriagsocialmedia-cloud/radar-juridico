@@ -9,6 +9,12 @@
       "itemId": "pub-stf-improbidade-culposa"
     },
     {
+      "data": "2026-11-30",
+      "rotulo": "Último dia para aderir à transação de dívidas de pequeno valor com autarquias federais, inclusive multas do Ibama (Edital PGF 1/2025)",
+      "area": "agrario",
+      "itemId": "agr-agu-transacao-autarquias-pequeno-valor"
+    },
+    {
       "data": "2026-12-10",
       "rotulo": "Desligamento final da DI e da DSI no Siscomex: LI não vinculada perde validade e novas importações só por Duimp",
       "area": "aduaneiro",
@@ -3316,6 +3322,33 @@
         "url": "https://www.migalhas.com.br/quentes/468605/motoboy-que-podia-negar-entregas-e-atender-clientes-nao-tera-vinculo"
       },
       "confianca": "secundaria"
+    },
+    {
+      "id": "agr-agu-transacao-autarquias-pequeno-valor",
+      "areas": [
+        "agrario"
+      ],
+      "data": "2026-11-23",
+      "titulo": "Multas do Ibama e outras dívidas com autarquias federais: adesão à transação com até 50% de desconto vai até 30/11",
+      "resumo": "O Edital de Transação por Adesão nº 3/2026 da Procuradoria-Geral Federal prorrogou até as 23h59 de 30/11/2026 a adesão às propostas do Edital nº 1/2025/PGF/AGU. Podem ser negociados créditos de autarquias e fundações públicas federais, como as multas aplicadas pelo Ibama, inscritos em dívida ativa até 1º/11/2024, de até 60 salários mínimos cada e devidos por pessoa física, microempresa ou empresa de pequeno porte. O desconto é de 50% à vista ou de 40%, 30% e 20% em parcelamentos de até 20, 40 e 60 meses, com adesão pelo portal Resolve Dívidas AGU.",
+      "porQueImporta": "Produtores rurais e pequenas empresas com multas ambientais inscritas em dívida ativa têm poucos dias para avaliar se compensa negociar ou manter a defesa.",
+      "servicos": [
+        "Defesa em multas ambientais"
+      ],
+      "pauta": {
+        "formato": [
+          "Stories",
+          "Carrossel"
+        ],
+        "ideia": "Multa do Ibama em dívida ativa? Prazo até 30/11 para negociar com até 50% de desconto, e o que avaliar antes de aderir."
+      },
+      "oportunidade": 3,
+      "atencao": "Ficam de fora créditos já parcelados, já transacionados ou com exigibilidade suspensa por decisão judicial ou garantia integral, e não pode aderir quem tem depósito judicial em ação contra autarquia federal. Antes de aderir, vale avaliar se a multa tem vícios que justifiquem a defesa, pois o edital exige a desistência de discussões sobre os créditos incluídos. Textos dos editais conferidos no Diário Oficial (via gov.br).",
+      "fonte": {
+        "nome": "AGU/PGF – Editais de Transação por Adesão nº 1/2025 e nº 3/2026 (DOU)",
+        "url": "https://www.gov.br/agu/pt-br/assuntos-1/resolve-dividas-agu/edital/Edital"
+      },
+      "confianca": "primaria"
     }
   ],
   "blog": [
