@@ -1,13 +1,7 @@
 {
-  "geradoEm": "2026-11-24T07:37:00-03:00",
+  "geradoEm": "2026-11-24T10:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
-    {
-      "data": "2026-11-26",
-      "rotulo": "Fim da sessão virtual do STF que julga os embargos sobre execução de condenações por improbidade culposa (Tema 309)",
-      "area": "publico",
-      "itemId": "pub-stf-improbidade-culposa"
-    },
     {
       "data": "2026-11-30",
       "rotulo": "Último dia para aderir à transação de dívidas de pequeno valor com autarquias federais, inclusive multas do Ibama (Edital PGF 1/2025)",
@@ -2010,10 +2004,10 @@
       "areas": [
         "publico"
       ],
-      "data": "2026-11-13",
-      "titulo": "STF julga no plenário virtual se condenações definitivas por improbidade culposa continuam sendo executadas",
-      "resumo": "Em embargos de declaração no RE 656.558 (Tema 309), o STF analisa como a invalidação da modalidade culposa de improbidade afeta condenações anteriores. O relator, ministro Dias Toffoli, propõe interromper as execuções a partir de um marco temporal, preservando situações consolidadas, e foi acompanhado por Flávio Dino. Alexandre de Moraes divergiu em parte, defendendo manter o ressarcimento ao erário. O julgamento segue de 13 a 26/11.",
-      "porQueImporta": "O resultado define se gestores e ex-gestores condenados por improbidade sem dolo ainda enfrentam execução, e como ficam ressarcimentos já fixados.",
+      "data": "2026-11-24",
+      "titulo": "STF mantém sanções de condenações definitivas por improbidade culposa anteriores à Lei 14.230/21",
+      "resumo": "No plenário virtual (13 a 23/11), o STF julgou embargos de declaração no RE 656.558 (Tema 309). Segundo a matéria, prevaleceu a divergência de Alexandre de Moraes: ficam preservados os efeitos das condenações por improbidade culposa transitadas em julgado até 25/10/2021, inclusive com execução das sanções, e o ressarcimento ao erário segue exigível por ter natureza civil. O relator, Dias Toffoli, propunha um marco em 4/11/2024 e foi acompanhado apenas por Gilmar Mendes. Os embargos da OAB foram rejeitados e os critérios para contratação direta de advogados pela Administração foram mantidos.",
+      "porQueImporta": "Gestores e ex-gestores com condenação definitiva por improbidade sem dolo, anterior a out/2021, continuam sujeitos à execução das sanções e ao ressarcimento ao erário.",
       "servicos": [
         "Assessoria jurídica a entes públicos"
       ],
@@ -2024,10 +2018,10 @@
         "ideia": "Improbidade sem dolo: o que o STF discute sobre condenações antigas e o que gestores devem acompanhar."
       },
       "oportunidade": 2,
-      "atencao": "Julgamento em andamento (só três votos até a matéria); resultado pode mudar. Só a matéria do Migalhas foi conferida, com datas de marco temporal inconsistentes no texto; confirmar no STF antes de publicar.",
+      "atencao": "Baseado só na matéria do Migalhas de 24/11; a proclamação do resultado e o acórdão não foram conferidos no site do STF. Confirmar antes de publicar.",
       "fonte": {
-        "nome": "Migalhas (13/11)",
-        "url": "https://www.migalhas.com.br/quentes/468591/stf-discute-execucao-de-condenacoes-por-improbidade-sem-dolo"
+        "nome": "Migalhas (24/11)",
+        "url": "https://www.migalhas.com.br/quentes/469138/stf-mantem-sancoes-por-improbidade-culposa-pre-reforma"
       },
       "confianca": "secundaria"
     },
@@ -3483,6 +3477,32 @@
       "fonte": {
         "nome": "Migalhas",
         "url": "https://www.migalhas.com.br/quentes/468302/trf-5-determina-remessa-de-debitos-a-pgfn-apos-prazo-de-90-dias"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-tst-teses-318-320",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-24",
+      "titulo": "TST fixa três teses: seguro garantia, dispensa de professor no início do semestre e FGTS sobre reflexos",
+      "resumo": "O Pleno do TST, em sessão virtual encerrada em 19/11, fixou os Temas 318, 319 e 320. Basta indicar o registro na Susep no corpo da apólice de seguro garantia juntada no prazo. A dispensa imotivada de professor no início do semestre letivo, ou pouco antes, é abuso do poder diretivo e gera indenização por perda de uma chance. E é possível determinar, no cumprimento de sentença, o FGTS sobre reflexos de verbas salariais deferidas, mesmo sem previsão expressa no título.",
+      "porQueImporta": "As teses orientam a Justiça do Trabalho em casos semelhantes e afetam empresas na garantia de execuções, na gestão de dispensas no setor de ensino e no cálculo de passivos trabalhistas.",
+      "servicos": [
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Três novas teses do TST e o que empresas devem revisar em garantias, dispensas e cálculos de FGTS."
+      },
+      "oportunidade": 2,
+      "atencao": "Baseado na matéria do Migalhas de 24/11 (processos 0000244-66.2025.5.08.0207, 0000279-52.2025.5.12.0033 e 0001018-79.2024.5.11.0003); teses e acórdão não conferidos no site do TST. Confirmar antes de publicar.",
+      "fonte": {
+        "nome": "Migalhas (24/11)",
+        "url": "https://www.migalhas.com.br/quentes/469139/tst-fixa-tres-novas-teses-sobre-seguro-garantia-dispensa-de-professor-e-fgts"
       },
       "confianca": "secundaria"
     }
