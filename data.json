@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T07:32:00-03:00",
+  "geradoEm": "2026-11-24T07:37:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3376,6 +3376,113 @@
       "fonte": {
         "nome": "Migalhas (24/11/2026)",
         "url": "https://www.migalhas.com.br/quentes/469133/governo-publica-regras-complementares-para-aplicacao-da-escala-5x2"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stj-improbidade-negligencia-dolo",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-20",
+      "titulo": "STJ: negligência e imperícia não bastam para condenar por improbidade após a Lei 14.230/2021",
+      "resumo": "Em decisão individual no AREsp 3.366.174, o ministro Teodoro Silva Santos absolveu um ex-secretário de Turismo de município de Mato Grosso, condenado por contratar sem licitação uma obra que não foi executada. Para o relator, imperícia e negligência são condutas culposas, e a improbidade exige dolo específico de lesar o erário. A decisão também considerou que o ressarcimento já havia sido feito.",
+      "porQueImporta": "Reforça a exigência de dolo para condenar gestores e ex-gestores por improbidade, tema sensível para quem responde por contratações públicas.",
+      "servicos": [
+        "Assessoria jurídica a entes públicos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Estático"
+        ],
+        "ideia": "Improbidade sem dolo não condena: o que o STJ lembrou ao absolver ex-secretário em caso de contrato sem licitação."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão monocrática do relator em caso concreto, sem efeito vinculante. Conferida na matéria da ConJur; a decisão em PDF não foi lida.",
+      "fonte": {
+        "nome": "ConJur",
+        "url": "https://conjur.com.br/2026-nov-20/negligencia-e-impericia-nao-sao-condutas-dolosas-e-nao-condenam-por-improbidade/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adm-tjsc-pad-violao-suspensao-anulada",
+      "areas": [
+        "administrativo"
+      ],
+      "data": "2026-11-22",
+      "titulo": "TJ-SC: suspensão de servidor que tocou violão no intervalo do café é anulada por falta de fundamentação",
+      "resumo": "A 3ª Turma Recursal de Santa Catarina manteve a anulação da suspensão de cinco dias aplicada a um servidor municipal de Guabiruba. A comissão processante havia recomendado a absolvição, mas a autoridade puniu o servidor. O colegiado entendeu que a autoridade pode divergir da comissão, desde que fundamente e enfrente as provas, o que não ocorreu.",
+      "porQueImporta": "Mostra que a decisão final em processo administrativo disciplinar precisa ser motivada, sobretudo quando contraria a comissão.",
+      "servicos": [
+        "Defesa em Processo Administrativo Disciplinar (PAD) e Ação Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Comissão do PAD recomendou absolver e a autoridade puniu mesmo assim? A decisão precisa explicar por quê."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma recursal em caso concreto (processo 5015171-59.2025.8.24.0011). A página do Migalhas traz datas divergentes de publicação e atualização; acórdão em PDF não lido.",
+      "fonte": {
+        "nome": "Migalhas",
+        "url": "https://www.migalhas.com.br/quentes/468633/servidor-punido-por-tocar-violao-na-hora-do-cafe-tem-suspensao-anulada"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "adm-tjgo-posse-diploma-formacao-pedagogica",
+      "areas": [
+        "administrativo"
+      ],
+      "data": "2026-11-21",
+      "titulo": "Justiça de Goiás garante posse de professora cujo diploma de formação pedagógica foi recusado pelo edital",
+      "resumo": "A 2ª Vara da Fazenda Pública Estadual de Goiânia concedeu liminar para manter a posse de candidata aprovada para professora de ciências e biologia. A Secretaria de Educação havia recusado a licenciatura obtida em programa especial de formação pedagógica. O juiz entendeu que o edital admite licenciatura plena inclusive por essa via e que a norma aplicável não exige identidade entre a graduação de origem e a área de docência.",
+      "porQueImporta": "Candidatos que tiveram a escolaridade rejeitada na posse podem ter caminho judicial quando o edital admite a formação apresentada.",
+      "servicos": [
+        "Concurso Público"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Diploma recusado na posse do concurso? Veja quando a Justiça tem garantido a nomeação."
+      },
+      "oportunidade": 2,
+      "atencao": "Liminar de primeiro grau (processo 5923254-96.2026.8.09.0051), sujeita a recurso e a sentença final; depende do texto do edital. Decisão em PDF não lida.",
+      "fonte": {
+        "nome": "Migalhas",
+        "url": "https://www.migalhas.com.br/quentes/468571/justica-garante-posse-de-candidata-com-diploma-rejeitado-em-concurso"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-trf5-remessa-debitos-pgfn-90-dias",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-21",
+      "titulo": "TRF-5 reconhece mora e manda remeter à PGFN débitos parados na Receita após 90 dias",
+      "resumo": "A 1ª Turma do TRF da 5ª Região, em decisão unânime, reconheceu mora administrativa e determinou o envio à PGFN dos créditos em cobrança que cumprem os requisitos do art. 2º da Portaria MF 447/18 e cujo prazo de 90 dias já se esgotou. O pedido havia sido negado inicialmente por falta de prova clara, mas a empresa demonstrou com relatórios fiscais que os parcelamentos não estavam envolvidos. O voto ressalva que a remessa não garante transação automática.",
+      "porQueImporta": "A inscrição em dívida ativa abre acesso à transação tributária e a outras formas de regularização, e a demora da administração pode ser questionada.",
+      "servicos": [
+        "Contencioso Tributário Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Débito parado na Receita há mais de 90 dias? O TRF-5 mandou enviar à PGFN."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma regional em caso concreto (processo 0005085-77.2026.4.05.0000); depende de comprovar os requisitos da portaria. Decisão em PDF não lida.",
+      "fonte": {
+        "nome": "Migalhas",
+        "url": "https://www.migalhas.com.br/quentes/468302/trf-5-determina-remessa-de-debitos-a-pgfn-apos-prazo-de-90-dias"
       },
       "confianca": "secundaria"
     }
