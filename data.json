@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T16:33:00-03:00",
+  "geradoEm": "2026-11-24T07:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3349,6 +3349,35 @@
         "url": "https://www.gov.br/agu/pt-br/assuntos-1/resolve-dividas-agu/edital/Edital"
       },
       "confianca": "primaria"
+    },
+    {
+      "id": "tra-portaria-mte-2041-escala-5x2",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-23",
+      "titulo": "Portaria MTE 2.041/2026 detalha a escala 5x2: folgas, domingos, divisores e regras para 12x36",
+      "resumo": "O Ministério do Trabalho publicou em 23/11 a Portaria 2.041/2026, com regras complementares à EC 141/2026 e ao Decreto 13.173/2026. A partir de 16/12/2026, a jornada fica limitada a 8 horas diárias e 42 semanais, com dois repousos semanais de 24 horas, um deles preferencialmente no domingo. No comércio, a folga deve coincidir com o domingo ao menos uma vez a cada três semanas. Trabalho nos dias de repouso é pago em dobro, salvo folga compensatória na mesma semana. Os divisores do salário-hora passam a 210 (42 h) e 200 (40 h, a partir de 16/12/2027), preservados divisores mais favoráveis previstos em norma coletiva ou contrato. Para quem recebe por hora, dia, tarefa, peça ou comissão, a unidade de remuneração deve ser ajustada para manter a média dos 12 meses anteriores. Na escala 12x36, as horas que superarem o limite semanal na média do mês devem ser compensadas ou pagas como extras.",
+      "porQueImporta": "A portaria traz as regras operacionais que as empresas precisam aplicar na folha e nas escalas a partir de 16/12, inclusive para comércio, horistas, comissionistas e 12x36.",
+      "servicos": [
+        "Auditoria Trabalhista",
+        "Negociação Sindical",
+        "Reclamação de horas extras"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Saiu a portaria da escala 5x2: o que muda no domingo do comércio, no salário de horistas e comissionistas e na 12x36."
+      },
+      "oportunidade": 3,
+      "atencao": "Conteúdo conferido na matéria do Migalhas, que remete ao texto da portaria; ainda há regras específicas por categoria e as ADIs 8.041 e 8.042 pendentes no STF.",
+      "fonte": {
+        "nome": "Migalhas (24/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/469133/governo-publica-regras-complementares-para-aplicacao-da-escala-5x2"
+      },
+      "confianca": "secundaria"
     }
   ],
   "blog": [
