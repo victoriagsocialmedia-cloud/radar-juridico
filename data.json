@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T10:32:00-03:00",
+  "geradoEm": "2026-11-24T16:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3503,6 +3503,87 @@
       "fonte": {
         "nome": "Migalhas (24/11)",
         "url": "https://www.migalhas.com.br/quentes/469139/tst-fixa-tres-novas-teses-sobre-seguro-garantia-dispensa-de-professor-e-fgts"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-stj-sensor-glicose-plano",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-17",
+      "titulo": "STJ: plano de saúde não pode excluir cobertura de sensor contínuo de glicose por lei expressa",
+      "resumo": "A 3ª Turma do STJ, em julgado destacado no Informativo de Jurisprudência, entendeu que não há autorização legal expressa para a operadora excluir o sensor contínuo de glicose da cobertura. Segundo a relatora, ministra Nancy Andrighi, o equipamento é produto para a saúde (dispositivo médico), como a bomba de insulina, e não medicamento domiciliar nem órtese, o que o deixa fora das exceções do art. 10 da Lei 9.656/1998. Se o item não estiver no rol da ANS, a análise do custeio deve seguir os critérios do Tema 1.316/STJ e da ADI 7.265 do STF.",
+      "porQueImporta": "Pacientes com diabetes que tiveram o sensor negado pelo plano ganham um argumento para questionar a recusa, dentro dos critérios do rol da ANS.",
+      "servicos": [
+        "Negativa de Cobertura de Plano de Saúde"
+      ],
+      "pauta": {
+        "formato": [
+          "Reels",
+          "Carrossel"
+        ],
+        "ideia": "Plano negou o sensor de glicose? O que o STJ disse sobre essa cobertura e quando vale contestar."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma, não vinculante; o número do REsp não consta na notícia do STJ e a data do julgamento não foi confirmada (data = divulgação do Informativo). Cada caso depende de prescrição médica e dos critérios do rol da ANS.",
+      "fonte": {
+        "nome": "STJ (17/11/2026)",
+        "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Informativo-de-Jurisprudencia-destaca-uso-de-prompt-injection-em-peticoes-e-cobertura-de-sensor-de-glicose-.aspx"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "civ-stj-uniao-estavel-70-anos-separacao",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-19",
+      "titulo": "STJ: tese do STF sobre maiores de 70 anos não alcança união estável encerrada antes do julgamento",
+      "resumo": "A 3ª Turma do STJ (REsp 2.217.405, relator ministro Ricardo Villas Bôas Cueva) decidiu, por unanimidade, que a tese do STF no Tema 1.236, que permite a maiores de 70 anos afastar a separação obrigatória de bens por escritura, não retroage a união estável já extinta antes dela. Os efeitos patrimoniais seguem o regime da época. A Turma lembrou ainda que a falta de inventário e partilha do casamento anterior, havendo filhos do cônjuge falecido, impõe a separação obrigatória na nova união.",
+      "porQueImporta": "Em partilhas e inventários envolvendo união estável de maiores de 70 anos, a data do fim da união e a regularização do inventário anterior influenciam o regime de bens aplicável.",
+      "servicos": [
+        "Reconhecimento de União Estável",
+        "Inventário"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "União estável após os 70 anos: o que mudou no regime de bens e por que o inventário anterior importa."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma, não vinculante. Conferida a notícia do STJ; o acórdão não foi lido.",
+      "fonte": {
+        "nome": "STJ (19/11/2026)",
+        "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Terceira-Turma-mantem-separacao-obrigatoria-em-uniao-estavel-de-maior-de-70-anos-extinta-antes-de-.aspx"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "pub-stj-parecerista-improbidade-dolo",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-24",
+      "titulo": "STJ: parecerista pode responder por improbidade se houver dolo ou má-fé, mesmo em parecer opinativo",
+      "resumo": "Por 3 votos a 2, a 2ª Turma do STJ (REsp 1.802.021, origem TJ-MS) admitiu o prosseguimento de ação de improbidade contra advogado que emitiu pareceres favoráveis a licitações apontadas como fraudulentas. Prevaleceu o voto do ministro Herman Benjamin: o dolo ou a má-fé do parecerista deve ser apurado no curso da ação, não afastado de plano. Foi lembrado o entendimento do STF de que o advogado só responde por parecer meramente opinativo em caso de culpa ou erro grosseiro.",
+      "porQueImporta": "Procuradorias e assessorias jurídicas de municípios e órgãos públicos devem documentar a fundamentação técnica dos pareceres em licitações e contratos, pois o simples caráter opinativo não afasta a apuração.",
+      "servicos": [
+        "Assessoria jurídica a entes públicos",
+        "Assessoria em Licitações e Contratos Públicos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Parecer jurídico em licitação: quando o advogado público pode responder por improbidade."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma por maioria, não vinculante, com votos vencidos. Só a matéria do ConJur (24/11) foi conferida (fonte secundária); o acórdão e a data exata da publicação não foram verificados.",
+      "fonte": {
+        "nome": "ConJur (24/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-24/advogado-responde-por-parecer-opinativo-se-agiu-com-dolo-e-ma-fe/"
       },
       "confianca": "secundaria"
     }
