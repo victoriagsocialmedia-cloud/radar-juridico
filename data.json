@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T13:33:00-03:00",
+  "geradoEm": "2026-11-25T16:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3696,6 +3696,59 @@
       "fonte": {
         "nome": "ConJur (19/11/2026)",
         "url": "https://conjur.com.br/2026-nov-19/omitir-obesidade-em-declaracao-de-plano-de-saude-e-fraude-contratual/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "emp-stj-tema-1250-honorarios-habilitacao-credito",
+      "areas": [
+        "empresarial"
+      ],
+      "data": "2026-11-04",
+      "titulo": "STJ fixa critérios para honorários em habilitação e impugnação de crédito na recuperação judicial e na falência (Tema 1.250)",
+      "resumo": "A Segunda Seção do STJ, em recurso repetitivo (Tema 1.250, por maioria, voto da ministra Isabel Gallotti), decidiu que só cabem honorários de sucumbência nesses incidentes quando houver litígio efetivo entre as partes, que não se presume pela simples abertura do incidente. Se a disputa é sobre a existência ou o valor do crédito, a base é o proveito econômico, ou seja, o montante contestado. Se envolve exigibilidade, natureza, classificação do crédito ou legitimidade, os honorários são fixados por equidade. O valor da causa deixa de ser critério autônomo.",
+      "porQueImporta": "Define com segurança quanto e quando credores e empresas em recuperação ou falência podem pagar ou receber honorários nos incidentes de crédito, e a tese vincula os tribunais.",
+      "servicos": [
+        "Contencioso Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Disputa de crédito na recuperação judicial: quando há honorários e como o STJ manda calculá-los."
+      },
+      "oportunidade": 2,
+      "atencao": "Tese de recurso repetitivo, obrigatória para os tribunais (art. 927, III, do CPC); conferir o acórdão (REsp 2.090.069 e outros) antes de citar números.",
+      "fonte": {
+        "nome": "STJ (04/11/2026)",
+        "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-STJ-fixa-criterios-para-honorarios-por-habilitacao-e-impugnacao-de-credito-em-recuperacao-ou-falencia.aspx"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "adm-tjto-concurso-antecedentes-companheiro",
+      "areas": [
+        "administrativo"
+      ],
+      "data": "2026-11-16",
+      "titulo": "TJ-TO: candidata de concurso da PM não pode ser eliminada por antecedentes do companheiro",
+      "resumo": "A Câmara de Direito Público do TJ-TO manteve a anulação da exclusão de uma candidata a concurso da Polícia Militar. Ela havia sido eliminada por suposta incompatibilidade entre padrão de vida e renda, por relacionamento com homem de antecedentes graves e por não informar um boletim de ocorrência. O relator entendeu que punir pelos atos de terceiro viola a intranscendência da pena, que o boletim arquivado não sustenta a eliminação (presunção de inocência e Tema 22 do STF) e que a acusação patrimonial não foi motivada.",
+      "porQueImporta": "Candidatos eliminados em investigação social por fatos de terceiros ou por registros arquivados podem ter fundamento para questionar o ato.",
+      "servicos": [
+        "Concurso Público"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Eliminado em concurso por causa de antecedentes de outra pessoa? O que a Justiça do Tocantins decidiu."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de tribunal estadual em caso concreto (processo 0015367-80.2026.8.27.2700), não vinculante. Só a matéria da ConJur foi conferida.",
+      "fonte": {
+        "nome": "ConJur (16/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-16/antecedente-criminal-de-companheiro-nao-pode-eliminar-candidato-de-concurso/"
       },
       "confianca": "secundaria"
     }
