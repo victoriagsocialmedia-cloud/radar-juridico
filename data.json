@@ -470,6 +470,64 @@
   ],
   "itens": [
     {
+      "id": "tra-tst-santander-metas-assedio",
+      "areas": [
+        "trabalhista",
+        "empresarial"
+      ],
+      "data": "2026-11-25",
+      "titulo": "TST restabelece indenização a bancária por metas inalcançáveis, ranking de desempenho e ameaça de demissão",
+      "resumo": "A 6ª Turma do TST, por unanimidade, restabeleceu a condenação do Santander a pagar R$ 15 mil por danos morais a uma gerente de relacionamento. Segundo testemunha, o banco fixava metas diárias inexequíveis, divulgava por e-mail rankings de produtividade de toda a agência e a gerência advertia que o descumprimento poderia levar ao fechamento do posto e à perda do emprego. O TRT da 3ª Região havia afastado a condenação por entender que a cobrança era coletiva e sem punição efetiva; o relator, ministro Fabrício Gonçalves, considerou que os fatos registrados no próprio acórdão regional mostravam abuso do poder diretivo.",
+      "porQueImporta": "Fixar metas é lícito, mas a forma de cobrança pode gerar indenização: exposição em rankings e pressão com ameaça de demissão foram suficientes para caracterizar assédio moral, mesmo em cobrança dirigida a toda a equipe.",
+      "servicos": [
+        "Auditoria Trabalhista",
+        "Consultoria na Elaboração de Políticas Internas e Documentos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Meta pode, assédio não: onde está o limite na cobrança de resultados e o que revisar nas políticas internas de gestão de desempenho."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de Turma em caso concreto, sem efeito vinculante; o valor e o enquadramento dependem da prova produzida em cada processo.",
+      "fonte": {
+        "nome": "Migalhas (25/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/469238/tst-santander-indenizara-bancaria-por-cobrar-metas-inalcancaveis"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-stj-fundacao-extinta-dividas",
+      "areas": [
+        "civil",
+        "empresarial"
+      ],
+      "data": "2026-11-25",
+      "titulo": "STJ: entidade que recebe o patrimônio de fundação extinta responde pelas dívidas, até o limite dos bens recebidos",
+      "resumo": "A 2ª Turma do STJ, por unanimidade, decidiu que a entidade destinatária do patrimônio de uma fundação extinta responde pelas obrigações remanescentes, limitada ao valor dos bens transferidos. O caso envolve a UBEC, que recebeu por previsão estatutária os bens da Fundação Universa; o STJ deu provimento a recurso do Distrito Federal para que o cumprimento de sentença prossiga contra ela. Para o relator, ministro Afrânio Vilela, o art. 69 do Código Civil não permite transferir só os ativos sem os encargos, sob pena de violar a boa-fé objetiva e a vedação ao enriquecimento sem causa. A responsabilidade decorre da incorporação do patrimônio, e não de sucessão universal ou grupo econômico.",
+      "porQueImporta": "Credores de fundações extintas podem redirecionar a cobrança a quem recebeu os bens, e entidades que recebem patrimônio de outra pessoa jurídica precisam avaliar o passivo que vem junto.",
+      "servicos": [
+        "Ações de Cobrança",
+        "Contencioso Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Post estático",
+          "Carrossel"
+        ],
+        "ideia": "Recebeu os bens, recebeu as dívidas? O que o STJ decidiu sobre o patrimônio de fundações extintas e o cuidado ao assumir ativos de outra entidade."
+      },
+      "oportunidade": 1,
+      "atencao": "Decisão de Turma, sem efeito vinculante; a responsabilidade fica limitada ao valor do patrimônio efetivamente recebido.",
+      "fonte": {
+        "nome": "Migalhas (25/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/469261/stj-entidade-que-recebe-bens-de-fundacao-extinta-responde-por-dividas"
+      },
+      "confianca": "secundaria"
+    },
+    {
       "id": "tra-trt8-volkswagen-trabalho-escravo",
       "areas": [
         "trabalhista"
