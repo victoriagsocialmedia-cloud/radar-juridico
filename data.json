@@ -470,6 +470,33 @@
   ],
   "itens": [
     {
+      "id": "tra-trt8-volkswagen-trabalho-escravo",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-24",
+      "titulo": "TRT-8 mantém condenação da Volkswagen a pagar R$ 2 milhões a trabalhador submetido a condições análogas à escravidão em fazenda no Pará",
+      "resumo": "A 3ª Turma do TRT da 8ª Região manteve, por maioria, a condenação da Volkswagen a indenizar em R$ 2 milhões (R$ 1 milhão por danos morais e R$ 1 milhão por danos existenciais) um trabalhador submetido a condições análogas à escravidão na Fazenda Vale do Rio Cristalino, em Santana do Araguaia/PA, nas décadas de 1970 e 1980. Segundo o MPT, havia vigilância armada, restrição de locomoção e servidão por dívidas. A sentença da Vara de Redenção/PA condenou a empresa em três ações individuais (R$ 6 milhões no total); apenas uma foi julgada agora. Em março, a 4ª Turma do mesmo tribunal já havia mantido condenação de R$ 165 milhões por danos morais coletivos, reconhecendo a imprescritibilidade da pretensão.",
+      "porQueImporta": "O tribunal trata a exploração de trabalho análogo à escravidão como passível de responsabilização mesmo décadas depois, e a empresa que controla a atividade responde pelas condições impostas aos trabalhadores.",
+      "servicos": [
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Post estático"
+        ],
+        "ideia": "Trabalho análogo à escravidão não prescreve: o que o caso Volkswagen mostra sobre a responsabilidade de quem controla a atividade e a importância de auditar condições de trabalho em toda a operação."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de segunda instância, por maioria, ainda sujeita a recurso ao TST; as outras duas ações individuais seguem pendentes de julgamento no TRT-8.",
+      "fonte": {
+        "nome": "Migalhas (25/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/469237/volkswagen-pagara-r-2-mi-a-trabalhador-escravizado-durante-a-ditadura"
+      },
+      "confianca": "secundaria"
+    },
+    {
       "id": "adm-doenca-grave",
       "areas": [
         "administrativo"
