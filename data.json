@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T16:32:00-03:00",
+  "geradoEm": "2026-11-25T07:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -43,6 +43,12 @@
       "rotulo": "Fim do prazo de adesão aos Editais de Transação RFB nº 9 e nº 10",
       "area": "tributario",
       "itemId": "tri-transacao-rfb-editais"
+    },
+    {
+      "data": "2026-12-31",
+      "rotulo": "Limite para o regime de caixa do Simples Nacional: valores não recebidos de operações até essa data entram na apuração de dezembro (Resolução CGSN 196)",
+      "area": "tributario",
+      "itemId": "tri-cgsn-resolucao-196-ibs-cbs"
     },
     {
       "data": "2027-01-20",
@@ -3584,6 +3590,85 @@
       "fonte": {
         "nome": "ConJur (24/11/2026)",
         "url": "https://conjur.com.br/2026-nov-24/advogado-responde-por-parecer-opinativo-se-agiu-com-dolo-e-ma-fe/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-cgsn-resolucao-196-ibs-cbs",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-24",
+      "titulo": "Simples Nacional: Resolução CGSN 196/2026 adapta o regime à transição de CBS e IBS",
+      "resumo": "O Comitê Gestor do Simples Nacional publicou a Resolução CGSN nº 196, de 16/11/2026, que atualiza as tabelas do regime para a entrada gradual de CBS e IBS e muda a composição das alíquotas durante a transição. Em regra, a receita passa a ser reconhecida no faturamento, com emissão do documento fiscal. Vendas e serviços a órgãos públicos devem ser identificados de forma específica nas declarações. Valores do regime de caixa de operações até 31/12/2026 ainda não recebidos entram na apuração de dezembro de 2026.",
+      "porQueImporta": "Micro e pequenas empresas precisam revisar apuração, emissão de notas e enquadramento antes de 2027, e há espaço para planejamento e eventual revisão de cálculos.",
+      "servicos": [
+        "Atuação Consultiva"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "O que muda no Simples Nacional com CBS e IBS e o que revisar antes de janeiro de 2027."
+      },
+      "oportunidade": 3,
+      "atencao": "Conferida a notícia da Receita Federal; o texto da resolução no DOU não foi aberto. Efeitos de IBS/CBS a partir de 1º/01/2027, conforme cronograma de transição.",
+      "fonte": {
+        "nome": "Receita Federal (24/11/2026)",
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria"
+      },
+      "confianca": "primaria"
+    },
+    {
+      "id": "tra-tst-rescisao-indireta-alta",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-24",
+      "titulo": "TST: pedidos de rescisão indireta crescem mais de sete vezes desde 2020",
+      "resumo": "Dados da Coordenadoria de Estatística do TST, noticiados pelo ConJur, mostram que os casos novos com o tema passaram de cerca de 3,5 mil em 2020 para 27,5 mil em 2025, com 21,3 mil até 27/09/2026 (dado parcial). A rescisão indireta, prevista no art. 483 da CLT, é a falta grave do empregador, como atrasos de salário ou descumprimento de obrigações. A matéria cita caso da 5ª Turma em que a data de admissão anotada na carteira divergia do início real.",
+      "porQueImporta": "Empresas ganham em revisar rotinas de registro, pagamento e jornada para reduzir risco de ações desse tipo, e trabalhadores devem conhecer as hipóteses legais.",
+      "servicos": [
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Rescisão indireta: o que a CLT considera falta grave do empregador e como a empresa pode se prevenir."
+      },
+      "oportunidade": 2,
+      "atencao": "Fonte secundária (ConJur); base de dados do TST não foi acessada. O percentual da manchete (674%) não coincide exatamente com os números do texto; evitar citar o percentual.",
+      "fonte": {
+        "nome": "ConJur (24/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-24/pedidos-de-rescisao-indireta-aumentaram-mais-de-sete-vezes-desde-2020/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-tjsc-plano-omissao-obesidade",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-19",
+      "titulo": "TJ-SC: omitir obesidade na declaração de saúde pode configurar fraude e permitir cancelar o plano",
+      "resumo": "Em sentença de primeiro grau da 3ª Vara Cível de Joinville (SC), o juiz reconheceu omissão consciente de doença preexistente na declaração de saúde, em caso em que a operadora negava a cirurgia bariátrica. Os registros mostravam obesidade anterior à contratação. O cancelamento foi autorizado, ressalvada a impossibilidade de interromper a assistência durante internação em curso.",
+      "porQueImporta": "Mostra a importância de preencher com exatidão a declaração de saúde e de saber que negativa e cancelamento exigem análise do caso concreto.",
+      "servicos": [
+        "Negativa de Cobertura de Plano de Saúde"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Declaração de saúde do plano: por que informar corretamente evita negativa e cancelamento."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de primeiro grau, sem número de processo, baseada em informações da assessoria do TJ-SC reproduzidas pelo ConJur (fonte secundária); sem precedente vinculante e sem informação sobre recurso.",
+      "fonte": {
+        "nome": "ConJur (19/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-19/omitir-obesidade-em-declaracao-de-plano-de-saude-e-fraude-contratual/"
       },
       "confianca": "secundaria"
     }
