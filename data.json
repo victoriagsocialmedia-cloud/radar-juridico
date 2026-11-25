@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T10:32:00-03:00",
+  "geradoEm": "2026-11-25T13:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -1382,10 +1382,10 @@
       "areas": [
         "empresarial"
       ],
-      "data": "2026-11-10",
-      "titulo": "STJ suspende, em caráter provisório, falência decretada quando recurso está parado no TJ/MS",
-      "resumo": "A 3ª Turma do STJ concedeu liminar (TutCautAnt 1.742, relatora ministra Daniela Teixeira) para suspender os efeitos da decisão que converteu em falência a recuperação judicial de uma indústria sul-mato-grossense, permitindo a assembleia de credores. O recurso estava pendente no tribunal estadual havia cerca de 90 dias e há risco a cerca de 600 empregos. O mérito será retomado em 17/11 com o voto-vista da ministra Nancy Andrighi.",
-      "porQueImporta": "Mostra que, em situações excepcionais e urgentes, o STJ pode intervir de forma provisória quando o recurso contra a falência demora a ser julgado.",
+      "data": "2026-11-18",
+      "titulo": "STJ reverte liminar e não suspende falência decretada com recurso parado no TJ/MS",
+      "resumo": "Em 10/11, a relatora (ministra Daniela Teixeira) havia proposto liminar para suspender os efeitos da conversão em falência da recuperação judicial de uma indústria sul-mato-grossense (TutCautAnt 1.742). Em 18/11, a 3ª Turma voltou atrás, seguindo o voto divergente da ministra Nancy Andrighi: não cabe ao STJ dar efeito suspensivo a recurso ainda sem recurso especial cabível nem rever decisão monocrática do tribunal local, e o risco de dano não cria competência. O pedido ao TJ/MS segue o seu curso.",
+      "porQueImporta": "Mostra que o caminho para frear uma falência decretada é o recurso no tribunal de origem; o STJ só atua em hipóteses muito restritas, o que pesa na estratégia de quem enfrenta a convolação da recuperação em falência.",
       "servicos": [
         "Contencioso Judicial"
       ],
@@ -1393,13 +1393,13 @@
         "formato": [
           "Carrossel"
         ],
-        "ideia": "Recuperação judicial convertida em falência: quando o STJ pode intervir de forma provisória."
+        "ideia": "Recuperação judicial convertida em falência: por que o recurso no tribunal local é o caminho e o STJ não é atalho."
       },
       "oportunidade": 1,
-      "atencao": "Liminar excepcional e provisória, em caso concreto; o mérito ainda será julgado. Só a matéria do Migalhas foi conferida.",
+      "atencao": "Decisão em caso concreto, sem número de processo além da tutela cautelar; conferida apenas na matéria do ConJur (18/11), que informa a mudança de posição da Turma. A liminar noticiada em 10/11 não prevalece.",
       "fonte": {
-        "nome": "Migalhas (10/11)",
-        "url": "https://www.migalhas.com.br/quentes/468297/demora-do-tj-ms-em-julgar-recurso-leva-stj-a-suspender-falencia"
+        "nome": "ConJur (18/11)",
+        "url": "https://conjur.com.br/2026-nov-18/risco-de-falencia-nao-justifica-liminar-do-stj-em-supressao-de-instancia/"
       },
       "confianca": "secundaria"
     },
