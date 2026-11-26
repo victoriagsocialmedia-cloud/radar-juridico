@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T07:35:00-03:00",
+  "geradoEm": "2026-11-26T07:37:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -2375,10 +2375,10 @@
       "areas": [
         "trabalhista"
       ],
-      "data": "2026-11-16",
-      "titulo": "STF retoma na quarta (18/11) a ação que questiona a exigência de indicar valor nos pedidos da reclamação trabalhista",
-      "resumo": "O plenário do STF deve julgar na quarta-feira, 18/11, a ADI 6.002, em que a OAB contesta a regra da reforma trabalhista que exige pedidos certos, determinados e com indicação de valor. O relator, ministro Zanin, já havia proposto aceitar valores estimados quando o cálculo exato for inviável e afastar a extinção automática do processo sem chance de correção, com efeitos só para ações futuras. O caso volta do zero no plenário físico, após pedido de destaque do ministro Dino.",
-      "porQueImporta": "A forma de formular os pedidos, como horas extras, define o risco de extinção do processo e o planejamento da petição inicial; a decisão pode flexibilizar essa exigência.",
+      "data": "2026-11-25",
+      "titulo": "STF valida a exigência de indicar valor nos pedidos da reclamação trabalhista, com estimativa fundamentada quando o cálculo for inviável",
+      "resumo": "Em 25/11, o plenário do STF julgou a ADI 6.002 e considerou constitucionais os §§ 1º e 3º do art. 840 da CLT, que exigem indicar o valor dos pedidos na petição inicial. Como regra, o valor indicado limita a condenação; admite-se estimativa fundamentada quando o cálculo prévio for impossível, e o autor deve poder corrigir a inicial antes da extinção dos pedidos. A modulação alcança as ações ajuizadas a partir da publicação da ata. O relator foi o ministro Zanin; Dino divergiu em parte, por entender que os valores seriam só estimativas.",
+      "porQueImporta": "Define como formular pedidos como horas extras: o valor indicado tende a limitar a condenação, o que exige cálculo e fundamentação mais cuidadosos desde a petição inicial.",
       "servicos": [
         "Reclamação de horas extras"
       ],
@@ -2387,13 +2387,13 @@
           "Carrossel",
           "Stories"
         ],
-        "ideia": "Reclamação trabalhista precisa indicar o valor de cada pedido? O que está em jogo no STF nesta quarta."
+        "ideia": "Reclamação trabalhista: o valor do pedido limita a condenação? O que o STF decidiu em 25/11."
       },
       "oportunidade": 3,
-      "atencao": "A ADI 6.002 constava da pauta do plenário de 18/11 (STF Notícias), mas o resultado do julgamento não foi localizado nesta rodada; verifique no site do STF antes de usar. A proposta do relator não é vinculante e o caso pode ter sido adiado.",
+      "atencao": "Baseado em matéria da ConJur de 25/11; acórdão e ata do julgamento ainda não conferidos no site do STF. Confirmar tese final e modulação antes de publicar.",
       "fonte": {
-        "nome": "Migalhas (16/11)",
-        "url": "https://www.migalhas.com.br/quentes/468638/stf-deve-julgar-na-quarta-exigencia-de-valor-em-pedidos-trabalhistas"
+        "nome": "ConJur (25/11)",
+        "url": "https://conjur.com.br/2026-nov-25/stf-mantem-exigencia-de-valores-na-peticao-inicial-de-acoes-trabalhistas/"
       },
       "confianca": "secundaria"
     },
@@ -3835,6 +3835,33 @@
       "fonte": {
         "nome": "ConJur (16/11/2026)",
         "url": "https://conjur.com.br/2026-nov-16/antecedente-criminal-de-companheiro-nao-pode-eliminar-candidato-de-concurso/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tra-tst-insalubre-norma-coletiva-jornada",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-25",
+      "titulo": "TST: norma coletiva não prorroga jornada em atividade insalubre sem licença prévia da autoridade competente",
+      "resumo": "A 3ª Turma do TST, em recurso relatado pelo ministro Mauricio Godinho Delgado (RR 0010649-64.2024.5.03.0134), entendeu que a norma coletiva não pode prorrogar a jornada em atividade insalubre sem a licença prévia exigida pelo art. 60 da CLT. A exceção seria a escala 12x36. No caso, de uma auxiliar de limpeza terceirizada exposta a químicos e agentes biológicos, o acordo de compensação havia sido validado nas instâncias de origem, e o TST determinou o pagamento integral das horas acima de 44 semanais, com reflexos.",
+      "porQueImporta": "Empresas com atividade insalubre e acordos de compensação ou prorrogação precisam checar a licença prévia; sem ela, o passivo de horas extras pode ser reconhecido mesmo com cláusula coletiva.",
+      "servicos": [
+        "Reclamação de horas extras",
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Acordo de compensação em atividade insalubre vale sem licença prévia? O que o TST decidiu."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão de turma, não vinculante; baseada em matéria da ConJur de 25/11, sem conferência do acórdão no site do TST.",
+      "fonte": {
+        "nome": "ConJur (25/11)",
+        "url": "https://conjur.com.br/2026-nov-25/norma-coletiva-nao-prorroga-jornada-de-empregado-insalubre-sem-aval-tecnico/"
       },
       "confianca": "secundaria"
     }
