@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T16:33:00-03:00",
+  "geradoEm": "2026-11-26T07:35:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -469,6 +469,34 @@
     }
   ],
   "itens": [
+    {
+      "id": "tra-stf-valor-pedidos-art-840",
+      "areas": [
+        "trabalhista"
+      ],
+      "data": "2026-11-25",
+      "titulo": "STF define regra do valor dos pedidos na ação trabalhista: cálculo prévio limita a condenação, estimativa só em casos justificados",
+      "resumo": "O Plenário do STF julgou a ação da OAB contra o art. 840 da CLT, incluído pela reforma trabalhista, e deu interpretação conforme a Constituição. Cada pedido deve ser certo, determinado e com indicação de valor; quando o cálculo prévio for possível, o valor indicado limita a condenação. Se a liquidação prévia não for possível (art. 324, § 1º, do CPC), basta uma estimativa justificada com elementos concretos, e nesse caso a condenação pode superar o valor estimado. Antes de extinguir pedidos que não atendam aos requisitos, o juiz deve dar oportunidade de emendar a inicial (art. 321 do CPC). Por unanimidade, a decisão vale para ações propostas a partir da publicação da ata do julgamento.",
+      "porQueImporta": "Muda a forma de preparar reclamações trabalhistas: o valor de cada pedido passa a funcionar como teto da condenação, salvo quando a estimativa for justificada, o que torna o cálculo inicial decisivo para trabalhadores e empresas.",
+      "servicos": [
+        "Reclamação de horas extras",
+        "Auditoria Trabalhista"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "O valor que você pede na ação trabalhista agora pode ser o teto do que você recebe: o que o STF decidiu sobre o art. 840 da CLT e por que o cálculo inicial ficou tão importante."
+      },
+      "oportunidade": 3,
+      "atencao": "A regra vale para ações propostas após a publicação da ata do julgamento; processos já em curso não são atingidos. Acompanhar a publicação da ata e do acórdão para a redação final da tese.",
+      "fonte": {
+        "nome": "Migalhas (25/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/469264/ao-vivo-stf-julga-exigencia-de-valores-em-acoes-trabalhistas"
+      },
+      "confianca": "secundaria"
+    },
     {
       "id": "tra-tst-santander-metas-assedio",
       "areas": [
