@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T07:37:00-03:00",
+  "geradoEm": "2026-11-26T13:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3862,6 +3862,32 @@
       "fonte": {
         "nome": "ConJur (25/11)",
         "url": "https://conjur.com.br/2026-nov-25/norma-coletiva-nao-prorroga-jornada-de-empregado-insalubre-sem-aval-tecnico/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-tcu-pedaladas-multas-afastadas",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-26",
+      "titulo": "TCU afasta multas a ex-gestores no caso das \"pedaladas fiscais\" por falta de dolo ou erro grosseiro",
+      "resumo": "Em sessão de 25/11, o Plenário do TCU, por unanimidade, afastou as multas aplicadas a ex-integrantes do governo federal em processo sobre a gestão fiscal e orçamentária de 2014. O relator, ministro Odair Cunha, entendeu que não havia elementos que demonstrassem dolo ou erro grosseiro para responsabilizar cada agente individualmente. O processo foi arquivado sem sanções individuais. A análise das contas de 2014 pelo Congresso Nacional segue pendente e não foi alterada pelo julgamento.",
+      "porQueImporta": "Reforça que a responsabilização pessoal de gestores perante tribunais de contas exige demonstração de dolo ou erro grosseiro, ponto central na defesa de agentes públicos em processos de controle externo.",
+      "servicos": [
+        "Defesa em Tribunais de Contas"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel"
+        ],
+        "ideia": "Quando o gestor público pode ser multado pelo tribunal de contas: o papel do dolo e do erro grosseiro."
+      },
+      "oportunidade": 2,
+      "atencao": "Só a matéria do ConJur (26/11) foi conferida (fonte secundária); o acórdão do TCU não foi verificado. Decisão do caso concreto, não vinculante para outros processos, e a matéria não informa se cabe recurso.",
+      "fonte": {
+        "nome": "ConJur (26/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-26/tcu-afasta-multas-a-dilma-e-auxiliares-por-pedaladas-fiscais/"
       },
       "confianca": "secundaria"
     }
