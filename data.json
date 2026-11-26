@@ -470,6 +470,60 @@
   ],
   "itens": [
     {
+      "id": "agr-tjgo-impenhorabilidade-pequena-propriedade",
+      "areas": [
+        "agrario"
+      ],
+      "data": "2026-11-26",
+      "titulo": "TJ/GO suspende expropriação de pequena propriedade rural de produtor de leite penhorada em execução bancária",
+      "resumo": "Em liminar, uma desembargadora do TJ/GO suspendeu a avaliação e a expropriação do imóvel de um produtor de leite de Itaberaí/GO, penhorado em execução de R$ 392 mil movida pelo Banco do Brasil com base em duas cédulas de crédito bancário. A primeira instância havia negado a impenhorabilidade por entender que o imóvel fora dado em hipoteca e que a exploração familiar não estava provada. No recurso, verificou-se que a hipoteca da cédula recaía sobre outra matrícula e que o imóvel penhorado não tinha gravame; a relatora considerou, em análise preliminar, preenchidos os requisitos da impenhorabilidade: área inferior a quatro módulos fiscais e exploração pelo núcleo familiar.",
+      "porQueImporta": "A pequena propriedade rural trabalhada pela família é protegida contra penhora por dívidas, e conferir a matrícula dada em garantia pode mudar o rumo de uma execução bancária contra o produtor.",
+      "servicos": [
+        "Crédito rural: execução, ações revisionais e alongamento"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Post estático"
+        ],
+        "ideia": "Sua propriedade rural pode ser penhorada? Os requisitos da impenhorabilidade da pequena propriedade familiar e por que conferir a matrícula dada em garantia."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão liminar em caso concreto, ainda sujeita a julgamento definitivo do recurso; a proteção depende da prova da área e da exploração familiar.",
+      "fonte": {
+        "nome": "Migalhas (26/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/469325/tj-go-desembargadora-suspende-expropriacao-de-pequeno-imovel-rural"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stf-prescricao-tcu-tomada-de-contas",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-26",
+      "titulo": "STF afasta condenação do TCU por prescrição: tomada de contas especial foi instaurada 16 anos após o início do prazo",
+      "resumo": "O ministro Flávio Dino concedeu mandado de segurança e afastou condenação do TCU contra o ex-sócio dirigente de uma produtora, que havia sido condenado a ressarcir R$ 1,8 milhão e pagar multa de R$ 20 mil por irregularidades na prestação de contas de projeto audiovisual financiado com incentivo fiscal em 2006. O ministro reconheceu a prescrição das pretensões punitiva e ressarcitória, porque a tomada de contas especial só foi instaurada cerca de 16 anos após o início do prazo. O TCU havia entendido que atos de apuração e notificações da Ancine interromperam a contagem.",
+      "porQueImporta": "Gestores e particulares cobrados pelo TCU muitos anos depois dos fatos podem discutir a prescrição, inclusive da pretensão de ressarcimento, antes de discutir o mérito das contas.",
+      "servicos": [
+        "Defesa em Tribunais de Contas"
+      ],
+      "pauta": {
+        "formato": [
+          "Post estático",
+          "Carrossel"
+        ],
+        "ideia": "O TCU tem prazo para cobrar? O que o STF decidiu sobre a prescrição em tomadas de contas especiais abertas muitos anos depois."
+      },
+      "oportunidade": 2,
+      "atencao": "Decisão monocrática em mandado de segurança, ainda sujeita a recurso; a contagem da prescrição depende dos atos praticados em cada processo.",
+      "fonte": {
+        "nome": "Migalhas (26/11/2026)",
+        "url": "https://www.migalhas.com.br/quentes/469329/dino-afasta-sancao-do-tcu-a-produtor-de-projeto-sobre-chico-buarque"
+      },
+      "confianca": "secundaria"
+    },
+    {
       "id": "tra-stf-valor-pedidos-art-840",
       "areas": [
         "trabalhista"
