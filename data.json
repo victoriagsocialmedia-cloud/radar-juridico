@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T07:32:00-03:00",
+  "geradoEm": "2026-11-27T07:35:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -940,33 +940,6 @@
       },
       "confianca": "secundaria",
       "atencao": "Valores são previsão divulgada pela imprensa; conferir o crédito efetivo no Tesouro Nacional."
-    },
-    {
-      "id": "pub-tcu-saude",
-      "areas": [
-        "publico"
-      ],
-      "data": "2026-07-29",
-      "evergreen": true,
-      "titulo": "TCU dá 60 dias para o governo apurar repasses da saúde acima do teto MAC",
-      "resumo": "A decisão trata de repasses de 2023 a estados e municípios acima de R$ 1 milhão e mais de 1.000% além do parâmetro, somando R$ 43,37 milhões nos casos citados. Entre os municípios listados está Curral de Cima (PB). O Tribunal apontou falhas na justificativa de repasses classificados como emergenciais.",
-      "porQueImporta": "Gestores de municípios citados podem ser chamados a se manifestar nas apurações.",
-      "servicos": [
-        "Defesa em Tribunais de Contas"
-      ],
-      "pauta": {
-        "formato": [
-          "Estático"
-        ],
-        "ideia": "Repasses da saúde sob lupa do TCU: o que o gestor deve ter documentado."
-      },
-      "oportunidade": 2,
-      "atencao": "O prazo de 60 dias já correu. Buscar o desdobramento antes de usar.",
-      "fonte": {
-        "nome": "Diário do Grande ABC (29/07)",
-        "url": "https://www.dgabc.com.br/Noticia/4338161/tcu-da-60-dias-para-que-governo-apure-repasses-acima-do-teto-para-municipios"
-      },
-      "confianca": "secundaria"
     },
     {
       "id": "tra-6x1",
