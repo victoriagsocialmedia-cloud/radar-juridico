@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T10:32:00-03:00",
+  "geradoEm": "2026-11-27T13:33:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3968,6 +3968,33 @@
       "fonte": {
         "nome": "ConJur",
         "url": "https://conjur.com.br/2026-nov-27/stj-veda-desistencia-parcial-de-ms-para-evitar-sucumbencia/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "civ-tjsp-reajuste-faixa-etaria-59-anos-pericia",
+      "areas": [
+        "civil"
+      ],
+      "data": "2026-11-26",
+      "titulo": "TJ-SP: reajuste por faixa etária aos 59 anos é anulado após perícia atuarial e valores pagos a mais devem ser devolvidos",
+      "resumo": "A 43ª Vara Cível Central de São Paulo anulou o reajuste por mudança de faixa etária aplicado a partir dos 59 anos em um plano de saúde. Com base em perícia atuarial, o juiz revisou a cláusula para usar os índices apurados pelo perito e mandou a operadora e a corretora devolverem, de forma solidária, o que foi cobrado a mais. A decisão veio depois de o TJ-SP anular sentença anterior para aplicar o Tema 1.016 do STJ e abrir a fase de prova pericial.",
+      "porQueImporta": "Quem teve o plano reajustado por idade pode verificar se o percentual foi justificado tecnicamente; a decisão mostra que a perícia atuarial pode levar à revisão do índice e à devolução do excesso.",
+      "servicos": [
+        "Negativa de Cobertura de Plano de Saúde"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Reels"
+        ],
+        "ideia": "Reajuste do plano de saúde por faixa etária: quando o aumento pode ser questionado e por que a perícia atuarial pesa."
+      },
+      "oportunidade": 2,
+      "atencao": "Sentença de primeiro grau, sem efeito vinculante e sujeita a recurso. Trata de reajuste, não de negativa de cobertura; liga-se ao serviço pelo contencioso de planos de saúde. Só a matéria do ConJur foi conferida; a decisão (processo 1005562-71.2017.8.26.0100) não foi aberta.",
+      "fonte": {
+        "nome": "ConJur (26/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-26/aumento-abusivo-de-convenio-em-razao-da-idade-gera-devolucao-de-valores/"
       },
       "confianca": "secundaria"
     }
