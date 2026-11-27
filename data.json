@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T13:33:00-03:00",
+  "geradoEm": "2026-11-27T16:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -3995,6 +3995,34 @@
       "fonte": {
         "nome": "ConJur (26/11/2026)",
         "url": "https://conjur.com.br/2026-nov-26/aumento-abusivo-de-convenio-em-razao-da-idade-gera-devolucao-de-valores/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "tri-cna-cnc-cnt-adi-8053-adiar-cbs-ibs",
+      "areas": [
+        "tributario"
+      ],
+      "data": "2026-11-26",
+      "titulo": "CNA, CNC e CNT pedem ao STF que adie a cobrança de CBS, IBS e Imposto Seletivo previstos para 2027",
+      "resumo": "Três confederações ajuizaram a ADI 8.053 no STF contra dispositivos do ADCT incluídos pela EC 132/2023 (arts. 126, 127 e 130, §1º). Pedem, em cautelar, que o início da cobrança só ocorra 90 dias após a publicação de todos os atos regulamentares e da resolução do Senado sobre as alíquotas de referência, e que o primeiro ano tenha caráter educativo, sem multas nem glosa de créditos por falhas operacionais. Apontam omissões como o crédito presumido rural, o enquadramento do produtor rural e atrasos em sistemas e documentos fiscais.",
+      "porQueImporta": "O desfecho pode alterar o calendário de adaptação das empresas à CBS e ao IBS a partir de 1º de janeiro de 2027. Até lá, convém revisar sistemas, créditos e contratos com atenção ao risco de autuação.",
+      "servicos": [
+        "Atuação Consultiva",
+        "Contencioso Tributário Judicial"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "O que as confederações pedem ao STF sobre o início da CBS e do IBS e como a empresa pode se preparar sem depender do resultado."
+      },
+      "oportunidade": 3,
+      "atencao": "Pedido ainda sem decisão; o relator não foi confirmado na matéria. Fonte secundária (ConJur); petição inicial não conferida diretamente no STF.",
+      "fonte": {
+        "nome": "ConJur",
+        "url": "https://conjur.com.br/2026-nov-26/confederacoes-recorrem-ao-stf-para-adiar-cobranca-de-tributos-previstos-na-tributaria/"
       },
       "confianca": "secundaria"
     }
