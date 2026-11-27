@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T13:32:00-03:00",
+  "geradoEm": "2026-11-27T07:32:00-03:00",
   "observacao": "Só entram notícias verificadas em fonte aberta e ligadas a um serviço do site marcosinacio.adv.br. Sem novidade verificada, nada é alterado.",
   "prazos": [
     {
@@ -1713,7 +1713,7 @@
       ],
       "data": "2026-11-11",
       "titulo": "STJ afeta a tributação da hora de repouso e alimentação após a reforma trabalhista e suspende processos no país",
-      "resumo": "A 1ª Seção do STJ afetou, em julgamento virtual encerrado em 11/11, o REsp 2.270.193, que vai definir se o valor pago pela supressão do intervalo intrajornada (hora de repouso e alimentação) tem natureza remuneratória ou indenizatória depois da Lei 13.467/2017. Foi determinada a suspensão nacional dos processos sobre o tema até a fixação da tese, que será vinculante. A relatoria da afetação ficou com o ministro Sérgio Kukina.",
+      "resumo": "A 1ª Seção do STJ afetou, em julgamento virtual encerrado em 11/11, o REsp 2.270.193, que vai definir se o valor pago pela supressão do intervalo intrajornada (hora de repouso e alimentação) tem natureza remuneratória ou indenizatória depois da Lei 13.467/2017. Foi determinada a suspensão nacional dos processos sobre o tema até a fixação da tese, que será vinculante. A relatoria da afetação ficou com o ministro Sérgio Kukina. Em 25/11, a 1ª Seção afetou também o REsp 2.278.546 (relator Kukina), que discute se a mesma verba é remuneratória ou indenizatória para fins de Imposto de Renda Retido na Fonte, com nova suspensão nacional dos processos sobre o ponto; o caso foi distribuído por prevenção ao relator do Tema 1.486.",
       "porQueImporta": "A definição afeta a incidência de contribuição previdenciária patronal, RAT e contribuições a terceiros sobre essa verba, com reflexo em passivos e em possíveis valores a recuperar.",
       "servicos": [
         "Contencioso Tributário Judicial",
@@ -1728,7 +1728,7 @@
         "ideia": "Hora de repouso e alimentação paga na rescisão ou em ação: a tributação está em discussão no STJ e o que a empresa pode revisar com cautela."
       },
       "oportunidade": 2,
-      "atencao": "Mérito ainda não julgado; não há tese fixada nem promessa de recuperação. Só a matéria da ConJur foi conferida (fonte secundária); confirmar no site do STJ quando o acórdão de afetação for publicado.",
+      "atencao": "Mérito ainda não julgado em nenhuma das duas afetações; não há tese fixada nem promessa de recuperação. Fonte secundária (ConJur); confirmar no site do STJ quando os acórdãos de afetação forem publicados.",
       "fonte": {
         "nome": "ConJur (11/11/2026)",
         "url": "https://conjur.com.br/2026-nov-11/stj-vai-decidir-tributacao-sobre-hora-repouso-alimentacao-apos-reforma/"
@@ -3942,6 +3942,33 @@
       "fonte": {
         "nome": "ConJur (26/11/2026)",
         "url": "https://conjur.com.br/2026-nov-26/tcu-afasta-multas-a-dilma-e-auxiliares-por-pedaladas-fiscais/"
+      },
+      "confianca": "secundaria"
+    },
+    {
+      "id": "pub-stf-piso-professores-tema-1218",
+      "areas": [
+        "publico"
+      ],
+      "data": "2026-11-26",
+      "titulo": "STF decide que estados e municípios devem aplicar o reajuste do piso nacional dos professores mesmo sem lei local",
+      "resumo": "Em 26/11, o Plenário do STF julgou em conjunto os Temas 1.218 e 1.324 e fixou, por maioria, que estados, Distrito Federal e municípios devem observar o valor do piso nacional do magistério atualizado por ato do Executivo federal, ainda que não haja lei local. Se o vencimento inicial não for ajustado até o fim do exercício em que a atualização for publicada, a determinação judicial de aplicar o valor reajustado é legítima. O piso vale para o vencimento inicial; os reflexos nas demais classes dependem de lei de cada ente, e o Supremo fez apelo para que sejam definidos em até 24 meses.",
+      "porQueImporta": "Impacta o planejamento orçamentário e a folha de pessoal de municípios e estados, e reduz a margem para atrasar o reajuste do piso.",
+      "servicos": [
+        "Assessoria jurídica a entes públicos"
+      ],
+      "pauta": {
+        "formato": [
+          "Carrossel",
+          "Stories"
+        ],
+        "ideia": "Piso dos professores: o que o STF decidiu e como o gestor municipal pode se organizar no orçamento."
+      },
+      "oportunidade": 3,
+      "atencao": "Fonte secundária (ConJur); o acórdão e a notícia do STF não foram abertos. A tese foi resumida pela matéria; o prazo de 24 meses é apelo, não obrigação.",
+      "fonte": {
+        "nome": "ConJur (26/11/2026)",
+        "url": "https://conjur.com.br/2026-nov-26/stf-obriga-estados-e-municipios-a-aplicar-reajuste-do-piso-dos-professores/"
       },
       "confianca": "secundaria"
     }
